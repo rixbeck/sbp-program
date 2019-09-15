@@ -865,8 +865,11 @@ elegendő.
 
 ##### 6.1.12. A zöld infrastruktúra társadalmi funkciói
 
-A városi lét 39 százalékkal növeli a hangulati zavarok, a depresszió előfordulását, 21 százalékkal fokozza a szorongásos betegségek megjelenését és megduplázza a skizofrénia kialakulásának
-valószínűségét.33 A városlakó jólléte csökken a város ingergazdagsága, az állandó információáradat, a természettel való kapcsolat hiánya, a mozgásra, sétára, biciklizésre, társas érintkezésre
+A városi lét 39 százalékkal növeli a hangulati zavarok, a depresszió előfordulását, 21 százalékkal [fokozza a szorongásos betegségek megjelenését és megduplázza a skizofrénia kialakulásának
+valószínűségét](# 
+" Peen J, Schoevers RA, Beekman AT, Dekker J., The current status of urban–rural 
+differences in psychiatric disorders. Acta Psychiatrica Scandinavica 121:84–93 (2010) 
+doi:10.1111/j.1600-0447.2009.01438.x"). A városlakó jólléte csökken a város ingergazdagsága, az állandó információáradat, a természettel való kapcsolat hiánya, a mozgásra, sétára, biciklizésre, társas érintkezésre
 alkalmatlan terek, az elmagányosodás és a városi személytelenség következtében. Az ember évezredeken át élt a természettel
 összhangban, szoros emberi kapcsolatok kötelékében, egészséges táplálékot fogyasztva, rendszeres mozgást végezve, feldolgozható mennyiségű információk és ingerek gyűrűjében. Könnyű
 belátni, hogy a város természetellenes környezet számunkra,
@@ -875,7 +878,10 @@ amit a várostervezés során is figyelembe kell venni.
 ##### 6.1.13. A Sétáló Budapest program vállalásai a zöld infrastruktúra társadalmi funkcióiért
 
 Egy amerikai kutatás szerint a városlakók elégedettségérzete a
-következő várostervezési irányvonalak mentén fokozható:34
+következő [várostervezési irányvonalak](# 
+"Kevin M. Leyden, Abraham Goldberg, Philip Michelbach, Understanding the 
+Pursuit of Happiness in Ten Major Cities. Urban Affairs Review 47:861–888 (2011)
+ doi:10.1177/1078087411403120") mentén fokozható:
 * hatékony közösségi közlekedés és biciklivel biztonságosan
 bejárható város (részletek a Közlekedés című fejezetben);
 * gyalogosközpontú téralakítás (részletek a közlekedésről,
@@ -892,11 +898,14 @@ elősegítése (a városarculatnál, a városszerkezetnél és az
 A Sétáló Budapest program keretében növeljük az egy főre jutó
 biológiailag aktív zöldterületek arányát, mivel _„az empirikus
 tapasztalatokon alapuló felmérések mellett számos pszichológiai
-és fiziológiai vizsgálat igazolja, hogy a városi »zöld« jelentős mértékben támogatja a városlakók jóllétét, mentális egészségét”._ 35 A
+és [fiziológiai vizsgálat igazolja](http://budapest.hu/Lapok/Kiemelt-fejleszt%C3%A9si-c%C3%A9lok,-k%C3%A9zik%C3%B6nyvek.aspx 
+"Budapest zöldfelületi rendszerének fejlesztési koncepciója, 2017"), hogy a városi »zöld« jelentős mértékben támogatja a városlakók jóllétét, mentális egészségét”._ 35 A
 természettel való tényleges kontaktust kiegészítve természeti elemeket ábrázoló falfestményekkel, képzőművészeti alkotásokkal
 is folyamatos kapcsolatot biztosítunk a természettel.
 
-A mentális egészség fokozása érdekében városszerte több gyógyító kertet36 (pl. IBIS Healing Garden37) is kialakítunk, ahova
+A mentális egészség fokozása érdekében városszerte több [gyógyító kertet](# 
+"Olyan kert, ami különböző hangulati és térelemek segítségével stimulálja az érzékszerveinket és megnyugtatja az idegrendszerünket.") 
+(pl. [IBIS Healing Garden](http://kozossegikertek.hu/garden/ibis-healing-garden/)) is kialakítunk, ahova
 elvonulhatnak a városi létben megfáradt városlakók. A jó ébrenléthez és jó alváshoz szükséges körülmények megteremtése
 érdekében mérsékeljük a zaj- és fényszennyezést, valamint a
 közterületi reklámok, hirdetések mennyiségét.
@@ -905,17 +914,17 @@ A városi zöld tereket kizárólag akkor használják a városlakók, ha
 biztonságosnak érzik azokat, ezért a közbiztonság fokozását is
 szem előtt tartjuk.
 
-Szemléletformálási és oktatási célzattal közparkokban, természetvédelmi területeken természetismereti programokat, például fajleltározást (BioBlitz38) tartunk, hogy szorosabbá fűzzük a városlakók és az
+Szemléletformálási és oktatási célzattal közparkokban, természetvédelmi területeken természetismereti programokat, például fajleltározást ([BioBlitz](http://greenfo.hu/hirek/2017/05/30/bioblitz-24-oras-fajleltarozas-laikusokkal)) tartunk, hogy szorosabbá fűzzük a városlakók és az
 őket körülvevő környezet viszonyát, illetve mérsékeljük az „amit nem
 ismerünk, ahhoz nem kötődünk, azzal nem törődünk” elv hatását.
 
 Kiemelt fontosságú a mozgásra, aktív életvitelre motiváló városi
 megoldások alkalmazása: lépcsőzésre, gyaloglásra, biciklizésre,
 rollerezésre alkalmas útvonalak; mozgásra inspiráló jelzések, grafikák, utca- és falfestmények; parkokba kihelyezett testmozgásra
-késztető infrastrukturális elemek; sétaösvények, pl. Szívösvény.39
+késztető infrastrukturális elemek; sétaösvények, pl. [Szívösvény](http://www.szentferenckorhaz.hu/index.php?id=ut-az-egeszseghez).
 
 Az elmagányosodás, a városi személytelenség ellen több programelemmel is fellépünk:
-* több közösségi kert40 kialakítása a fővárosban, akár a közparkok területén is;
+* több [közösségi kert](http://kek.org.hu/projekt/kertek/) kialakítása a fővárosban, akár a közparkok területén is;
 * iskola- és óvodakertek kiépítése a szülőközösségek bevonásával – lehetőség szerint az intézmények udvarán, ha erre
 nincs lehetőség, akkor a legközelebbi parkban;
 * lakóközösségek, szomszédságok létrejöttének elősegítése
@@ -931,17 +940,6 @@ táplálkozás hírnökeiként is funkcionálnak.
 Az alább felsorolt elemek részletes bemutatását a fejezet többi
 részében már megtettük; ide zónánként gyűjtöttük ki az fő fejlesztési irányokat.
 
-33 Peen J, Schoevers RA, Beekman AT, Dekker J., The current status of urban–rural differences in psychiatric disorders. Acta Psychiatrica Scandinavica 121:84–93 (2010)
-doi:10.1111/j.1600-0447.2009.01438.x
-34 Kevin M. Leyden, Abraham Goldberg, Philip Michelbach, Understanding the Pursuit of Happiness in Ten Major Cities. Urban Affairs Review 47:861–888 (2011)
-doi:10.1177/1078087411403120
-35 Budapest zöldfelületi rendszerének fejlesztési koncepciója, 2017 – http://budapest.hu/Lapok/Kiemelt-fejleszt%C3%A9si-c%C3%A9lok,-k%C3%A9zik%C3%B6nyvek.aspx
-36 Olyan kert, ami különböző hangulati és térelemek segítségével stimulálja az érzékszerveinket és megnyugtatja az idegrendszerünket.
-37 http://kozossegikertek.hu/garden/ibis-healing-garden/
-38 http://greenfo.hu/hirek/2017/05/30/bioblitz-24-oras-fajleltarozas-laikusokkal
-39 http://www.szentferenckorhaz.hu/index.php?id=ut-az-egeszseghez
-40 Például http://kek.org.hu/projekt/kertek/
-
 ##### 6.2.1. Zöld infrastruktúra a központi sétálózónában
 
 Budapest belső kerületeiben a zöldfelület aránya rendkívül alacsony: az épített környezetben apró oázisokként jelennek meg
@@ -955,7 +953,8 @@ legkritikusabb: a légszennyezés, a hősziget-hatás ezeken a területeken igen
 növelésére csak alternatív módokon (zöldtető, zöldhomlokzat)
 van lehetőség. Az aktuális zöld infrastruktúra-fejlesztési koncepció sem derűlátó: „A belvárosban és más intenzíven beépített
 területeken jellemzően nincs már lehetőség újabb zöldfelületek
-létesítésére, ezért itt csak alternatív megoldásokkal lehet élhetővé alakítani a környezetet. Ilyen alternatív megoldás a zöldtetők, zöldhomlokzatok létesítése”41
+létesítésére, ezért itt csak alternatív megoldásokkal lehet élhetővé alakítani a környezetet. Ilyen alternatív megoldás a [zöldtetők, zöldhomlokzatok](# 
+"Budapest zöldfelületi rendszerének fejlesztési koncepciója, 2017.") létesítése”.
 
 A Sétáló Budapest programmal viszont szintet léphetünk a
 belső kerületek zöldfelületi fejlesztésében: a parkoló autók
@@ -970,7 +969,8 @@ a sétálózóna zöld borítottságát!
 A zöld tömeg növelésével a műszaki lehetőségek határáig el kell
 menni. Burkolat-, illetve közműfelújítások esetén a közművek elhelyezését úgy kell megoldani, hogy a növényzet telepítése lehetővé
 váljék; a közművek elhelyezkedésétől függően az utca két szélén
-vagy középen alakíthatók ki zöld sávok. A közműveket és a burkolatokat a létező műszaki útmutatások – vízérzékeny tervezés, vízáteresztő burkolatok42 – figyelembe vételével szükséges kivitelezni
+vagy középen alakíthatók ki zöld sávok. A közműveket és a burkolatokat a létező műszaki útmutatások – [vízérzékeny tervezés, vízáteresztő burkolatok](# 
+"A Zöld Infrastruktúra Füzetek sorozat kötetei") – figyelembe vételével szükséges kivitelezni
 – kerülve az ideiglenes (ezért örökké úgy maradó) megoldásokat.
 Mindezek mellett az egyéb speciális pontszerű elemek – zöldtető, tetőkert, esőkert, zöld homlokzat stb. – kialakítására, alkalmazására is törekedni kell.
 
@@ -1024,13 +1024,9 @@ megőrzésében, karbantartásában. A Sétáló Budapest program
 keretében figyelmet kívánunk fordítani a magánterületeken
 álló fákra, fasorokra – ezeket ugyanúgy az egységes kataszterbe
 kívánjuk vonni és hasonló szabályozással illetni. Tájékoztató
-
-41 Budapest zöldfelületi rendszerének fejlesztési koncepciója, 2017.
-42 A Zöld Infrastruktúra Füzetek sorozat kötetei
-
 anyagokkal szorgalmazni fogjuk a magánkertekben az uniform
 örökzöldek helyett az őshonos növényfajok alkalmazását és a
-madárbarát kertek kialakítását.43
+[madárbarát kertek](http://www.mme.hu/madarbarat_kert_program) kialakítását.
 
 A kertvárosi területeken a belső területekhez viszonyítva komolyabb lehetőségek nyílnak a csapadékvíz megőrzését, szűrését
 szolgáló létesítmények kialakítására. Ennek érdekében külön
@@ -1043,8 +1039,10 @@ A jelenlegi városszerkezeti adottságok mellett ezek a területek
 jelentik (a kapcsolódó ipari barnamezős területekkel együtt) a
 zöld infrastruktúra érdemi, jelentős bővítési és hálózattá szervezésének lehetőségeit. A vasúthálózat mentén több mint 150
 kilométernyi lineáris zöldfelület-fejlesztési lehetőség adódik,
-ezt egészíthetik ki a felhagyott vasútállomások, rendezők és
-egyéb üzemi területek.44 A vasúthálózatot követő zöldfelületi
+ezt [egészíthetik ki](# 
+"Hutter Dóra: Budapest zöldfelületi rendszerének fejlesztése vasúti rozsdaövezetek felhasználásával, 
+doktori disszertáció, BCE Tájépítészeti és Tájökológiai Doktori Iskola, 2015") a felhagyott vasútállomások, rendezők és
+egyéb üzemi területek. A vasúthálózatot követő zöldfelületi
 fejlesztések sétautakkal, kerékpárutakkal kiegészülve jelentős
 lökést adhatnak a főváros teljes besétálhatósága és kerékpározhatósága, illetve a zöldterületek hálózattá szervezése irányába – ilyen például a Városliget, a Népliget és a Kopaszi-gát
 környékének összekötése. Figyelni kell arra, hogy a vasutak melletti kihasználatlan területeken, illetve védősávokban a MÁV-val
@@ -1068,10 +1066,239 @@ zöld területek is találhatók – spontán gyomosodás, cserjésedés
 következtében. A barnamezős területek részben maguk is tartós zöldfelületté fejleszthetők, másrészt ezek a területek védik
 a többi (zöld) területet a beépítéstől. Ilyen szintű barnamezős
 területi ellátás mellett nem engedhető további zöld felületek
-elvesztése, leszalámizása (pl. Orczy-kert, Kopaszi-gát)
+elvesztése, leszalámizása (pl. Orczy-kert, Kopaszi-gát).
 
-Barnamezős területek Budapesten – forrás: Barnamezős területek
-katasztere, 201546
+* _Barnamezős területek Budapesten – forrás: [Barnamezős területek katasztere](http://budapest.hu/Lapok/Kiemelt-fejleszt%C3%A9si-c%C3%A9lok,-k%C3%A9zik%C3%B6nyvek.aspx), 2015_ 
 
 A barnamezős területeket a lehető legnagyobb arányban a zöldfelületi rendszer hiányzó vonalas és pontszerű elemeinek pótlására kell használni, átmeneti vagy tartós zöldfelületi használattal, közösségi funkciók kialakításával.
 
+#### 6.3. Fenntartható zöldfelület-gazdálkodás
+
+Ahhoz, hogy a főváros fenntarthatóan tudjon gazdálkodni a
+zöldvagyonnal,
+* megfelelő célokra, hozzáállásra,
+* megfelelő szervezeti struktúrára,
+* a használattal és a használókkal való megfelelő
+kooperációra.
+Ezen követelmények teljesítéséről egy-egy példán keresztül írunk.
+
+##### 6.3.1. Természetvédelem a városban – városi biodiverzitás
+
+A főváros területének mintegy 7%-án országos jelentőségű
+védett természeti területek találhatók, ezekkel átfedésben
+pedig jelentős az európai közösségi jelentőségű, úgynevezett
+[Natura 2000](http://ec.europa.eu/environment/nature/natura2000/) besorolású területek kiterjedése. 
+Mindezek mellett Budapesten 36 helyi jelentőségű, azaz fővárosi védettségű
+természeti terület található összesen 850 hektár kiterjedésben.
+A fővárosi természetvédelmi oltalom alatt álló területek őrzése,
+kezelése általában megoldott, erre jelenleg megfelelő számú
+terepi szakember áll rendelkezésre. A zöld infrastruktúra vonalas és pontszerű elemeinek fejlesztése a védett területekkel való
+ökológiai kapcsolatokat erősíti, a védett élőlények terjedését,
+potenciális életterét növeli.
+
+Az inváziós növény- és állatfajok elleni fellépés a főváros szintjén is rendkívül fontos természetvédelmi és humán-egészségügyi vonatkozású probléma. A természetvédelmi szakmai
+szervezetek közreműködésével megalkotjuk az inváziós fajok
+fővárosi kezelési terveit a megelőzés, visszaszorítás és a védekezés különböző módozatainak kidolgozásával. Célzott kommunikációs kampányokkal, szigorú ellenőrzéssel és szankcionálással kívánunk fellépni a hobbiállatok (pl. hal- és teknősfajok)
+természetbe való juttatása ellen.
+
+###### Természetbarát kártevőirtás
+
+A szúnyogirtás témaköre a természetvédelmi vonatkozások mellett egyre hangsúlyosabban előkerül a humán-egészségügyi
+szempontból is: klímaváltozás és ezzel összefüggésben az inváziós,
+idegenhonos szúnyogfajok megjelenése olyan betegségeket is
+magával hozhat, amelyek közegészségügyi hatása jelentős lehet.
+Mivel a Sétáló Budapest programban a zöld és kék infrastruktúra
+területének növelését tervezzük, a potenciális szúnyogélőhelyek
+felülete is megnő – ez a jövőben kezelendő problémát jelent.
+
+A gyakorlatban leggyakrabban alkalmazott kémiai irtás nem
+szelektív, negatívan hat például a méhekre, a halakra és a kétéltűekre és a táplálékbázison keresztül a madarakra és a denevérekre is (így paradox módon a szúnyoglárvákat fogyasztó, azok
+mennyiségét természetes módon szabályozó élőlényekre).
+
+A nem szelektív kémiai védekezést nem tartjuk elfogadhatónak.
+A biológiai védekezés technológiája ismert, ennek alkalmazásával helyettesíthető lehet a kémiai védekezés. A [biológiai](http://www.csiplekalapitvany.hu/)
+védekezés végrehajtása felkészültséget, és adott esetben az
+ingatlantulajdonosokkal való kapcsolattartást igényli, de ezek
+a [ráfordítások](http://www.mme.hu/a_szunyogirtas_termeszetvedelmi_kockazatai_es_biologiai_megoldasai) 
+összevethetőek költségben az egyébként meglehetősen drága repülőgépes irtásokkal.
+
+A védekezés mellett igen fontos lehet a szintén települési,
+valamint lakókörnyezeti szintű kisebb praktikák alkalmazása
+és ezek népszerűsítése, amelyek egyébként is elviselhetőbbé
+teszik a településeken a szúnyogok jelenlétét. Ilyenek a fizikai
+védekezés különféle módjai, mint a szúnyoghálók alkalmazása,
+az ultrahangos riasztás, továbbá a szúnyoglárva-élőhelyek felszámolása a lakókörnyezetben, kertben, ingatlanokon, szeméttelepeken (sőt, az illegális szemét felszámolásával), valamint
+madár- és denevérbarát épületfejlesztések, karbantartások.
+
+A Sétáló Budapest programban nagy hangsúlyt kívánunk adni a
+„helyet a biodiverzitásnak” programrésznek, amely a különböző
+települési környezetekben – a paneltól a kertvárosig – célzott élővilág-védelmi intézkedéseket tartalmaz. Ennek kidolgozásában
+és megvalósításában a természetvédelmi társadalmi szervezetek
+szakmai támogatására és a közösségi aktivitásra számítunk.
+
+Az utóbbi időben a Bábolna Zrt. kiakolbólítása és a helyébe
+lépett új patkányirtó cég elégtelen munkavégzése miatt előtérbe került a patkányirtás kérdése is. A Sétáló Budapest program célja, hogy ismét patkánymentesnek tekinthető legyen a
+főváros, ahogy az az elmúlt majd’ 50 évben volt. Mindamellett
+azonban, hogy a magasan urbanizált területeken elengedhetetlen az állomány teljes kiirtása, a kertvárosok, és végül a természetközeli területek felé haladva ez egyrészt egyre nehezebbé,
+másrészt egyre veszélyesebbé válik. A hagyományos és megbízható mérgezett csalétekkel való etetés kárt tesz a természetes
+állatvilágban is, és az alternatív (természetes) táplálékforrások
+megléte miatt már nem is hatékony.
+
+Emiatt kezdetben, illetve legalább a természetvédelmi területek közelében, a Natura2000-es területek környezetében – a
+kapacitás erejéig – a patkányirtás hagyományos (vadászati)
+módszereit javasoljuk. Ezek koncentrált, akut közbelépéskor
+nem garantálják a 100%-os patkánymentesítést, azonban rutinszerűen végezve fenntarthatják a majdnem patkánymentes
+állapotot. Ha ez a módszer általánosan sikeresnek mutatkozik,
+nagyon óvatos és túlbiztosított átállást javasolunk a természetközeli területeken általában.
+
+##### 6.3.2. Zöldinfrastruktúra-fenntartási és -fejlesztési ügyosztály kialakítása
+
+A fővárosi önkormányzat állományában szükséges egy kifejezetten a zöld infrastruktúra fenntartásával, tervezésével és fejlesztésével kapcsolatos feladatokat ellátó csoport kialakítása.
+
+A zöldterületek állandó felügyeletére és karbantartására képzett
+parkőrök alkalmazását tervezzük, a fák, fasorok ápolását megfelelő technikai eszközökkel felszerelt, szakképzett faápolókkal
+végeztetjük – ez a FŐKERT jelenlegi feladatkörének áttekintését,
+és személyi állományának növelését kívánja meg.
+
+Szintén ennek a szervezetnek a feladata, hogy az elmúlt években a Főváros megrendelésére elkészített, zöld infrastruktúrával foglalkozó tanulmányok, fejlesztési koncepciók alapján, a
+hazai és nemzetközi módszertani útmutatók felhasználásával
+Zöldinfrastruktúra-fejlesztési és -fenntartási akciótervet (ZIFFA)
+készítsen Budapest számára, kerületenként külön alfejezetekkel.
+
+Programunk célkitűzéseinek megfelelően a feladatok egy-egy
+fontos szelete a munka alapját képező új nyilvántartások, adatbázisok elkészítése, illetve a közösségi hozzájárulások bekötése
+a szervezet feladatvégzésébe.
+A fővárosi ökoszisztémaszolgáltatás feltérképezése
+A zöld infrastruktúra kiterjedésének, hálózatosságának és
+minőségének folyamatos monitorozása mellett a különböző
+funkciók felmérése, térképezése és változásaik monitorozása
+hasonló fontosságú. Ezek a felmérések láthatóvá teszik a városi
+zöld infrastruktúra valódi értékét, és helyezik el megfelelő súl�lyal a döntéshozatali folyamatokban a zöldterületek fejlesztését,
+mint városfejlesztési opciót. Az ökoszisztémák térképezésére
+az utóbbi évtizedben számos módszertani fejlesztés történt –
+remek [nemzetközi példák](http://publications.jrc.ec.europa.eu/repository/bitstream/JRC100016/lb-na-27706-en-n.pdf) állnak rendelkezésre.
+
+Egységes fővárosi zöldvagyon-nyilvántartás „zöldfelület-kataszter” kialakítása, amelynek részét képezi a fővárosi fakataszter
+– egységes tartalommal, valamennyi kerületre vonatkozóan –
+beleértve a magánterületeket is. A zöldfelület-katasztert az egyéb
+zöldfelület-felméréssel, -gazdálkodással kapcsolatos adatbázisokkal együtt integrálni kell a Főváros nyilvánosság számára elérhető [térinformatikai adatbázisába](https://geoportal.budapest.hu/home/).
+
+Modern érzékelési technikákat alkalmazó egységes protokollokkal dolgozó monitoringrendszer kialakítása a fővárosi zöld infrastruktúra állapotának, változásainak felmérésére és követésére.
+Biztosítani kell adatbázisok nyilvánosságát, ugyanakkor protokollt
+kell kidolgozni az adathasználatra vonatkozóan. Nem folytatható
+tovább az az egyébként rendszeresen előforduló gyakorlat, hogy a
+közigazgatás egyes intézményei egymástól pénzért vásárolják meg
+– ha tudják – a munkájukhoz szükséges adatbázisokat.
+
+###### Közösségi tervezés és monitoring
+
+Markáns közösségi részvételt tervezünk a zöldfelület-kataszter
+létrehozásában és fejlesztésében, a zöldterületek kialakításának és funkcióinak tervezésében (a TÉR-KÖZ projekthez hasonlóan) és a zöld felületek folyamatos monitorozásában. Egy ilyen
+rendszerre példa a [www.muemlekem.hu]().
+
+A közösségi tervezés és felügyelet megszervezése e területen is
+az interneten zajolhat. Erre egy külföldi (csehországi) példa a
+[LIFE Tree Check honlap](https://www.lifetreecheck.eu/en/) és applikáció.
+
+##### 6.3.3. A zöld infrastruktúra egy tipikus és fontos használata: kutyás Budapest
+
+A zöld infrastruktúra a várost meghatározó alaprendszer, és
+emiatt annak minden folyamatával valamilyen kapcsolatot
+ápol. Ezt a kapcsolatrendszert kiválóan illusztrálja a kutyás
+zöldterülethasználat és ennek szerteágazó szakpolitikai
+aspektusrendszere.
+
+###### A Kutyával Sétáló Budapest alapelvei
+1. Pozitív kommunikációval motiválni a felelős kutyatartást
+2. Tiszta és érthető szabályok megfogalmazásával megelőzni a
+konfliktusokat
+3. A kutyatartási infrastruktúra korszerűsítése
+4. A hatékonyság növelése a meglévő lehetőségek láthatóvá
+tételén keresztül
+5. A lakosság informálása a közös szabadidőtöltésre alkalmas
+helyekről
+6. Célunk elérni, hogy a kutyás közösség pozitív szereplő
+lehessen a közösségi együttélés során
+
+Mindezek a városmarketinges-kommunikációs-arculati, szabályalkotási, infrastruktúra-fejlesztési és -gazdálkodási, valamint
+közösségfejlesztési feladatok felfoghatóak úgy is, mint a zöld infrastruktúra szakterületében egy részterület és az aköré szervezett, kapcsolódó más részterületek együtteséből kinövő kicsi, új
+ágazati feladatrendszer. Természetesen ugyanígy szervezhettük
+volna ezt az új feladatrendszert a kutyatartás iránti társadalmi
+igény kielégítése mint városi funkció köré, vagy a kutyatartó
+városi közösség önkormányzati munkába való bekapcsolása
+köré is. A város mint társadalmi rendszer vagy a közösségi
+önkormányzás ugyanolyan átfogó rétegei a város működtetésének, mint az őt behálózó zöld infrastruktúra fenntartása.
+
+###### A városi kutyatartás társadalmi célrendszere
+
+A városban, ahol kutyánkkal élünk, a kutyatartás érték. A város
+lakói egységként tekintenek a gazdi-kutya párosra. A felelősen
+viselkedő kutya-gazda páros ismert és tiszteletben álló tagjai a
+közösségnek. A kutyás és kutyát nem tartó városlakó által elismert közösségi szemléletmód a kutyatartás, melyből adódó
+közösségi kutyás kultúrát a szereplők közösen tartják fenn.
+
+###### Problémafelvetés a mai Budapesten
+
+[Magyarországon a kutyák száma](http://www.fediaf.org/component/attachments/attachments.html?task=attachment&id=2019 
+"European Pet Food Industry Federation, FEDIAF Facts and Figures 2017.") körülbelül kétmillió,53 melybe
+beletartoznak a gazdás és kóbor ebek egyaránt, és ami évrőlévre emelkedik. Budapesten majd [minden negyedik felnőtt](https://www.cofidis.hu/kutyaszemmel 
+"A Cofidis Kutyaszemmel elnevezésű országos reprezentatív felmérése 2018.")
+állampolgár kutyatartó, így a kutyatartás szabályozása a budapesti lakosság jelentős részét érinti. Az évek során sokat javult a
+kutyák szerepe és hasznossága a társadalomban. Egyre inkább
+elfogadottá válik az a tény, hogy a kutya társállat, a kutyatartásnak pozitív hatásai vannak az életminőségre, a gyermekek fejlődésére, a gazdik testi-lelki egészségére, s ezt tudományos eredmények is alátámasztják. Ezen felül a szolgáltatások terén is
+egyre többen nyitnak a társadalom kutyás csoportja felé.
+
+Ezzel szemben az ebtartással kapcsolatos rendeletek nem követték a társadalmi változásokat, az ebrendeletek sem tartalmukban, sem szemléletmódjukban nem változtak sokat. Mára a legtöbb, az ebtartást a közösség szempontjából szabályozó rendelet
+tartalmában elavult vagy ellentmond más jogszabályoknak.
+
+Az emelkedő kutyalétszámmal és az így növekvő igényekkel
+nem számoló szabályozás is eredményezi, hogy a magyarországi
+kutyatartásra jellemző a nem szabálykövető magatartás. Ennek
+ellenére, habár az elmúlt tíz évben ugrásszerűen megnövekedett
+a kutyák száma – s ez a tendencia a további növekedés felé mutat
+–, nem váltak veszélyesebbé az utcák, sőt több tekintetben is javulás figyelhető meg a közösségi kutyatartás terén.
+
+Állandó problémát a kutyások és „nem kutyások” közötti ellentét jelent, bár kialakulóban van egy megegyezési folyamat,
+melyet az önkormányzati kutyás stratégiák tovább erősítenek.
+A konfliktus gyökerét az jelenti, hogy a „nem kutyások” elvárják
+a szabályok betartását, míg a kutyatartók a nevelés előtérbe
+helyezését, a szabályok lazítását, a tényleges kutyás közösségi
+részvétel tükrözését tartják a legfontosabbnak, és a [hátrányos
+megkülönböztetés felszámolását](# 
+"A szabálykövetés vélt vagy valós hiánya miatt a közösség és kritikusai között kialakuló ellentétre, 
+s az ebből eredő szemléletformálás kontra tiltás dilemmára közeli példa a  városi környezetről szóló 
+fejezetben részletezett kutyagumiprobléma. Városvezetőként szinte mindig szintetizálni kell az álláspontokat.") szeretnék.
+
+Sokan hajlandóak lennének akár [kutyás vizsgát](https://en.wikipedia.org/wiki/Canine_Good_Citizen 
+"Ennek az USA-ból kiindulva már létezik gyakorlata Canine Good Citizen (CGC) néven. További információ: ") 
+is tenni annak érdekében, hogy e megkülönböztetés alól mentesüljenek,
+és több szabadságot kapjanak a kutyájukkal való közösségi
+együttélés során. Ilyen például a szabad, azaz póráz nélküli
+kutyasétáltatás lehetőségének bővítése is, szabad parkhasználat azokon a területeken, ahol ez más, mindenki számára elfogadottan jogos érdeket, funkciót nem zavar.
+
+Ezen új társadalmi életforma jellemzője, hogy sok szempontja
+még pontosan nincs meghatározva és sokszor objektív paraméterek helyett egy közösségi optimalizálás az, amely fenntartható és jól működő megoldást szülhet. A városi kutyatartás
+mára életmóddá vált, mely a társadalom minden részét egyaránt érinti, ám ennek közösségi felismeréséhez, a tanuláshoz és
+a helyzet elfogadásához még idő szükséges.
+
+###### A fővárosi kutyás (zöld) infrastruktúra fejlesztési célkitűzései
+
+A kompakt város követelményeinek megfelelően [500 m](# 
+"Lásd a városszerkezeti fejezetet. Ez a napi teendők maximálisan használható elérési távolsága.")-es
+körzetben [szabad kutyázásra kijelölt zöld területeket kell
+kialakítani](# "Az EB OVO Egyesület saját felmérése 2016-ban szintén ezt az eredményt mutatja; 
+ez az a távolság, amit megtesz egy kutyatartó a szabad lemozgatásra, s ha ez nincs meg, 
+nem kijelölt területet választ.") minden városrészben.
+
+Felül kell vizsgálni, hogy melyek azok a területhasználati formák – vannak-e egyáltalán –, amelyek indokolnák a kutyák és
+azok kísérőinek teljes mértékű kitiltását. Például indokolatlan
+tiltás az, amit egy felsőbbrendű [jogszabály](https://net.jogtar.hu/jogszabaly?docid=A0100064.TV 
+"2001. évi LXIV. törvény a kulturális örökség védelméről") rendel el, azaz nem
+az önkormányzat hatáskörébe tartozik, pl. Kossuth tér.
+
+A fejlesztések a komplex közterülethasználat szellemében, a teljes lakóközösség közterülethasználatát együtt vizsgálva, a szokásrendet ismerve, a kerületi fejlesztési irányvonalakat integrálva készüljenek el.
+
+A stratégiai fejlesztési irányok tekintetében szükséges kiemelni
+a barnamezős területek funkcióváltását. Nemcsak a közvetlenül
+kutyás célra (is) használt nagy zöld területek kijelölésének lehetősége miatt, hanem például funkcióváltáskor lehetséges több
+olyan nagyobb iroda, cég megtelepedése, amelyek kutyabarátok.
