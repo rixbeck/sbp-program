@@ -17,7 +17,7 @@ vesszük; ahol a gyors kármentesítés nem elérhető, ott is megakadályozzuk 
 4. A köztisztaság tényleg jelentsen tisztaságot! Saját intenzívebb munkánk mellett felkaroljuk
 a közösségi szemétmentesítő programokat is. Ténylegesen és hatékonyan fellépünk a
 kutyagumi és az illegális szemétlerakás ellen.
-5. Legkésőbb 2024-re Budapest elnyeri az [Európa Zöld Fővárosa](ttp://ec.europa.eu/environment/europeangreencapital/) (European Green Capital) címet.1
+5. Legkésőbb 2024-re Budapest elnyeri az [Európa Zöld Fővárosa](ttp://ec.europa.eu/environment/europeangreencapital/) (European Green Capital) címet.
 
 
 #### VÍZIÓ
