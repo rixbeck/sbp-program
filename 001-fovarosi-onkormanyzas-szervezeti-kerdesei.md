@@ -559,7 +559,7 @@ nem a büntetés, hanem az egyén önkárosításának minimalizálása céljáv
 intravénás szerhasználó számára (újra) elérhetővé kell tenni a
 tűcsereprogramot, illetve akár olyan közösségi helyet („belövőszoba”) is biztosítani kell nekik, ahol felügyelet mellett tehetik
 meg a számukra elkerülhetetlent. Ezeken a helyszíneken arra is
-lehetőséget kell biztosítani, hogy akár a függőségtől való megszabadulás igényével szociális munkás, mentálhigiéniás szakember is elérhető legyen. Ezek a [megoldások][#ref1][#ref1]: (https://www.unodc.org/docs/treatment/Reducing_the_Adverse_Health_and_Social_Consequences_of_Abuse.pdf) 
+lehetőséget kell biztosítani, hogy akár a függőségtől való megszabadulás igényével szociális munkás, mentálhigiéniás szakember is elérhető legyen. Ezek a [megoldások][#ref18] 
 tudják csökkenteni a kábítószerezés társadalmi hatását a leghatékonyabban.
 
 [#ref1]: https://www.facebook.com/valyokikoto/
@@ -588,3 +588,4 @@ irányelvrendszert adja meg követendőként."
 [#ref16]: https://www.facebook.com/vicenews/videos/2142050635879408/ "Egy példa New Yorkból"
 [#ref17]: http://kutyabarat.hu/hirek/4250/itt_a_kozteresek_allasfoglalasa_a_varosligeti_holgy_elleni_tamadasban
 "Pl. ebben az esetben került elő a testkamera felvétele mint tisztázó körülmény"
+[#ref18]: https://www.unodc.org/docs/treatment/Reducing_the_Adverse_Health_and_Social_Consequences_of_Abuse.pdf
