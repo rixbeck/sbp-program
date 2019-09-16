@@ -47,7 +47,7 @@ A közélet tisztasága mellett a közterületek tisztaságára, az egész váro
 amire a lakosságnak az élhető városhoz éjjel-nappal szüksége van. Ugyanúgy, ahogy az önkormányzat átláthatósága biztosítja, hogy a városházán se harapózzék el a politikusok deviáns
 magatartása, a korrupció.
 
-##### Bevezetés
+#### Bevezetés
 
 Nemcsak a budapesti agglomeráció, hanem maga Budapest
 is szenved attól, hogy önkormányzati rendszere széttöredezett,
@@ -185,11 +185,11 @@ arról beszélünk, hogy milyen törekvéseket kell mindenképpen
 becsatornázni az önkormányzati működésbe, fővárosi szinten az
 olyan civil kezdeményezések hozhatóak fel példaként, mint:
 
-* [Valyo](https://www.facebook.com/valyokikoto/)
-* [S39](https://www.facebook.com/s39design/)
-* [KÉK](http://kek.org.hu/)
-* [Lakatlan projekt](http://lakatlan.kek.org.hu/)
-* [Smart City Budapest](https://smartcitybudapest.eu/hu)
+* [Valyo][#ref1]
+* [S39][#ref2]
+* [KÉK][#ref3]
+* [Lakatlan projekt][#ref4]
+* [Smart City Budapest][#ref5]
 
 Általános tapasztalat, hogy a mindenkinek szóló, semmitmondó
 együttműködési felhívások a legtöbbször teljesen hatástalanok.
@@ -236,7 +236,7 @@ kérünk az aktuális beszerzés felénél-kétharmadánál nagyobb referenciát
 
 Felderítjük az összes olyan csatornát, amelyeken át közvetlenül (azaz nem a tagállami intézményrendszeren keresztül) az
 Európai Uniótól vagy az Európai Gazdasági Térség államaitól
-szerezhetünk [támogatásokat](https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes_hu).
+szerezhetünk [támogatásokat][#ref6].
 
 A városvezetők és az önkormányzati cégek vezetői csakis annyi
 fizetést visznek majd haza, amennyit a kinevezésükkor vagy a
@@ -257,8 +257,7 @@ Mindenféleképpen meg fog jelenni a bevételek között az úthasználati díja
 törekedni kell arra, hogy a hozzájuk kapcsolódó fizetési rendszeren keresztül valósuljon meg a parkolási díjak beszedésének
 is a legnagyobb része. Ennek minimális eredménye az, hogy a
 parkolási díjak átláthatóvá válnak, és lehetetlen lesz a mérhetetlen korrupció, amely beszedésüket és az
-egész [parkoltatást övezi](https://444.hu/2019/02/19/ez-a-rendszer-a-tetejetol-a-talpaig-buzlik
-). Figyeljük meg, hogy a parkolási bevételek szinte korlátlan
+egész [parkoltatást övezi][#ref7]. Figyeljük meg, hogy a parkolási bevételek szinte korlátlan
 eltüntetését az teszi lehetővé, hogy eddig soha, senki nem szedte
 őket átlátható módon. Senkinek nincs még megközelítő sejtése
 sem arról, hogy korrupció nélkül ebből mekkora bevételre kell
@@ -348,15 +347,7 @@ képviselő is jogosult legalább egy céggel kiegészíteni.
 
 Magyarországi közbeszerzésekben gyakorlatilag senki nem
 alkalmazza tudatosan a környezetvédelmi szempontokat, bár
-a jogszabályi feltételek teljes mértékben [adottak](https://www.mhk.hu/files/Kbt%20kommnet%C3%A1r_1_20170213.pdf 
-"A közbeszerzésekről szóló 2015. évi CXLIII. törvény (Kbt.) 198. §-a (1) bekezdésének 10. pontja 
-felhatalmazza a kormányt arra, hogy rendeletben állapítsa meg a közbeszerzések során érvényesíthető 
-fenntarthatósági szempontokat, de ez a kormányrendelet a Közbeszerzési Hatóság idevágó oldalán nem 
-található: https://www.kozbeszerzes.hu/kozbeszerzesz/#magyar-jogi-hatter. A Kbt. kommentárja (Magyar Közlöny 
-Lap- és Könyvkiadó Kft.Budapest, 2019, https://www.mhk.hu/files/Kbt%20kommnet%C3%A1r_1_20170213.pdf) 
-az Európai Bíróság C-513/99. számú EUB (Concordia bus) jogesetben hozott döntésével megalapozott 
-irányelvrendszert adja meg követendőként.
-"). A Fővárosi
+a jogszabályi feltételek teljes mértékben [adottak][#ref8]. A Fővárosi
 Önkormányzat a korábbiakban próbajelleggel ugyan alkalmazott már egy-két közbeszerzési eljárásában környezettudatossági szempontokat, de ezeket nem alkalmazza általános jelleggel és megfelelő tudatossággal a beszerzései megvalósítása
 során. Ezek az eszközök az alábbiak lehetnek:
 Az ajánlattevők ajánlatának értékelése során érvényesíthető
@@ -375,7 +366,7 @@ feladatellátást racionalizálni (azt az elvet követve, hogy a legzöldebb bes
 A fenti eszközök tényleges tartalommal való feltöltése és alkalmazhatóságának átgondolása, jó gyakorlatok kialakítása még várat
 magára Magyarországon, ezeket közbeszerzési szakemberek és
 műszaki szakemberek közös munkája eredményeként lehetne
-elérni, amelyben úttörő szerepet kívánunk vállalni. Kiindulási alapnak az [Európai Bizottság kapcsolódó kézikönyve](http://ec.europa.eu/environment/archives/gpp/buying_green_handbook_hu.pdf) lehet megfelelő.
+elérni, amelyben úttörő szerepet kívánunk vállalni. Kiindulási alapnak az [Európai Bizottság kapcsolódó kézikönyve][#ref9] lehet megfelelő.
 
 #### Fenntartható költségvetési politika
 
@@ -383,7 +374,7 @@ Küldetésünk lényegéből következik, hogy mindazokat az élhető
 városhoz vezető intézkedéseket, amelyeket a programunkban
 megígérünk, igyekszünk úgy végrehajtani, hogy azok a főváros
 (és a kerületek) költségvetését ne terheljék túl. Ez már csak azért
-is hatalmas feladat, mert már a 2019-es [fővárosi költségvetés](https://www.vg.hu/gazdasag/gazdasagi-hirek/hitelfelvetel-is-kell-budapest-mukodesehez-2-1362301/) is
+is hatalmas feladat, mert már a 2019-es [fővárosi költségvetés][#ref10] is
 egyharmadában fedezetlen. „Szerencsére” a folyó bevételekből a finanszírozhatatlan rész a kormányzat által elvárt, mesterségesen megdrágított, és részben általa is finanszírozott fejlesztésekből áll. Ezek közt rendet kell vágni.
 
 A költségvetési helyzetet nem rontó gondolkodásnak fő eszköze
@@ -392,7 +383,7 @@ az, hogy minden szakterületen költségvetési szempontból belső
 
 * A közlekedésen belül egy nagy átrendezést jelent, hogy az
 úthasználati díjakból realizált akár évi [40 milliárd forintos
-bevételből](# "A 2007-es hipotetikus behajtási díj alapján, akkori árakon is évi 20–30 milliárd forint.") 
+bevételből][#ref11] 
 egy részt felhasználunk a tömegközlekedés
 napi működési költségeinek növelésére. Nagyon durván a
 kibocsátott teljesítmény (járműfutás) 50% alatti emelkedésével számolunk, amit ez az összeg fedez. A beruházásoknál
@@ -427,8 +418,8 @@ közösségi erőforrások intenzívebb használatából.
 
 Új budapesti portált kell létrehozni, amin könnyebben elérhetőek
 a lakosság számára legfontosabb információk városrészi bontásban; akár az olyan „műhelytitkok” jól kereshető nyilvánossá tételével, mint a mainál sokkal sűrűbb levegőminőség-mérő hálózat
-[mérési adatai](https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/monitoring-and-predicting-air-pollution),
-vagy a tömegközlekedési cégek üzemi, járműgazdálkodási, forgalmi stb. adatai. Itt kap helyet az aktuális szabályozások és engedélyezési [folyamatok kihirdetése](https://maps.london.gov.uk/ldd/) 
+[mérési adatai][#ref12],
+vagy a tömegközlekedési cégek üzemi, járműgazdálkodási, forgalmi stb. adatai. Itt kap helyet az aktuális szabályozások és engedélyezési [folyamatok kihirdetése][#ref1][#ref1]: (https://maps.london.gov.uk/ldd/) 
 is.
 
 A kerületi sajtótermékekben – kiváltképp’ a Sétáló Budapestet
@@ -457,8 +448,7 @@ Például meg kell találni a közös stratégiát a Kárpát-medence
 kooperációra van szükség a két „láthatáron belül” levő azonos súlyú várossal, Béccsel és Belgráddal. E városhármasban
 Budapest földrajzilag központi szerepű, ami kedvező adottság,
 de ezt óvatosan és tudatosan kell alkalmazni, nem úgy mint
-például a kormány valójában kontraproduktív, [Bécs-központú
-nagy sebességű vasúti tervei](https://magyarepitok.hu/aktualis/2018/10/megepul-a-budapest-varso-gyorsvasut-legalabb-250-kmoras-sebesseggel).
+például a kormány valójában kontraproduktív, [Bécs-központú nagy sebességű vasúti tervei][#ref13].
 
 #### Innovatív közigazgatás és önkormányzás
 
@@ -499,7 +489,7 @@ ezeket egészíti ki teljeskörűvé a városi alkalmazás.
 
 Az elektronikus ügyintézés elősegítése, kiépítése a közigazgatás
 határain is túlterjedhet. Erre példa a társasházak életét segítő,
-annak elektronikus ügyintézését biztosító [hazfal.hu](https://hazfal.hu/) platform.
+annak elektronikus ügyintézését biztosító [hazfal.hu][#ref14] platform.
 Egy hasonló platform magától értetődően befogadhatná a
 szomszédságok közösségi önkormányzásának ügyeit, vagy
 például a tipikusan belvárosi tömbi közösségek (az egy tömbben álló társasházak társulása, például az energetikai felújítás
@@ -545,11 +535,9 @@ hatást kifejtő cselekmények, a legtipikusabb példa az illegális
 hulladéklerakás, az utcai szemetelés, az alkoholfogyasztás szabályainak megszegése, a zugárusítás vagy a járókelőket megfélemlítő viselkedés.
 
 A jelenlét növeléséhez, a nem kívánatos cselekmények visszaszorítása érdekében – [akár a meglevő törvényi előírások
-átalakítására irányuló felterjesztéssel](# 
-"Pl. a szabálysértési törvény (2012. évi II. törvény a szabálysértésekről, a szabálysértési 
-eljárásról és a szabálysértési nyilvántartási rendszerről) tekintetében.") – lehetővé kell tenni az
+átalakítására irányuló felterjesztéssel][#ref15] – lehetővé kell tenni az
 állampolgári tettenérés eszközeinek (leginkább: mobilos fotó)
-könnyebb használatát a [hivatalos eljárásokban](https://www.facebook.com/vicenews/videos/2142050635879408/ "Egy példa New Yorkból") 
+könnyebb használatát a [hivatalos eljárásokban][#ref16] 
 illetve a gyors
 internetes bejelentésekre való reagálást – szintén a tettenérések számának növelése végett – nagyságrendekkel gyorsítani
 kell. Ezeknek a bejelentéseknek a kezelésére is alkalmas lehet
@@ -557,8 +545,7 @@ a civilplatformokkal való szorosabb együttműködés, akár ezen
 szervezetek pályáztatásával.
 
 Az állampolgárok jogainak fokozottabb védelmét, de a rendészek érdekeit is szem előtt tartva általánosan bevezetjük a terepen szolgálatot teljesítő önkormányzati rendészek testkamerával való felszerelését. A példáért nem is kell messzire menni,
-hiszen ez [részlegesen már Budapesten is előfordul](http://kutyabarat.hu/hirek/4250/itt_a_kozteresek_allasfoglalasa_a_varosligeti_holgy_elleni_tamadasban
-"Pl. ebben az esetben került elő a testkamera felvétele mint tisztázó körülmény")
+hiszen ez [részlegesen már Budapesten is előfordul][#ref17].
 
 Nemcsak az önkormányzati rendészek, hanem a rendőrök és
 akár a magánvállalkozások által alkalmazott biztonsági őrök
@@ -572,7 +559,32 @@ nem a büntetés, hanem az egyén önkárosításának minimalizálása céljáv
 intravénás szerhasználó számára (újra) elérhetővé kell tenni a
 tűcsereprogramot, illetve akár olyan közösségi helyet („belövőszoba”) is biztosítani kell nekik, ahol felügyelet mellett tehetik
 meg a számukra elkerülhetetlent. Ezeken a helyszíneken arra is
-lehetőséget kell biztosítani, hogy akár a függőségtől való megszabadulás igényével szociális munkás, mentálhigiéniás szakember is elérhető legyen. Ezek a [megoldások](https://www.unodc.org/docs/treatment/Reducing_the_Adverse_Health_and_Social_Consequences_of_Abuse.pdf) 
+lehetőséget kell biztosítani, hogy akár a függőségtől való megszabadulás igényével szociális munkás, mentálhigiéniás szakember is elérhető legyen. Ezek a [megoldások][#ref1][#ref1]: (https://www.unodc.org/docs/treatment/Reducing_the_Adverse_Health_and_Social_Consequences_of_Abuse.pdf) 
 tudják csökkenteni a kábítószerezés társadalmi hatását a leghatékonyabban.
 
-
+[#ref1]: https://www.facebook.com/valyokikoto/
+[#ref2]: https://www.facebook.com/s39design/
+[#ref3]: http://kek.org.hu/
+[#ref4]: http://lakatlan.kek.org.hu/
+[#ref5]: https://smartcitybudapest.eu/hu
+[#ref6]: https://ec.europa.eu/info/funding-tenders/funding-opportunities/funding-programmes/overview-funding-programmes_hu
+[#ref7]: https://444.hu/2019/02/19/ez-a-rendszer-a-tetejetol-a-talpaig-buzlik
+[#ref8]: https://www.mhk.hu/files/Kbt%20kommnet%C3%A1r_1_20170213.pdf 
+"A közbeszerzésekről szóló 2015. évi CXLIII. törvény (Kbt.) 198. §-a (1) bekezdésének 10. pontja 
+felhatalmazza a kormányt arra, hogy rendeletben állapítsa meg a közbeszerzések során érvényesíthető 
+fenntarthatósági szempontokat, de ez a kormányrendelet a Közbeszerzési Hatóság idevágó oldalán nem 
+található: https://www.kozbeszerzes.hu/kozbeszerzesz/#magyar-jogi-hatter. A Kbt. kommentárja (Magyar Közlöny 
+Lap- és Könyvkiadó Kft.Budapest, 2019, https://www.mhk.hu/files/Kbt%20kommnet%C3%A1r_1_20170213.pdf) 
+az Európai Bíróság C-513/99. számú EUB (Concordia bus) jogesetben hozott döntésével megalapozott 
+irányelvrendszert adja meg követendőként."
+[#ref9]: http://ec.europa.eu/environment/archives/gpp/buying_green_handbook_hu.pdf
+[#ref10]: https://www.vg.hu/gazdasag/gazdasagi-hirek/hitelfelvetel-is-kell-budapest-mukodesehez-2-1362301/
+[#ref11]: # "A 2007-es hipotetikus behajtási díj alapján, akkori árakon is évi 20–30 milliárd forint."
+[#ref12]: https://www.london.gov.uk/what-we-do/environment/pollution-and-air-quality/monitoring-and-predicting-air-pollution
+[#ref13]: https://magyarepitok.hu/aktualis/2018/10/megepul-a-budapest-varso-gyorsvasut-legalabb-250-kmoras-sebesseggel
+[#ref14]: https://hazfal.hu/
+[#ref15]: # "Pl. a szabálysértési törvény (2012. évi II. törvény a szabálysértésekről, a szabálysértési eljárásról 
+és a szabálysértési nyilvántartási rendszerről) tekintetében."
+[#ref16]: https://www.facebook.com/vicenews/videos/2142050635879408/ "Egy példa New Yorkból"
+[#ref17]: http://kutyabarat.hu/hirek/4250/itt_a_kozteresek_allasfoglalasa_a_varosligeti_holgy_elleni_tamadasban
+"Pl. ebben az esetben került elő a testkamera felvétele mint tisztázó körülmény"
