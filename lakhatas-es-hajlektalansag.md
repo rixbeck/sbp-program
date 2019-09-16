@@ -49,7 +49,7 @@ hogy a szociális alapon bérbe adott, rossz állapotú lakásokra adjon felúj�
 
 Budapesten az önkormányzati bérlakások a kerületek tulajdonában vannak, azonban a kerületek láthatólag ezt a terhet nem
 akarják magukra vállalni. Az önkormányzati lakásokkal való
-„gazdálkodás” nem jelent mást, mint a lakásvagyon lassú felszámolását. A [meglevő állomány](https://444.hu/2019/01/25/a-budapesti-berlakasok-kozel-10-szazaleka-uresen-all) 
+„gazdálkodás” nem jelent mást, mint a lakásvagyon lassú felszámolását. A [meglevő állomány][^1] 
 egy jelentős része üresen áll, és
 tulajdonképpen ez az állapot nem más, mint az első lépés afelé,
 hogy ezek a lakások szanálva legyenek, vagy az önkormányzat eladja őket. Az üres lakások többsége pillanatnyilag nem
@@ -63,13 +63,13 @@ eredményező – fejlesztések jelentős lakásszám-növekedéssel
 járnak, és ezek a lakások igen jó áron a piacra dobhatóak. Ezt
 a folyamatot segíti, hogy a mostanában „lakóparknak” hívott
 nagyobb fejlesztések a legtöbbször az önkormányzat által áron
-alul elkótyavetyélt területeken valósulnak meg. A nagykoalíció itt is működik: a bal- és jobboldal nemcsak [egyaránt sáros](https://index.hu/belfold/kopsold0711/)
+alul elkótyavetyélt területeken valósulnak meg. A nagykoalíció itt is működik: a bal- és jobboldal nemcsak [egyaránt sáros][^2]
 ebben a folyamatban, de ha kell, még együttműködésre is képesek.3 Így válik az önkormányzat kezében levő, stratégiailag 
 hasznos és nagy nyereségtermelő-képességű vagyon is semmivé,
 sőt, alkalmasint problémává.
 
 Nem mehetünk el persze amellett, hogy a lakhatás költségeinek
-hihetetlen emelkedése most [egész Európára kiterjedő probléma](https://diepresse.com/home/diverse/immoapp/5380597/Wohnungspreise-in-Wien-steigen-gebremst-weiter), 
+hihetetlen emelkedése most [egész Európára kiterjedő probléma][^3], 
 azaz nem csak az elmúlt évtizedek korrupt pártjainak
 lelkén szárad. Ez nem jó hír a számunkra sem. Nem lesz elég
 az intézményesült korrupciót felszámolni, és a városi politikát
@@ -108,8 +108,7 @@ elkövetkezendő években le kell rakni. Jelenleg azonban rá kell
 mutatnunk, hogy ehhez sem az önkormányzati tőkeerő, sem a
 megfelelő szervezeti kultúra nincs még meg. De ha meglenne is,
 az ilyen nagyságrendű önkormányzati lakásvagyon kialakítása
-(felépítése vagy megszerzése), valamint az ezen alapuló [lakáspolitika](https://index.hu/gazdasag/penzbeszel/2019/03/09/hogyan_lehetne_olcsobba_tenni_a_lakasokat_es_az_alberleteket_budapesten/
- "Például erre mutat rá ez a kiváló elemzés is...") csak évtizedes távlatban reális.
+(felépítése vagy megszerzése), valamint az ezen alapuló [lakáspolitika][^4] csak évtizedes távlatban reális.
 
 A rövid távon (egy, esetleg két önkormányzati ciklus alatt) megvalósítható és számonkérhető intézkedések és eredmények
 talaján maradva tehát abból indulunk ki, hogy az önkormányzatoknak lakásépítésre mozgósítható számottevő tőkéjük nincsen, illetve hogy a kezdeti lakásépítések ne kizárólag önkormányzati beruházásként valósuljanak meg.
@@ -305,7 +304,7 @@ az, hogy milyen nyilvántartás alapján, milyen hatékonysággal
 lehet azt betartatni.
 
 A közösségi rövid távú lakáskiadás terén az egyik szabályozási
-eszköz lehet az így kiadott lakásokra kivetett büntetőadó, amen�nyiben a közösségi szolgáltatás meghaladja az önkormányzat által megállapított, és még alkalomszerű tevékenységnek
+eszköz lehet az így kiadott lakásokra kivetett büntetőadó, amennyiben a közösségi szolgáltatás meghaladja az önkormányzat által megállapított, és még alkalomszerű tevékenységnek
 tekintett – például évente összesen 60 napnál nem hosszabb
 – lakáskiadást, mert ez már vállalkozási tevékenységként működik. További szabályozási eszköz lehet az így kiadott ingatlanokban kötelező „éjszakai házirend” kifüggesztése is, valamint akár
 a forgalom kötelező és teljeskörű regisztrációja. Ez utóbbi egyszersmind szolgálhatja például az idegenforgalmi adó beszedését is, azonban biztonsági célja is lehet, és ekként a tulajdonost
@@ -577,7 +576,7 @@ különböző mértékben hiányzó – mentális egészség, a segítség
 elfogadása, a saját napirend, a közösségekbe való illeszkedés,
 vagy a hétköznapi ügyek intézésének képessége. Talán mondhatjuk, hogy e felsorolás utolsó és legmagasabb szintű eleme
 az anyagi önállóságot is biztosító munkavállalás képessége.
-Ahogy a felsorolásból is látszik, az esetek nagy részében hos�szú és nehéz út vezet idáig, azonban a részproblémák széles
+Ahogy a felsorolásból is látszik, az esetek nagy részében hosszú és nehéz út vezet idáig, azonban a részproblémák széles
 spektruma is illusztrálja, hogy milyen sok társszakma együttes
 és személyre szabott munkájára van szükség ahhoz, hogy a hajléktalanság kezelése nagy skálán is sikeres legyen.
 
@@ -685,7 +684,7 @@ lakó rászorulók számára;
 * kilakoltatási tilalom (gyerekes családoknak mindenképpen
 és mihamarabb!), ha nincs elhelyezés;
 * illetve minden követ megmozgatunk az ellen, hogy gyerekeket szegénység miatt emeljenek ki a családjaikból (ez
-amúgy törvényileg tilos,[^35] de ezt a rendszer nem tartja be),
+amúgy [törvényileg tilos,][^35] de ezt a [rendszer nem tartja be][^35b]),
 mivel ez is megágyaz családok szétesésének, és rövid távon
 a szülők, hosszabb távon az állami gondozásba vett gyerekek magas veszélyeztetettségű csoportba kerülésének;
 * a krízistámogatások megerősítése civil részvétellel (mint pl.
@@ -697,12 +696,15 @@ lakásvagyon-gazdálkodásnál említett élerjáradék-program;
 a többi korosztály saját lakásban élő, de lakhatási szegénységgel küzdő tagjai számára – értelemszerűen ebben
 az esetben már nem jövedelemjellegű juttatással, hanem
 például szociális alapú lakbérrel párosítva, tulajdonképpen
-ahhoz a megoldáshoz hasonlóan, ahogy a (sajnos időközben lassú elsorvasztásra ítélt)36 Nemzeti Eszközkezelő
+ahhoz a megoldáshoz hasonlóan, ahogy a [sajnos időközben lassú elsorvasztásra ítélt][^36] Nemzeti Eszközkezelő
 Zrt. megmentette a devizahitel-károsultak egy részének
 lakhatását.
 
-[^35]: 1991. évi LXIV. törvény a gyermekek jogairól szóló ENSZ-egyezmény kihirdetéséről (a szóban forgó rendelkezések a 27. cikkben):
-https://net.jogtar.hu/jogszabaly?docid=99100064.TV ; de az 1997. évi XXXI. törvény a gyermekek védelméről és a gyámügyi igazgatásról (Gyvt.) 38. §-ának
-(1) bekezdése is a szegénység miatti kiemelés gyakorlatával ellentétes általános célt fogalmaz meg: https://net.jogtar.hu/jogszabaly?docid=99700031.TV.
-36 https://azenpenzem.hu/cikkek/ismet-nagy-bajba-kerulhetnek-az-eszkozkezelosok/5726/
+[^1]: https://444.hu/2019/01/25/a-budapesti-berlakasok-kozel-10-szazaleka-uresen-all
+[^2]: https://index.hu/belfold/kopsold0711/
+[^3]: https://diepresse.com/home/diverse/immoapp/5380597/Wohnungspreise-in-Wien-steigen-gebremst-weiter
+[^4]: https://index.hu/gazdasag/penzbeszel/2019/03/09/hogyan_lehetne_olcsobba_tenni_a_lakasokat_es_az_alberleteket_budapesten/ "Például erre mutat rá ez a kiváló elemzés is"
+[^35]: https://net.jogtar.hu/jogszabaly?docid=99100064.TV "1991. évi LXIV. törvény a gyermekek jogairól szóló ENSZ-egyezmény kihirdetéséről (a szóban forgó rendelkezések a 27. cikkben):"
+[^35b]: https://net.jogtar.hu/jogszabaly?docid=99700031.TV "de az 1997. évi XXXI. törvény a gyermekek védelméről és a gyámügyi igazgatásról (Gyvt.) 38. §-ának (1) bekezdése is a szegénység miatti kiemelés gyakorlatával ellentétes általános célt fogalmaz meg"
+[^36]: https://azenpenzem.hu/cikkek/ismet-nagy-bajba-kerulhetnek-az-eszkozkezelosok/5726/
 
