@@ -49,7 +49,7 @@ hogy a szociális alapon bérbe adott, rossz állapotú lakásokra adjon felúj�
 
 Budapesten az önkormányzati bérlakások a kerületek tulajdonában vannak, azonban a kerületek láthatólag ezt a terhet nem
 akarják magukra vállalni. Az önkormányzati lakásokkal való
-„gazdálkodás” nem jelent mást, mint a lakásvagyon lassú felszámolását. A [meglevő állomány][^1] 
+„gazdálkodás” nem jelent mást, mint a lakásvagyon lassú felszámolását. A [meglevő állomány][#ref1] 
 egy jelentős része üresen áll, és
 tulajdonképpen ez az állapot nem más, mint az első lépés afelé,
 hogy ezek a lakások szanálva legyenek, vagy az önkormányzat eladja őket. Az üres lakások többsége pillanatnyilag nem
@@ -63,13 +63,13 @@ eredményező – fejlesztések jelentős lakásszám-növekedéssel
 járnak, és ezek a lakások igen jó áron a piacra dobhatóak. Ezt
 a folyamatot segíti, hogy a mostanában „lakóparknak” hívott
 nagyobb fejlesztések a legtöbbször az önkormányzat által áron
-alul elkótyavetyélt területeken valósulnak meg. A nagykoalíció itt is működik: a bal- és jobboldal nemcsak [egyaránt sáros][^2]
+alul elkótyavetyélt területeken valósulnak meg. A nagykoalíció itt is működik: a bal- és jobboldal nemcsak [egyaránt sáros][#ref2]
 ebben a folyamatban, de ha kell, még együttműködésre is képesek.3 Így válik az önkormányzat kezében levő, stratégiailag 
 hasznos és nagy nyereségtermelő-képességű vagyon is semmivé,
 sőt, alkalmasint problémává.
 
 Nem mehetünk el persze amellett, hogy a lakhatás költségeinek
-hihetetlen emelkedése most [egész Európára kiterjedő probléma][^3], 
+hihetetlen emelkedése most [egész Európára kiterjedő probléma][#ref3], 
 azaz nem csak az elmúlt évtizedek korrupt pártjainak
 lelkén szárad. Ez nem jó hír a számunkra sem. Nem lesz elég
 az intézményesült korrupciót felszámolni, és a városi politikát
@@ -108,7 +108,7 @@ elkövetkezendő években le kell rakni. Jelenleg azonban rá kell
 mutatnunk, hogy ehhez sem az önkormányzati tőkeerő, sem a
 megfelelő szervezeti kultúra nincs még meg. De ha meglenne is,
 az ilyen nagyságrendű önkormányzati lakásvagyon kialakítása
-(felépítése vagy megszerzése), valamint az ezen alapuló [lakáspolitika][^4] csak évtizedes távlatban reális.
+(felépítése vagy megszerzése), valamint az ezen alapuló [lakáspolitika][#ref4] csak évtizedes távlatban reális.
 
 A rövid távon (egy, esetleg két önkormányzati ciklus alatt) megvalósítható és számonkérhető intézkedések és eredmények
 talaján maradva tehát abból indulunk ki, hogy az önkormányzatoknak lakásépítésre mozgósítható számottevő tőkéjük nincsen, illetve hogy a kezdeti lakásépítések ne kizárólag önkormányzati beruházásként valósuljanak meg.
@@ -150,7 +150,7 @@ a lentebb részletezett lakásügynökségi modell is.
 A saját tőkehozzájárulást kímélő módszerek speciális változata az Európai Unió valamelyik támogatási programja keretében finanszírozott fejlesztés. Erre az egyik budapesti példa
 a zuglói E-Co-Housing nevű társasházépítés. Sajnos, az elérhető források szűkösségét jelzi, hogy a támogatási program
 Európa-szerte 184 pályázatból mindössze 22-t támogatott, s
-[ez a projekt](https://www.zuglo.hu/tobb-mint-lakohaz/) sem több mint 25 szociális lakást épít 1,5 milliárd forint értékben. 
+[ez a projekt][#ref5] sem több mint 25 szociális lakást épít 1,5 milliárd forint értékben. 
 A lakásonként 60 milliós pályázat magas
 energiahatékonyságú épületet, heterogén lakóközösséget és
 közösségi kertészetet is tartalmaz, melyek mind-mind önmagukban is előremutató célok.
@@ -171,7 +171,7 @@ ráadásul szakképzési, humánerőforrás-fejlesztési és foglalkoztathatós�
 új lakások építésekor, de a meglévő, lepusztult önkormányzati
 ingatlanvagyon felújításakor is működőképes lehet.
 
-##### 8.1.2. A bérlakások számának növelése mint a [teljes társadalom számára](# "Régebben talán azt írtuk volna, hogy „mint társadalompolitikai eszköz”.") hasznos fejlesztés
+##### 8.1.2. A bérlakások számának növelése mint a [teljes társadalom számára][#ref6] hasznos fejlesztés
 
 Bármilyen ára lesz is végül az önkormányzati lakásmennyiség
 bővítésének, az ezzel szemben álló össztársadalmi haszon
@@ -185,11 +185,11 @@ vagy közösségi felújítások implicit értékteremtő-képességével
 is mint a társadalom számára hasznos munkával számolva.
 Mint a Budapest 2030 program megállapítja, „a meglévő épületállomány komplex felújítása multiplikáló hatással jár. Az épületek megőrzése és felújítása több munkahelyet teremt, mint az új
 épületek építése (ami kedvez pl. a kisvállalkozásoknak), továbbá
-segít a [városok térbeli terjeszkedését visszafogni](# "Budapest2030, p. 125.")”.
+segít a [városok térbeli terjeszkedését visszafogni][#ref7]”.
 
-Egy, hasonló szemléletben, az összes helybe költöző fiatal munkavállaló számára felkínált program a [„Szarvas hazavár” program](https://www.beol.hu/kozelet/helyi-kozelet/szarvas-hazavar-lakasokkal-segit-a-varos-1558451/
-), ahol a városvezetés az e célra felújított lakások hasznosságát azzal is próbálja maximalizálni, hogy csak igen rövid, kétéves
-időszakra köt bérleti szerződéseket. Ez a bérlők helyi életpályájának elindítását és lakhatásuk más formájának biztosítását sürgeti. Erre az időszakra azonban a program igen bőkezű, teljesen
+Egy, hasonló szemléletben, az összes helybe költöző fiatal munkavállaló számára felkínált program a [„Szarvas hazavár
+” program][#ref8], ahol a városvezetés az e célra felújított lakások hasznosságát azzal is próbálja maximalizálni, hogy
+ csak igen rövid, kétéves időszakra köt bérleti szerződéseket. Ez a bérlők helyi életpályájának elindítását és lakhatásuk más formájának biztosítását sürgeti. Erre az időszakra azonban a program igen bőkezű, teljesen
 berendezett lakásokat ad külön lakbérfizetés nélkül.
 
 A bérlakások központilag szervezett építésének fontos vezérelve,
@@ -198,8 +198,7 @@ bérlakásoknak nem szabad egysíkúan tömbösödniük, szegregálódniuk. Gazd
 helyük van például a szociális célra vagy az alsóbb középosztálynak épített bérlakásoknak. A cél a vegyes „társadalmi mix”
 kell, hogy legyen, de nemcsak kerületi, nemcsak városrészi,
 hanem utca-, sőt társasházi szinten is: a gazdagnak középosztálybeli és szegény szomszédja is legyen. „Emberi oldalról” ez az
-egyetlen [ma ismert „recept”](# "A városi, várostervezői oldalról lásd a városszerkezeti fejezetben
- a belváros dzsentrifikációjának elkerüléséről írtakat.") a városrészek dzsentrifikációjának
+egyetlen [ma ismert „recept”][#ref9]) a városrészek dzsentrifikációjának
 és slumosodásának az elkerülésére.
 
 A már meglevő bérlakásállománnyal való gazdálkodást javítaná, a szegényebbek lakáshoz jutási esélyeit erősíthetené,
@@ -320,23 +319,22 @@ költségei Budapesten az utóbbi években akkorát emelkedtek,
 hogy az az érzékenyebb társadalmi csoportok – azaz főleg a
 szegényebbek, a családosok, a diákok és a pályakezdők – lakhatását már általánosan veszélyezteti. Ez a jelenség Európaszerte probléma, 
 olyannyira hogy például 2015-ben a piacellenességgel nehezen vádolható német törvényhozás is [bevezetett
-egy lakbéremelkedési gátat](https://www.berlin.de/special/immobilien-und-wohnen/mietrecht/3793279-739654-mietpreisbremse-regelungen-aenderungen-a.html), 
+egy lakbéremelkedési gátat][#ref10], 
 amely a lakbérek emelkedését az
 övezeti mértékadó szint felett évi 10%-ban korlátozza. Ez egy
 végső eszköz, amihez első körben nem nyúlnánk, azonban a
 németországi alkalmazás jól jellemzi a probléma súlyát, illetve
 azt, hogy van kiktől tanulni.
 
-Ezzel párhuzamosan több mint [százezer lakás](https://index.hu/gazdasag/2018/04/25/rengeteg_az_ures_lakas_magyaroszagon/) van budapesti
+Ezzel párhuzamosan több mint [százezer lakás][#ref11] van budapesti
 magánszemélyeknél, amelyek üresen állnak. Nyilvánvalóan
 arról van itt szó, hogy akár rövidebb, akár hosszabb ideig üres
 az a lakás, a tulajdonos a bérbeadással járó kellemetlenségeket, illetve kockázatokat nem vállalja, még a remélt haszonért
 cserében sem.
 
 Az üresen álló lakások albérleti piacra tereléséhez a legjobb
-eszköznek a [lakásügynökségek](https://www.habitat.hu/files/131120_20oldalas_vegleges.pdf 
-"Városkutatás Kft. – Habitat for Humanity Magyarország: Új típusú közösségi bérlakásrendszer (KBR) kiépítése") 
-létrehozása [látszik](# "Nincs új a Nap alatt: a Máltai Szeretetszolgálatnál 2014-ben el is indult egy hasonló kicsi próbarendszer"). Ezek
+eszköznek a [lakásügynökségek][#ref12] 
+létrehozása [látszik][#ref13]. Ezek
 nyilvántartanák és lehetőleg hasznosítanák a jelenleg üresen
 álló fővárosi lakásokat. A lakásügynökség közvetítőként lép fel
 a bérbeadó és a bérlő között, és ezzel mind a bérbeadó, mind
@@ -355,7 +353,7 @@ saját tulajdonú lakáshoz vagy egyéb nem önkormányzati tulajdonú ingatlanb
 
 * Általános érvényű együttműködés a lakhatás kérdéskörét
 előre mozdító civilszervezetekkel; a [közösségi építkezéstől,
-felújítástól a stratégiaalkotásig](https://habitat.hu/mivel-foglalkozunk/lakhatasi-jelentesek/lakhatasi-jelentes-2018/).
+felújítástól a stratégiaalkotásig][#ref14].
 * A lakásszövetkezetek szervezése, támogatása, a szimpla
 együttműködésből közösségi fejlesztéssé emelése.
 * Tulajdonképpen a lakásszövetkezetek kisebb fornája a
@@ -396,8 +394,8 @@ minőséget kínálnak a város számára, és nem szolgálják a fenntartható 
 ##### 8.2.4. „Beruházásmentes” ingatlan-korszerűsítések szervezése
 
 Kifejezetten a lakások energetikai korszerűsítésénél bevált
-finanszírozási forma [ESCO](https://en.wikipedia.org/wiki/Energy_service_company), hogy egy bank vagy egy energetikai cég állja a korszerűsítés árát, cserébe viszont ezt a lakók
-részletekben, a csökkenő rezsi miatt napi költségeik növekedése nélkül törleszteni tudják (az Egyesült Királyságban az energetikai cégek számára [ez a megoldás kötelezettség](https://www.ofgem.gov.uk/environmental-programmes/eco/about-eco-scheme)).
+finanszírozási forma [ESCO][#ref15], hogy egy bank vagy egy energetikai cég állja a korszerűsítés árát, cserébe viszont ezt a lakók
+részletekben, a csökkenő rezsi miatt napi költségeik növekedése nélkül törleszteni tudják (az Egyesült Királyságban az energetikai cégek számára [ez a megoldás kötelezettség][#ref16]).
 Így ezek a korszerűsítések elérhetővé válnak a szegényebbek, illetve az
 erre pénzt nem áldozók számára is. Ez nemcsak a lakók számára, de a városnak is jó befektetés, illetve a klímavédelem
 szempontjából is fontos fegyvertény.
@@ -413,11 +411,11 @@ Tipikusan a belvárosban segítheti az épületenergetikai beruházásokat az eg
 ezt megjelenítő lakóközösségek szervezése.
 
 Nem a finanszírozási modellek, hanem a konkrét műszaki tartalom szempontjából úttörő és figyelemre méltó épületenergetikai 
-fejlesztés a 2011-ben befejezett dunaújvárosi [Solanovaház](https://dunaujvaros.hu/hir/3370). A lakásállomány tekintélyes részét kitevő panelházak
+fejlesztés a 2011-ben befejezett dunaújvárosi [Solanovaház][#ref17]. A lakásállomány tekintélyes részét kitevő panelházak
 korszerűsítését modellként megmutató, lakásonként korabeli
 áron 5 millió forint alatt levő fejlesztés immár hét és fél éves, és
 így a műszaki tartalmon felül nem kevésbé érdekes a beruházás
-[utóéléte](http://www2.tervlap.hu/cikk-nezet/boldog-szomoru-dal).
+[utóéléte][#ref18].
 
 Az energetikai korszerűsítésen túl is lehetséges hasonló programok szervezése, azonban itt már nem jelölhető ki ennyire
 magától értetődő módon, hogy a törlesztési időszak alatt
@@ -428,8 +426,8 @@ van szükség már rövid távon is.
 
 #### 8.3. Hajléktalanság
 
-Ma Budapesten a [hajléktalanok, a hajléktalansággal](https://avarosmindenkie.blog.hu/2016/09/03/hany_hajlektalan_ember_el_magyarorszagon) legalább
-időről időre szembesülni kényszerülő emberek száma – a felmérés elől rejtve maradtakkal együtt – [tízezer felett lehet](http://www.atv.hu/belfold/20171101-jon-a-tel-ennyien-elhetnek-az-utcan-csak-budapesten).
+Ma Budapesten a [hajléktalanok, a hajléktalansággal][#ref19] legalább
+időről időre szembesülni kényszerülő emberek száma – a felmérés elől rejtve maradtakkal együtt – [tízezer felett lehet][#ref20].
 Az ő problémáikkal, az ő személyes tragédiájuk megoldásával sem a kormányzat, sem az eddigi városvezetés nem
 törődik. A jelenlegi politikák a leginább csak arra koncentrálnak, hogy ezt a problémát eltüntessék a „rendes” városlakók szeme elől. Ennek a szégyenletes szemléletnek a része a
 hajléktalanság kriminalizálása is. A másik oldalon felbukkan
@@ -461,21 +459,21 @@ azt, amit minimális lakhatásnak nevezünk, ezért valójában nem
 emel ki a hajléktalan-életformából, hanem csak egy, az utcán
 kívüli térbe helyezi azt át. Feltehetőleg ez is az egyik fő oka
 annak, hogy maguk a hajléktalanok sem tekintenek ezekre az
-intézménykre menekülési útvonalként; jelentős részük kifejezetten kerüli a [szállókat](https://nepszava.hu/3014697_nem-a-menhelyek-fele-tereli-a-birsag-a-hajlektalanokat) 
+intézménykre menekülési útvonalként; jelentős részük kifejezetten kerüli a [szállókat][#ref21] 
 (a másik fő okot nyilvánvalóan a szállón uralkodó állapotok jelentik).
 
 Ahogy a szociális ellátásról szóló fejezetben is tárgyaljuk, a
 tágabban vett szociális szakmában is tendencia a tömegintézmények kitagolása, a már-már iparosított bentlakás helyett a
 kisebb, a családi-egyéni léptékhez közelebbi lakóterek közösségek létrehozása. Ennek az általános tendenciának kell érvényesülnie a hajléktalanellátásban, hajléktalansegítésben is (valójában más szociális ágazatokban már folynak vagy megtörténtek
 a kitagolások, illetve az annak tűnő alibifolyamatok, azonban a
-hajléktalanellátásban még mindig a [nagyintézményes szemlélet az uralkodó](https://444.hu/2019/04/10/hajlektalanszallot-epit-ujpesten-a-kormany)).
+hajléktalanellátásban még mindig a [nagyintézményes szemlélet az uralkodó][#ref22]).
 
 A fentiek fényében, de a valós erőforrásainkat és lehetőségeinket felmérve szükséges egy olyan átmeneti időszak meghatározása, amelyikben a nagy szállásokat, menedékeket tovább
 működtetjük, de fokozatosan kivezetjük ezeket a rendszerből.
 Erre az időszakra azonban a még fennálló nagy szállásokon az
 első másodperctől fogva a legjobb gyakorlatokat megvalósító
 intézmények működését kell elterjeszteni. Ki kell választani azokat az intézményeket – akár 
-[külföldön is körülnézve](https://index.hu/video/2019/01/04/hajlektalanok_becs_budapest_osszehasonlitas_hajlektalanszallo/) –, amelyek a tömeges elszállásolásban – maguk a hajléktalanok ítélete
+[külföldön is körülnézve][#ref23] –, amelyek a tömeges elszállásolásban – maguk a hajléktalanok ítélete
 szerint – jelenleg a legsikeresebbek, és az őket működtető szervezetek szakmai felügyelete alatt vagy tanácsadása mellett, az
 ő modelljüknek megfelelően kell működtetni őket a megszűnésük – remélhetőleg minél előbbi – pillanatáig.
 
@@ -537,9 +535,9 @@ elhelyezés kell legyen a hajléktalansággal foglalkozó szociálpolitika tény
 nélkül nem sikeres semmilyen olyan stratégia, amely a hajléktalanok társadalomba való visszavezetését, az önálló életvitelük
 visszanyerését célozza. Ez a hozzáállás a segítő szakmákban
 közmegegyezés tárgyát képezi, megjelenik például a [Habitat for
-Humanity](https://habitat.hu/mivel-foglalkozunk/terepi-programjaink/) programjaiban, a [Budapesti Módszertani Szociális
-Központ és Intézményei](https://www.bmszki.hu/hu/szocialis-munka-megujitasa/elsokent-lakhatas) alapelvei közt, vagy az [Utcáról
-Lakásba Egyesület](https://utcarollakasba.hu/) fő céljaként.
+Humanity][#ref24] programjaiban, a [Budapesti Módszertani Szociális
+Központ és Intézményei][#ref25] alapelvei közt, vagy az [Utcáról
+Lakásba Egyesület][#ref26] fő céljaként.
 
 Az intézményrendszerben levő hajléktalanok tényleges lakhatását (egy olyan személyes élettér létrehozását, amelyikben
 maguk lehetnek) minimálisan a szobákra (6–8 m2) osztott nagy
@@ -552,9 +550,9 @@ bérlakások színvonalát még nem éri el, de a lakhatást alapvetően biztos�
 * vizsgálni kell, hogy az önkormányzati bérlakásállomány legleromlottabb darabjait, amelyeket ma a kerületek tipikusan
 megszüntetnek (szanálnak vagy eladnak), lehetséges-e a
 hajléktalanok számára megmenteni;
-* elhagyott létesítmények (pl. [pillanatnyilag kihasználatlan volt szovjet laktanyák](https://logout.hu/tema/kihalt_laktanyak_katonai_objektumok/hsz_1-50.html "Egy nem hivatalos 2003-as lista (nem csak szovjet volt katonai létesítménykről) egy internetes fórumon")) 
+* elhagyott létesítmények (pl. [pillanatnyilag kihasználatlan volt szovjet laktanyák][#ref27]) 
 akár időleges hasznosítása lakótelepként;
-* [konténerház](https://www.kontenerhaz.hu/), [lakódoboz](https://www.kisalfold.hu/velemeny/olasz_lakodoboz_hajlektalanoknak_/1104986/);
+* [konténerház][#ref28], [lakódoboz][#ref29];
 * a rendszerből „felfelé” kilépők körében kiemelt szerephez
 juthat a lakbér – sőt, esetleg a rezsi – természetben való
 térítése, a leginkább a lakáson végzett felújítással (erre a
@@ -562,7 +560,7 @@ szociális lakbérű lakások esetében jelenleg is van szórványos gyakorlat),
 végzett munkával.
 
 A lakhatás biztosítására irányuló innovatív kezdeményezés
-a [lakhatással vidékre csábítás](https://444.hu/2019/02/18/kozmunkaval-es-normalis-lakassal-csabitjak-a-foldekre-a-hajlektalanokat). Az így elhelyezett emberek,
+a [lakhatással vidékre csábítás][#ref30]. Az így elhelyezett emberek,
 családok utóéletét is tanulmányozva (megtalálják-e a számításaikat, nem ragadnak-e bele csapdaszerűen az önálló élethez
 vezető, de még intézményi gondoskodást tartalmazó lépcsőfokba, stb.) szükséges kiértékelni, esetleg korrigálni, továbbfejleszteni és támogatni azokat a programokat, amelyek a közismert forráshiányos helyzetben kívánnak és tudnak egyszerre
 hatékonyak és emberségesek lenni.
@@ -595,7 +593,7 @@ helyzetben annyit jelent, hogy a megoldást a társszakmák
 hiányosságai, problémái is hátráltatják.** 
 
 Ennek a szerteágazó és nem túl egyszerű feladatnak biztosíthatja az újszerű finanszírozását, ha – a program esetleges gyors
-[visszafejlesztése előtt](https://www.napi.hu/magyar_gazdasag/mar_selejtezi_csodafegyveret_a_kormany.630730.html) – 
+[visszafejlesztése előtt][#ref31] – 
 észrevesszük, hogy a közfoglalkoztatás valójában mi, és ténylegesen mire használható. Mára már
 világossá vált, hogy a nevével ellentétben itt nem (szükségszerűen) a foglalkoztatás egyik formájáról van szó, hanem egy
 kiemelt segélyezési programról, ahol a közfoglalkoztatást szervező önkormányzat dönti el, hogy a kiemelt körben kik vannak
@@ -609,12 +607,10 @@ kényszert. Ahogy fentebb említettük, mindenki személyre szabott
 gondoskodást kell, hogy kapjon a segítői szakmáktól, így a segély
 jogcímétől függetlenül vesz részt ki-ki mentálhigiénés foglalkozáson, életvezetési tanácsadáson, munkavégzésre való felkészítésen, vagy éppen tényleges munkavégzésben. E stratégia megvalósulását illetően pozitív jelként is felfogható, hogy érdekes módon
 egy hasonló cél felé is kifuttatható, de más szemléletben fogant
-kezdeményezés a [kormányzat részéről is](https://index.hu/gazdasag/2018/11/22/kozmunkasokat_faragna_a_hajlektalanokbol_a_kormany/) napvilágot látott.
+kezdeményezés a [kormányzat részéről is][#ref32] napvilágot látott.
 
 Ne feledjük el, hogy ha a hajléktalanoknak csak egy kis részét
-is sikerülne a rendszeres és [legális munkavégzésig](# 
-"A szállókon élő hajléktalanok fele-kétharmada jelenleg is dolgozik, csak jövedelmük bizonytalan 
-(alkalmi munkák, feketemunkák), vagy nem biztosít elegendő jövedelmet egy piaci árú albérlethez.") juttatni,
+is sikerülne a rendszeres és [legális munkavégzésig][#ref33] juttatni,
 az nemcsak hatalmas siker lenne a velük foglalkozó szociális
 munka számára, hanem e munka, illetve a hajléktalanokkal
 kapcsolatos más politikák – legfőképpen a lakhatás – eredményességét egyfajta multiplikátorhatásként növelné, és ezzel
@@ -632,9 +628,7 @@ intézményrendszerrel való kapcsolat megtartását jelenti.
 
 ##### 8.3.4. Megelőzés
 
-Utolsóként, de messze nem utolsósorban említjük a [hajléktalanság megelőzését](https://www.nyugodtsziv.hu/?page_id=48
-"A téma relatív elhanyagoltsága mellett szerencsére vannak civilszervezetek, 
-akiknek a megelőzés kifejezetten a fő profiluk, például a Nyugodt Szív Alapítvány"). Az utólagos kezelésnél sokkal kisebb
+Utolsóként, de messze nem utolsósorban említjük a [hajléktalanság megelőzését][#ref34]. Az utólagos kezelésnél sokkal kisebb
 erőfeszítésébe kerül a társadalomnak – az élet más területein
 is – az előzetes problémaelhárítás, a megelőzés: a leszakadás
 kockázatainak figyelemmel kísérése, illetve megakadályozása.
@@ -684,7 +678,7 @@ lakó rászorulók számára;
 * kilakoltatási tilalom (gyerekes családoknak mindenképpen
 és mihamarabb!), ha nincs elhelyezés;
 * illetve minden követ megmozgatunk az ellen, hogy gyerekeket szegénység miatt emeljenek ki a családjaikból (ez
-amúgy [törvényileg tilos,][^35] de ezt a [rendszer nem tartja be][^35b]),
+amúgy [törvényileg tilos,][#ref35] de ezt a [rendszer nem tartja be][#ref36]),
 mivel ez is megágyaz családok szétesésének, és rövid távon
 a szülők, hosszabb távon az állami gondozásba vett gyerekek magas veszélyeztetettségű csoportba kerülésének;
 * a krízistámogatások megerősítése civil részvétellel (mint pl.
@@ -696,15 +690,50 @@ lakásvagyon-gazdálkodásnál említett élerjáradék-program;
 a többi korosztály saját lakásban élő, de lakhatási szegénységgel küzdő tagjai számára – értelemszerűen ebben
 az esetben már nem jövedelemjellegű juttatással, hanem
 például szociális alapú lakbérrel párosítva, tulajdonképpen
-ahhoz a megoldáshoz hasonlóan, ahogy a [sajnos időközben lassú elsorvasztásra ítélt][^36] Nemzeti Eszközkezelő
+ahhoz a megoldáshoz hasonlóan, ahogy a [sajnos időközben lassú elsorvasztásra ítélt][#ref37] Nemzeti Eszközkezelő
 Zrt. megmentette a devizahitel-károsultak egy részének
 lakhatását.
 
-[^1]: https://444.hu/2019/01/25/a-budapesti-berlakasok-kozel-10-szazaleka-uresen-all
-[^2]: https://index.hu/belfold/kopsold0711/
-[^3]: https://diepresse.com/home/diverse/immoapp/5380597/Wohnungspreise-in-Wien-steigen-gebremst-weiter
-[^4]: https://index.hu/gazdasag/penzbeszel/2019/03/09/hogyan_lehetne_olcsobba_tenni_a_lakasokat_es_az_alberleteket_budapesten/ "Például erre mutat rá ez a kiváló elemzés is"
-[^35]: https://net.jogtar.hu/jogszabaly?docid=99100064.TV "1991. évi LXIV. törvény a gyermekek jogairól szóló ENSZ-egyezmény kihirdetéséről (a szóban forgó rendelkezések a 27. cikkben):"
-[^35b]: https://net.jogtar.hu/jogszabaly?docid=99700031.TV "de az 1997. évi XXXI. törvény a gyermekek védelméről és a gyámügyi igazgatásról (Gyvt.) 38. §-ának (1) bekezdése is a szegénység miatti kiemelés gyakorlatával ellentétes általános célt fogalmaz meg"
-[^36]: https://azenpenzem.hu/cikkek/ismet-nagy-bajba-kerulhetnek-az-eszkozkezelosok/5726/
+[#ref1]: https://444.hu/2019/01/25/a-budapesti-berlakasok-kozel-10-szazaleka-uresen-all
+[#ref2]: https://index.hu/belfold/kopsold0711/
+[#ref3]: https://diepresse.com/home/diverse/immoapp/5380597/Wohnungspreise-in-Wien-steigen-gebremst-weiter
+[#ref4]: https://index.hu/gazdasag/penzbeszel/2019/03/09/hogyan_lehetne_olcsobba_tenni_a_lakasokat_es_az_alberleteket_budapesten/ "Például erre mutat rá ez a kiváló elemzés is"
+[#ref5]: https://www.zuglo.hu/tobb-mint-lakohaz/
+[#ref6]: # "Régebben talán azt írtuk volna, hogy „mint társadalompolitikai eszköz”."
+[#ref7]: # "Budapest2030, p. 125."
+[#ref8]: https://www.beol.hu/kozelet/helyi-kozelet/szarvas-hazavar-lakasokkal-segit-a-varos-1558451/
+[#ref9]: (# "A városi, várostervezői oldalról lásd a városszerkezeti fejezetben 
+a belváros dzsentrifikációjának elkerüléséről írtakat"
+[#ref10]: https://www.berlin.de/special/immobilien-und-wohnen/mietrecht/3793279-739654-mietpreisbremse-regelungen-aenderungen-a.html
+[#ref11]: https://index.hu/gazdasag/2018/04/25/rengeteg_az_ures_lakas_magyaroszagon/
+[#ref12]: https://www.habitat.hu/files/131120_20oldalas_vegleges.pdf 
+       "Városkutatás Kft. – Habitat for Humanity Magyarország: Új típusú közösségi bérlakásrendszer (KBR) kiépítése"
+[#ref13]: # "Nincs új a Nap alatt: a Máltai Szeretetszolgálatnál 2014-ben el is indult egy hasonló kicsi próbarendszer"
+[#ref14]: https://habitat.hu/mivel-foglalkozunk/lakhatasi-jelentesek/lakhatasi-jelentes-2018/
+[#ref15]: https://en.wikipedia.org/wiki/Energy_service_company
+[#ref16]: https://www.ofgem.gov.uk/environmental-programmes/eco/about-eco-scheme
+[#ref17]: https://dunaujvaros.hu/hir/3370
+[#ref18]: http://www2.tervlap.hu/cikk-nezet/boldog-szomoru-dal
+[#ref19]: https://avarosmindenkie.blog.hu/2016/09/03/hany_hajlektalan_ember_el_magyarorszagon
+[#ref20]: http://www.atv.hu/belfold/20171101-jon-a-tel-ennyien-elhetnek-az-utcan-csak-budapesten
+[#ref21]: https://nepszava.hu/3014697_nem-a-menhelyek-fele-tereli-a-birsag-a-hajlektalanokat
+[#ref22]: https://444.hu/2019/04/10/hajlektalanszallot-epit-ujpesten-a-kormany
+[#ref23]: https://index.hu/video/2019/01/04/hajlektalanok_becs_budapest_osszehasonlitas_hajlektalanszallo/
+[#ref24]: https://habitat.hu/mivel-foglalkozunk/terepi-programjaink/
+[#ref25]: https://www.bmszki.hu/hu/szocialis-munka-megujitasa/elsokent-lakhatas
+[#ref26]: https://utcarollakasba.hu/
+[#ref27]: https://logout.hu/tema/kihalt_laktanyak_katonai_objektumok/hsz_1-50.html "Egy nem hivatalos 2003-as lista (nem csak szovjet volt katonai létesítménykről) egy internetes fórumon"
+[#ref28]: https://www.kontenerhaz.hu/
+[#ref29]: https://www.kisalfold.hu/velemeny/olasz_lakodoboz_hajlektalanoknak_/1104986/
+[#ref30]: https://444.hu/2019/02/18/kozmunkaval-es-normalis-lakassal-csabitjak-a-foldekre-a-hajlektalanokat
+[#ref31]: https://www.napi.hu/magyar_gazdasag/mar_selejtezi_csodafegyveret_a_kormany.630730.html
+[#ref32]: https://index.hu/gazdasag/2018/11/22/kozmunkasokat_faragna_a_hajlektalanokbol_a_kormany/
+[#ref33]: # "A szállókon élő hajléktalanok fele-kétharmada jelenleg is dolgozik, csak jövedelmük bizonytalan 
+(alkalmi munkák, feketemunkák), vagy nem biztosít elegendő jövedelmet egy piaci árú albérlethez."
+[#ref34]: https://www.nyugodtsziv.hu/?page_id=48 "A téma relatív elhanyagoltsága mellett szerencsére vannak civilszervezetek, akiknek a megelőzés kifejezetten a 
+fő profiluk, például a Nyugodt Szív Alapítvány"
+[#ref35]: https://net.jogtar.hu/jogszabaly?docid=99100064.TV "1991. évi LXIV. törvény a gyermekek jogairól szóló ENSZ-egyezmény kihirdetéséről 
+(a szóban forgó rendelkezések a 27. cikkben)"
+[#ref36]: https://net.jogtar.hu/jogszabaly?docid=99700031.TV "de az 1997. évi XXXI. törvény a gyermekek védelméről és a gyámügyi igazgatásról (Gyvt.) 38. §-ának (1) bekezdése is a szegénység miatti kiemelés gyakorlatával ellentétes általános célt fogalmaz meg"
+[#ref37]: https://azenpenzem.hu/cikkek/ismet-nagy-bajba-kerulhetnek-az-eszkozkezelosok/5726/
 
