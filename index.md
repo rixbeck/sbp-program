@@ -91,21 +91,21 @@
         2. [Lépések a további fejlődés elősegítése érdekében](004-kozlekedes.md#lépések-a-további-fejlődés-elősegítése-érdekében)
     6. [Duna](004-kozlekedes.md#duna)
     
-5. VÁROSI KÖRNYEZET ÉS KÖRNYEZETVÉDELEM 
-    1. A környezetterhelés csökkentésével kapcsolatos általános célkitűzések
-    2. Hulladékgazdálkodás
-        1. Hulladékcsökkentés, szelektív gyűjtés 
-        2. Lomtalanítás új rendszerben
-        3. Csak a szükséges égetés, nulla lerakás
-        4. Szerves (komposztálható; kerti, konyhai, élelmiszer-) hulladék
-        5. Közösségi szemétprogramok és köztisztaság
-        6. A hulladéklogisztika kérdései
-    3. Klímavédelem és levegőtisztaság
-    4. A klímaadaptáció egyéb intézkedései
-    5. Talaj- és víztisztaság 
-        1. A talaj- és vízszennyezés forrásai
-        2. A víz természetesebb körforgása, a víz védelme  
-    6. Zaj-, rezgés- és fényszennyezés
+ 5. [VÁROSI KÖRNYEZET ÉS KÖRNYEZETVÉDELEM ](005-varosi-kornyezet-es-kornyezetvedelem.md#VÁROSI KÖRNYEZET ÉS KÖRNYEZETVÉDELEM )
+     1. [A környezetterhelés csökkentésével kapcsolatos általános célkitűzések](005-varosi-kornyezet-es-kornyezetvedelem.md#a-környezetterhelés-csökkentésével-kapcsolatos-általános-célkitűzések)
+     2. [Hulladékgazdálkodás](005-varosi-kornyezet-es-kornyezetvedelem.md#hulladékgazdálkodás)
+         1. [Hulladékcsökkentés, szelektív gyűjtés ](005-varosi-kornyezet-es-kornyezetvedelem.md#hulladékcsökkentés-szelektív-gyűjtés)
+         2. [Lomtalanítás új rendszerben](005-varosi-kornyezet-es-kornyezetvedelem.md#lomtalanítás-új-rendszerben)
+         3. [Csak a szükséges égetés, nulla lerakás](005-varosi-kornyezet-es-kornyezetvedelem.md#csak-a-szükséges-égetés-nulla-lerakás)
+         4. [Szerves (komposztálható; kerti, konyhai, élelmiszer-) hulladék](005-varosi-kornyezet-es-kornyezetvedelem.md#szerves-komposztálható-kerti-konyhai-élelmiszer-hulladék)
+         5. [Közösségi szemétprogramok és köztisztaság](005-varosi-kornyezet-es-kornyezetvedelem.md#közösségi-szemétprogramok-és-köztisztaság)
+         6. [A hulladéklogisztika kérdései](005-varosi-kornyezet-es-kornyezetvedelem.md#a-hulladéklogisztika-kérdései)
+     3. [Klímavédelem és levegőtisztaság](005-varosi-kornyezet-es-kornyezetvedelem.md#klímavédelem-és-levegőtisztaság)
+     4. [A klímaadaptáció egyéb intézkedései](005-varosi-kornyezet-es-kornyezetvedelem.md#a-klímaadaptáció-egyéb-intézkedései)
+     5. [Talaj- és víztisztaság ](005-varosi-kornyezet-es-kornyezetvedelem.md#talaj-és-víztisztaság)
+         1. [A talaj- és vízszennyezés forrásai](005-varosi-kornyezet-es-kornyezetvedelem.md#a-talaj-és-vízszennyezés-forrásai)
+         2. [A víz természetesebb körforgása, a víz védelme  ](005-varosi-kornyezet-es-kornyezetvedelem.md#a-víz-természetesebb-körforgása,-a-víz-védelme)
+     6. [Zaj-, rezgés- és fényszennyezés](005-varosi-kornyezet-es-kornyezetvedelem.md#zaj-rezgés-és-fényszennyezés)
     
 6. ZÖLD INFRASTRUKTÚRA 
     1. A fővárosi zöld infrastruktúra fejlesztési célkitűzései
