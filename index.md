@@ -211,6 +211,8 @@ Most itt a program, mely választ ad Budapest legégetőbb problémáira, újrat
 
 _– Puzsér Róbert-_
 
+--- 
+
 ### Szerzők
 
 #### Főszerkesztő és vezető szerző:
