@@ -107,119 +107,136 @@
          2. [A víz természetesebb körforgása, a víz védelme  ](005-varosi-kornyezet-es-kornyezetvedelem.md#a-víz-természetesebb-körforgása,-a-víz-védelme)
      6. [Zaj-, rezgés- és fényszennyezés](005-varosi-kornyezet-es-kornyezetvedelem.md#zaj-rezgés-és-fényszennyezés)
     
-6. ZÖLD INFRASTRUKTÚRA 
-    1. A fővárosi zöld infrastruktúra fejlesztési célkitűzései
-        1. Általános fejlesztési alapelvek, irányok és célkitűzések
-        2. Kiterjedés, minőség és hozzáférhetőség
-        3. A Sétáló Budapest program vállalásai a zöldfelületi ellátottság terén 
-        4. Hálózatosság
-        5. A Sétáló Budapest program vállalásai a hálózatosság fejlesztése végett 
-        6. A pont- és foltszerű zöld infrastrukturális elemek 
-        7. A Sétáló Budapest program vállalásai a pont- és foltszerű zöld infrastruktúra terén
-        8. A zöld infrastruktúra vonalas elemei
-        9. A Sétáló Budapest program vállalásai a vonalas zöld infrastruktúra terén
-        10. Városi csapadékvíz-gazdálkodás
-        11. A Sétáló Budapest program vállalásai a zöld infrastruktúrával javított csapadékvíz-gazdálkodás terén
-        12. A zöld infrastruktúra társadalmi funkciói
-        13. A Sétáló Budapest program vállalásai a zöld infrastruktúra társadalmi funkcióiért 
-    2. Az egyes zónákra vonatkozó specifikus célkitűzések, irányok 
-        1. Zöld infrastruktúra a központi sétálózónában
-        2. Behajtási díjas zóna 
-        3. A (panel-) lakótelepek
-        4. Kertváros
-        5. Vasúti rozsdaövezetek  
-        6. A barnazónák zöldítése 
-    3. Fenntartható zöldfelület-gazdálkodás
-        1. Természetvédelem a városban – városi biodiverzitás 
-        2. Zöldinfrastruktúra-fenntartási és -fejlesztési ügyosztály kialakítása 
-        3. A zöld infrastruktúra egy tipikus és fontos használata: kutyás Budapest  
+ 6. [ZÖLD INFRASTRUKTÚRA ](006-zold-infrastuktura.md#zöld-infrastruktúra)
+     1. [A fővárosi zöld infrastruktúra fejlesztési célkitűzései](006-zold-infrastuktura.md#a-fővárosi-zöld-infrastruktúra-fejlesztési-célkitűzései)
+         1. [Általános fejlesztési alapelvek, irányok és célkitűzések](006-zold-infrastuktura.md#általános-fejlesztési-alapelvek,-irányok-és-célkitűzések)
+         2. [Kiterjedés, minőség és hozzáférhetőség](006-zold-infrastuktura.md#kiterjedés,-minőség-és-hozzáférhetőség)
+         3. [A Sétáló Budapest program vállalásai a zöldfelületi ellátottság terén ](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-zöldfelületi-ellátottság-terén)
+         4. [Hálózatosság](006-zold-infrastuktura.md#hálózatosság)
+         5. [A Sétáló Budapest program vállalásai a hálózatosság fejlesztése végett ](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-hálózatosság-fejlesztése-végett)
+         6. [A pont- és foltszerű zöld infrastrukturális elemek ](006-zold-infrastuktura.md#a-pont-és-foltszerű-zöld-infrastrukturális-elemek)
+         7. [A Sétáló Budapest program vállalásai a pont- és foltszerű zöld infrastruktúra terén](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-pont-és-foltszerű-zöld-infrastruktúra-terén)
+         8. [A zöld infrastruktúra vonalas elemei](006-zold-infrastuktura.md#a-zöld-infrastruktúra-vonalas-elemei)
+         9. [A Sétáló Budapest program vállalásai a vonalas zöld infrastruktúra terén](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-vonalas-zöld-infrastruktúra-terén)
+         10. [Városi csapadékvíz-gazdálkodás](006-zold-infrastuktura.md#városi-csapadékvíz-gazdálkodás)
+         11. [A Sétáló Budapest program vállalásai a zöld infrastruktúrával javított csapadékvíz-gazdálkodás terén](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-zöld-infrastruktúrával-javított-csapadékvíz-gazdálkodás-terén)
+         12. [A zöld infrastruktúra társadalmi funkciói](006-zold-infrastuktura.md#a-zöld-infrastruktúra-társadalmi-funkciói)
+         13. [A Sétáló Budapest program vállalásai a zöld infrastruktúra társadalmi funkcióiért ](006-zold-infrastuktura.md#a-sétáló-budapest-program-vállalásai-a-zöld-infrastruktúra-társadalmi-funkcióiért)
+     2. [Az egyes zónákra vonatkozó specifikus célkitűzések, irányok ](006-zold-infrastuktura.md#az-egyes-zónákra-vonatkozó-specifikus-célkitűzések,-irányok)
+         1. [Zöld infrastruktúra a központi sétálózónában](006-zold-infrastuktura.md#zöld-infrastruktúra-a-központi-sétálózónában)
+         2. [Behajtási díjas zóna ](006-zold-infrastuktura.md#behajtási-díjas-zóna)
+         3. [A (panel-) lakótelepek](006-zold-infrastuktura.md#a-(panel-)-lakótelepek)
+         4. [Kertváros](006-zold-infrastuktura.md#kertváros)
+         5. [Vasúti rozsdaövezetek  ](006-zold-infrastuktura.md#vasúti-rozsdaövezetek)
+         6. [A barnazónák zöldítése ](006-zold-infrastuktura.md#a-barnazónák-zöldítése)
+     3. [Fenntartható zöldfelület-gazdálkodás](006-zold-infrastuktura.md#fenntartható-zöldfelület-gazdálkodás)
+         1. [Természetvédelem a városban – városi biodiverzitás ](006-zold-infrastuktura.md#természetvédelem-a-városban-–-városi-biodiverzitás)
+         2. [Zöldinfrastruktúra-fenntartási és -fejlesztési ügyosztály kialakítása ](006-zold-infrastuktura.md#zöldinfrastruktúra-fenntartási-és--fejlesztési-ügyosztály-kialakítása)
+         3. [A zöld infrastruktúra egy tipikus és fontos használata: kutyás Budapest](006-zold-infrastuktura.md#a-zöld-infrastruktúra-egy-tipikus-és-fontos-használata:-kutyás-budapest)
         
-7. A FŐVÁROS ÉJSZAKAI GAZDASÁGA ÉS NAPPALI KULTÚRÁJA 
-    1. Városvezetési irányelvek 
-        1. Bulinegyed 
-        2. Turizmus  
-    2. Együttélés 24 órában
-        1. Köztisztaság
-        2. A zajterhelés csökkentése  
-    3. Biztonság az éjszakában 
-    4. Fővárosi drogpolitika
-    5. Kulturális diverzitás 
-        1. Teret adunk az élőzenének 
-    6. Benépesülő rekreációs terek 
-    7. Fenntarthatóság és társadalmi felelősség 
-        1. Fenntarthatósági partnerség
-        2. Társadalmi aspektusok  
+ 7. [A FŐVÁROS ÉJSZAKAI GAZDASÁGA ÉS NAPPALI KULTÚRÁJA ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#a-főváros-éjszakai-gazdasága-és-nappali-kultúrája)
+     1. [Városvezetési irányelvek ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#városvezetési-irányelvek)
+         1. [Bulinegyed ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#bulinegyed)
+         2. [Turizmus  ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#turizmus)
+     2. [Együttélés 24 órában](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#együttélés-24-órában)
+         1. [Köztisztaság](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#köztisztaság)
+         2. [A zajterhelés csökkentése  ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#a-zajterhelés-csökkentése)
+     3. [Biztonság az éjszakában ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#biztonság-az-éjszakában)
+     4. [Fővárosi drogpolitika](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#fővárosi-drogpolitika)
+     5. [Kulturális diverzitás ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#kulturális-diverzitás)
+         1. [Teret adunk az élőzenének ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#teret-adunk-az-élőzenének)
+     6. [Benépesülő rekreációs terek ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#benépesülő-rekreációs-terek)
+     7. [Fenntarthatóság és társadalmi felelősség ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#fenntarthatóság-és-társadalmi-felelősség)
+         1. [Fenntarthatósági partnerség](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#fenntarthatósági-partnerség)
+         2. [Társadalmi aspektusok  ](007-a-fovaros-ejszakai-gazdasaga-ez-nappali-kulturaja.md#társadalmi-aspektusok)
         
-8. LAKHATÁS ÉS HAJLÉKTALANSÁG 
-    1. Az önkormányzati bérlakásállomány növelése
-        1. Tőkekímélő módszerek
-        2. A bérlakások számának növelése mint a teljes társadalom számára hasznos fejlesztés 
-        3. Ingatlanvállalkozó önkormányzatok – a fő stratégia a bérlakásállomány-növelés mögött
-    2. Egyéb lakáspolitikai eszközök  
-        1. A közösségi szálláshely-szolgáltatás szabályozása  
-        2. A magántulajdonú bérlakások piacának szabályozása 
-        3. A nem önkormányzati tulajdonú lakásállomány gyarapítása  
-        4. A lakásfejlesztésekhez kapcsolódó intézményfejlesztések 
-        5. „Beruházásmentes” ingatlan-korszerűsítések szervezése
-    3. Hajléktalanság  
-        1. Az intézményrendszer rövid távú sorsa 
-        2. Tényleges lakhatás 
-        3. Újraintegrálás
-        4. Megelőzés
+ 8. [LAKHATÁS ÉS HAJLÉKTALANSÁG ](008-lakhatas-es-hajlektalansag.md#lakhatás-és-hajléktalanság)
+     1. [Az önkormányzati bérlakásállomány növelése](008-lakhatas-es-hajlektalansag.md#az-önkormányzati-bérlakásállomány-növelése)
+         1. [Tőkekímélő módszerek](008-lakhatas-es-hajlektalansag.md#tőkekímélő-módszerek)
+         2. [A bérlakások számának növelése mint a teljes társadalom számára hasznos fejlesztés ](008-lakhatas-es-hajlektalansag.md#a-bérlakások-számának-növelése-mint-a-teljes-társadalom-számára-hasznos-fejlesztés)
+         3. [Ingatlanvállalkozó önkormányzatok – a fő stratégia a bérlakásállomány-növelés mögött](008-lakhatas-es-hajlektalansag.md#ingatlanvállalkozó-önkormányzatok-–-a-fő-stratégia-a-bérlakásállomány-növelés-mögött)
+     2. [Egyéb lakáspolitikai eszközök  ](008-lakhatas-es-hajlektalansag.md#egyéb-lakáspolitikai-eszközök)
+         1. [A közösségi szálláshely-szolgáltatás szabályozása  ](008-lakhatas-es-hajlektalansag.md#a-közösségi-szálláshely-szolgáltatás-szabályozása)
+         2. [A magántulajdonú bérlakások piacának szabályozása ](008-lakhatas-es-hajlektalansag.md#a-magántulajdonú-bérlakások-piacának-szabályozása)
+         3. [A nem önkormányzati tulajdonú lakásállomány gyarapítása  ](008-lakhatas-es-hajlektalansag.md#a-nem-önkormányzati-tulajdonú-lakásállomány-gyarapítása)
+         4. [A lakásfejlesztésekhez kapcsolódó intézményfejlesztések ](008-lakhatas-es-hajlektalansag.md#a-lakásfejlesztésekhez-kapcsolódó-intézményfejlesztések)
+         5. [„Beruházásmentes” ingatlan-korszerűsítések szervezése](008-lakhatas-es-hajlektalansag.md#„beruházásmentes”-ingatlan-korszerűsítések-szervezése)
+     3. [Hajléktalanság  ](008-lakhatas-es-hajlektalansag.md#hajléktalanság)
+         1. [Az intézményrendszer rövid távú sorsa ](008-lakhatas-es-hajlektalansag.md#az-intézményrendszer-rövid-távú-sorsa)
+         2. [Tényleges lakhatás ](008-lakhatas-es-hajlektalansag.md#tényleges-lakhatás)
+         3. [Újraintegrálás](008-lakhatas-es-hajlektalansag.md#újraintegrálás)
+         4. [Megelőzés](008-lakhatas-es-hajlektalansag.md#megelőzés)
         
-9. SZOCIÁLIS ELLÁTÁSOK ÉS EGÉSZSÉGÜGY
-    1. Pénzbeli szociális ellátások
-        1. Egységes fővárosi rendszer
-        2. Normatív általános szociális segély a legszegényebbeknek 
-    2. Nem pénzbeli szociális ellátások 
-        1. Intézményrendszer  
-        2. Új szolgáltatások, ellátások 
-    3. Kezdeményezések a központi (országos) rendszer megváltoztatására
-    4. Egészségügy
-        1. Egységes rendszer a betegutak első állomásán 
-        2. Javaslatok az állami felügyeletű intézményrendszer számára 
-        3. Kiegészítő intézményrendszer
-        4. Megelőzés, egészséges város
+ 9. [SZOCIÁLIS ELLÁTÁSOK ÉS EGÉSZSÉGÜGY](009-szocialis-ellatasok-es-egeszsegugy.md#szociális-ellátások-és-egészségügy)
+     1. [Pénzbeli szociális ellátások](009-szocialis-ellatasok-es-egeszsegugy.md#pénzbeli-szociális-ellátások)
+         1. [Egységes fővárosi rendszer](009-szocialis-ellatasok-es-egeszsegugy.md#egységes-fővárosi-rendszer)
+         2. [Normatív általános szociális segély a legszegényebbeknek ](009-szocialis-ellatasok-es-egeszsegugy.md#normatív-általános-szociális-segély-a-legszegényebbeknek)
+     2. [Nem pénzbeli szociális ellátások ](009-szocialis-ellatasok-es-egeszsegugy.md#nem-pénzbeli-szociális-ellátások)
+         1. [Intézményrendszer  ](009-szocialis-ellatasok-es-egeszsegugy.md#intézményrendszer)
+         2. [Új szolgáltatások, ellátások ](009-szocialis-ellatasok-es-egeszsegugy.md#új-szolgáltatások,-ellátások)
+     3. [Kezdeményezések a központi (országos) rendszer megváltoztatására](009-szocialis-ellatasok-es-egeszsegugy.md#kezdeményezések-a-központi-(országos)-rendszer-megváltoztatására)
+     4. [Egészségügy](009-szocialis-ellatasok-es-egeszsegugy.md#egészségügy)
+         1. [Egységes rendszer a betegutak első állomásán ](009-szocialis-ellatasok-es-egeszsegugy.md#egységes-rendszer-a-betegutak-első-állomásán)
+         2. [Javaslatok az állami felügyeletű intézményrendszer számára ](009-szocialis-ellatasok-es-egeszsegugy.md#javaslatok-az-állami-felügyeletű-intézményrendszer-számára)
+         3. [Kiegészítő intézményrendszer](009-szocialis-ellatasok-es-egeszsegugy.md#kiegészítő-intézményrendszer)
+         4. [Megelőzés, egészséges város](009-szocialis-ellatasok-es-egeszsegugy.md#megelőzés,-egészséges-város)
         
-10. OKTATÁSÜGY, IFJÚSÁGPOLITIKA
-    1. Kisgyermeknevelés 
-        1. Teljes bölcsődei, óvodai ellátás, egységes szemlélet
-        2. Komplex intézményrendszer, finomítási lehetőségek 
-    2. Intenzívebb, segítő kapcsolat az államosított közoktatással 
-        1. Sétáló iskola, „iskolakerülő” programok diákok és pedagógusok számára 
-    3. Ifjúságpolitika 
-        1. A pályakezdő értelmiség megtartása  
-        2. A kallódó ifjúság megmentése
+ 10. [OKTATÁSÜGY, IFJÚSÁGPOLITIKA](010-oktatasugy-ifjusagpolitika#oktatásügy,-ifjúságpolitika)
+     1. [Kisgyermeknevelés ](010-oktatasugy-ifjusagpolitika#kisgyermeknevelés)
+         1. [Teljes bölcsődei, óvodai ellátás, egységes szemlélet](010-oktatasugy-ifjusagpolitika#teljes-bölcsődei,-óvodai-ellátás,-egységes-szemlélet)
+         2. [Komplex intézményrendszer, finomítási lehetőségek ](010-oktatasugy-ifjusagpolitika#komplex-intézményrendszer,-finomítási-lehetőségek)
+     2. [Intenzívebb, segítő kapcsolat az államosított közoktatással ](010-oktatasugy-ifjusagpolitika#intenzívebb,-segítő-kapcsolat-az-államosított-közoktatással)
+         1. [Sétáló iskola, „iskolakerülő” programok diákok és pedagógusok számára ](010-oktatasugy-ifjusagpolitika#sétáló-iskola,-„iskolakerülő”-programok-diákok-és-pedagógusok-számára)
+     3. [Ifjúságpolitika ](010-oktatasugy-ifjusagpolitika#ifjúságpolitika)
+         1. [A pályakezdő értelmiség megtartása  ](010-oktatasugy-ifjusagpolitika#a-pályakezdő-értelmiség-megtartása)
+         2. [A kallódó ifjúság megmentése](010-oktatasugy-ifjusagpolitika#a-kallódó-ifjúság-megmentése)
         
-11. VÁLLALKOZÁSOK, MAGÁNGAZDASÁG
-    1. Budapest motorja, a magángazdaság 
-        1. Használható nyilvántartásokat, információcserét! 
-        2. Mentorálás és inkubáció  
-        3. Kiszámítható szabályozói környezet 
-    2. A magángazdaság a helyi társadalom szolgálatában 
-        1. Az önkormányzatok a helyi gazdaság szolgálatában
-    3. Zöldellő ipar 4.0
-    4. Idegenforgalom
-        1. A közösségi gazdaság az idegenforgalomban
-    5. Kiemelt figyelem a startup-szektorra
+ 11. [VÁLLALKOZÁSOK, MAGÁNGAZDASÁG](011-vallalkozasok-magangazdasag#vállalkozások,-magángazdaság)
+     1. [Budapest motorja, a magángazdaság ](011-vallalkozasok-magangazdasag#budapest-motorja,-a-magángazdaság)
+         1. [Használható nyilvántartásokat, információcserét! ](011-vallalkozasok-magangazdasag#használható-nyilvántartásokat,-információcserét!)
+         2. [Mentorálás és inkubáció  ](011-vallalkozasok-magangazdasag#mentorálás-és-inkubáció)
+         3. [Kiszámítható szabályozói környezet ](011-vallalkozasok-magangazdasag#kiszámítható-szabályozói-környezet)
+     2. [A magángazdaság a helyi társadalom szolgálatában ](011-vallalkozasok-magangazdasag#a-magángazdaság-a-helyi-társadalom-szolgálatában)
+         1. [Az önkormányzatok a helyi gazdaság szolgálatában](011-vallalkozasok-magangazdasag#az-önkormányzatok-a-helyi-gazdaság-szolgálatában)
+     3. [Zöldellő ipar 4.0](011-vallalkozasok-magangazdasag#zöldellő-ipar-4-0)
+     4. [Idegenforgalom](011-vallalkozasok-magangazdasag#idegenforgalom)
+         1. [A közösségi gazdaság az idegenforgalomban](011-vallalkozasok-magangazdasag#a-közösségi-gazdaság-az-idegenforgalomban)
+     5. [Kiemelt figyelem a startup-szektorra](011-vallalkozasok-magangazdasag#kiemelt-figyelem-a-startup-szektorra)
 
 ## Előszó
 
-Amikor először beszéltem a programíró csapattal, azt kértem, hogy dolgozzák ki a városközpont sétálóövezetének részleteit, 
-s e szemléletet a belső és külső kerületekben egyaránt érvényesítve alkossák meg egy élhető, európai és zöld város
-átfogó programját. Azt kértem, hogy felejtsék el a politikusok és a marketingesek
-ravaszkodását, amihez az elmúlt évek során esetleg alkalmazkodniuk kellett – ne
-ígérjünk semmit, amihez nem lesz joga vagy pénze a fővárosnak, és cseppet se
-féljünk népszerűtlen vállalásokat tenni, ha azok az itt élők érdekeit szolgálják.
+Amikor először beszéltem a programíró csapattal, azt kértem, hogy dolgozzák ki a városközpont sétálóövezetének részleteit, s e szemléletet a belső és külső kerületekben egyaránt érvényesítve alkossák meg egy élhető, európai és zöld város átfogó programját. Azt kértem, hogy felejtsék el a politikusok és a marketingesek ravaszkodását, amihez az elmúlt évek során esetleg alkalmazkodniuk kellett – ne ígérjünk semmit, amihez nem lesz joga vagy pénze a fővárosnak, és cseppet se féljünk népszerűtlen vállalásokat tenni, ha azok az itt élők érdekeit szolgálják.
 
-Most itt a program, mely választ ad Budapest legégetőbb problémáira, újratervezi azt belvárosközpontúról kerületközpontúra, autóról emberre, a felső tíz
-százalék igényeiről az alsó kilencven százalék szükségleteire. A Sétáló Budapest
-programja Nyugat-Európa élhető és zöld nagyvárosainak normáit alkalmazza
-Budapestre, új városközpontokat, munkahelyeket, szolgáltatásokat és kultúrát visz a külvárosokba, szembenéz a lakhatási válsággal, a mindent elárasztó
-betonnal és szmoggal, a dugókkal, a parkolási és ingatlanmaffiával.
-Köszönöm a munkáját annak a hetven mérnöknek, urbanistának és közgazdásznak, akik megalkották ezt a programot! Lángpallosként hordozom majd
-magam előtt a politikai és a civil szférában, s ha bárki részben vagy egészen
-átveszi, hogy megvalósítsa, csakis hálát érzek majd.
+Most itt a program, mely választ ad Budapest legégetőbb problémáira, újratervezi azt belvárosközpontúról kerületközpontúra, autóról emberre, a felső tíz százalék igényeiről az alsó kilencven százalék szükségleteire. A Sétáló Budapest programja Nyugat-Európa élhető és zöld nagyvárosainak normáit alkalmazza Budapestre, új városközpontokat, munkahelyeket, szolgáltatásokat és kultúrát visz a külvárosokba, szembenéz a lakhatási válsággal, a mindent elárasztó betonnal és szmoggal, a dugókkal, a parkolási és ingatlanmaffiával. Köszönöm a munkáját annak a hetven mérnöknek, urbanistának és közgazdásznak, akik megalkották ezt a programot! Lángpallosként hordozom majd magam előtt a politikai és a civil szférában, s ha bárki részben vagy egészen átveszi, hogy megvalósítsa, csakis hálát érzek majd.
 
-_– Puzsér Róbert_
+_– Puzsér Róbert-_
+
+### Szerzők
+
+#### Főszerkesztő és vezető szerző:
+
+Bodrog Zoltán
+
+#### További fő szerzők:
+
+Bús Bianka,
+Csonka Berta (EB OVO Közhasznú Egyesület),
+Csörgics Mátyás,
+Dormán Miklós,
+Gáspár Zita,
+Hartvig Dániel,
+Jakabfy Tamás,
+Králl Attila,
+Lévay Csaba,
+Pongrácz Gergely,
+Tot Kristóf,
+
+…és még további tíz szerző, akik névvel nem vállalhatták munkájukat.
+
+Köszönet továbbá a programíró stáb további ötven szerzőjének és annak a több száz budapestinek, akik érszrevételelikkel, javaslataikkal alakították programunkat.
+
+Kiadja:
+_Állampolgárok a centrumban Egyesület_ nevében Zaránd Péter
+
+Budapest, 2019
 
