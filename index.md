@@ -193,7 +193,7 @@
         
  11. [VÁLLALKOZÁSOK, MAGÁNGAZDASÁG](011-vallalkozasok-magangazdasag.md#vállalkozások,-magángazdaság)
      1. [Budapest motorja, a magángazdaság ](011-vallalkozasok-magangazdasag.md#budapest-motorja,-a-magángazdaság)
-         1. [Használható nyilvántartásokat, információcserét! ](011-vallalkozasok-magangazdasag.md#használható-nyilvántartásokat,-információcserét!)
+         1. [Használható nyilvántartásokat, információcserét! ](011-vallalkozasok-magangazdasag.md#használható-nyilvántartásokat-információcserét!)
          2. [Mentorálás és inkubáció  ](011-vallalkozasok-magangazdasag.md#mentorálás-és-inkubáció)
          3. [Kiszámítható szabályozói környezet ](011-vallalkozasok-magangazdasag.md#kiszámítható-szabályozói-környezet)
      2. [A magángazdaság a helyi társadalom szolgálatában ](011-vallalkozasok-magangazdasag.md#a-magángazdaság-a-helyi-társadalom-szolgálatában)
