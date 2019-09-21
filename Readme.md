@@ -4,33 +4,56 @@ A [Sétáló Budapest][#sbphome] program koncepcióját Puzsér Róbert alkotta 
 
 A kezdeményezés szakítani kíván a jelenkor, magyar politikai beidegződéseivel és leszámolást hírdet a párthatalmi elit megszokottá vált, társadalmat megosztó kommunikációjával, előtérbe helyezve olyan minimumokat mint az átláthatóság és számonkérhetőség, aminek általános hiánya a jelen politikai atmoszférában mára elinflálta annak hitelességét. 
 
-A Sétáló Budapest víziója és a Cetrum - mint a fennálló [kétpólusú politikára][#u2b-6000] adott válasz - megképzésének össztársadalmi igénye létrehívta a Állampolgárok a centrumban Egyesületet, amely közösségi finanszírozásból, civil aktivisták msegítségével összegyűjtötte az őszi, önkorményzati választásokon való részvételhez szükséges ajánlásokat, így Puzsér Róbertet az egyesület képviseletében, a Nemzeti Választási Bizottság Budapest főpolgármesteri címre, jelöltként nyílvántartásba vette.
+A Sétáló Budapest víziója és a Cetrum - mint a fennálló [kétpólusú politikára][#u2b-6000] adott válasz - megképzésének össztársadalmi igénye létrehívta a Állampolgárok a centrumban Egyesületet, amely közösségi finanszírozásból, civil aktivisták segítségével összegyűjtötte az őszi, önkorményzati választásokon való részvételhez szükséges ajánlásokat, így Puzsér Róbertet az egyesület képviseletében, a Nemzeti Választási Bizottság Budapest főpolgármesteri címre, jelöltként nyílvántartásba vette.
 
 ## A Program
 
-A Sétáló Budapest program Budapest legégetőbb problémájára, a fokozot autóközpontúságra kínál alternatívát, egy központi, összefüggően bejárható sétálóövezet kialakításával, valamint annak mintájára kerületenként is érvényesíteni kívánja az élhető, zöld és emberközpontú szemléletet. 
+A [Sétáló Budapest program][#sbp-program-bitbucket] Budapest legégetőbb problémáira, de elsősorban a fokozott autóközpontúságra kínál alternatívát, egy központi, összefüggően bejárható sétálóövezet kialakításával, valamint annak mintájára kerületenként is érvényesíteni kívánja az élhető, zöld és emberközpontú szemléletet. 
 
 A program bevezetőjéből kiderül, hogy annak kidolgozásákor fundamentális szempont volt, hogy a politikai hagyományokkal szakítva az ne ígérjen vagy kínáljon olyan vállalásokat amelyekre az Önkormányzat hivatalának jogi vagy pénzügyi lehetősége nincs, ugyanakkor a legmagasabb szakmai színvonalat képviselje, mindenek előtt szemelőtt tartva a városban élők érdekeit.
 
 Ezt a szakmai ignyességet alátámasztja, hogy több mint 70 szerző - köztük közlekedés-mérnökök, közlekedés- és várostervezésben, urbanisztikában, vállalkozás szervezésben jártas szakemberek - több hónapos, összehangolt munkájával állt össze a dokumentum, akik közül néhányan névük feltüntetését nem vállalhatták. 
 
-A 150 oldalas, 11 fejezetből álló dokumentum a 2019-es választások idején nemcsak szakmai alapossága, társadalmi profitabilitása és a felvetetett nagyvárosi életmódra adott válaszok tekintetében tekinthető iránymutatónak, hanem azért is mert a többi aspiráns párt által támogatott főpolgármester jelölt egyike sem állt elő dokumentált tervvel Budapest jövőjét, élhetőségét illetően. Valójában ez az eredmény igazolni látszik azt a feltevést, hogy a Centrum civil bázisa képes politikai precedenseket teremteni. Jelen esetben precedensnek tekinthető, hogy - ugyan a mai politikai kultúra módszeresen eródálta el a választási programalkotás folyamatát és azt lezüllesztette a bazári kereskedők ígéreteinek színvonalára - a program nem a választók vágyainak kielégítését hanem elsődleges érdekeit szolgálja.
+A 1[50 oldalas, 11 fejezetből álló dokumentum][#sbp-program-full] a 2019-es választások idején nemcsak szakmai alapossága, társadalmi profitabilitása és a felvetetett nagyvárosi életmódra adott válaszok tekintetében tekinthető iránymutatónak, hanem azért is mert a többi aspiráns párt által támogatott főpolgármester jelölt egyike sem állt elő dokumentált tervvel Budapest jövőjét, élhetőségét illetően. Valójában ez az eredmény igazolni látszik azt a feltevést, hogy a Centrum civil bázisa képes politikai precedenseket teremteni. Jelen esetben precedensnek tekinthető, hogy - ugyan a mai politikai kultúra módszeresen eródálta el a választási programalkotás folyamatát és azt lezüllesztette a bazári kereskedők ígéreteinek színvonalára - a program nem a választók vágyainak kielégítését hanem elsődleges érdekeit szolgálja.
 
 A program "az élhető város" és "zöld alternatíva" kifejezések említésével jelenik meg leggyakrabban a hírportálok és videómegosztók felületén de ezeken a címszavakon messze túlmutató témaköröket érintve kíván Budapest problémáira választ adni. 
 
+### A programalkotás folyamata
+
+A programkészítés az alábbi lépések mentén zajlott:
+
+* 60 oldalas belső vitairat készítése
+* Civil szervezetek visszajelzése és véleményezése 
+* A program részleteinek publikus megvitatása során elhangzott visszajelzések beemelése a programba 
+* Programbemutató 
+
 ### A Program tartalmi elemei
 
-A fővárosi önkormányzás szervezeti kérdései fejezet tisztázza az Önkormányzat működésének alapfeltételeit, a kerületekkel és elővárosokkal szoros együttműködésre való törekvés alapvető fontosságát, az agglomerációs önkormányzati társulás megalapítását. A teljes transzparencia, a közbeszerzések alapelveinek tisztázása mellett a döntéselőkészítés - civil szervezetek és ellenzékük felé - nyitottá tételének fontossága jelenik meg és megfogalmazza, hogy a célok megvalósítása érdekében fel kívánja számolni a "politikai oldalak mentén" keletkezett [törésvonalakat][#mandi-vona].
+A **fővárosi önkormányzás szervezeti kérdései** fejezet tisztázza az Önkormányzat működésének alapfeltételeit, a kerületekkel és elővárosokkal szoros együttműködésre való törekvés alapvető fontosságát, az agglomerációs önkormányzati társulás megalapítását. A teljes transzparencia, a közbeszerzések alapelveinek tisztázása mellett a döntéselőkészítés - civil szervezetek és ellenzékük felé - nyitottá tételének fontossága jelenik meg és megfogalmazza, hogy a célok megvalósítása érdekében fel kívánja számolni a "politikai oldalak mentén" keletkezett [törésvonalakat][#mandi-vona].
 
-A városszerkezet témakör először is rendszerezi a város jelenlegi szerkezetéből adódó problémákat majd az emberközpontúság szempontjai mentén rendezési javaslatot kínál. Kitér az elhanyagolt és elhagyott területek hasznosítására, a belváros tehermentesítésének módjaira.
+A **városszerkezet** témakör először is rendszerezi a város jelenlegi szerkezetéből adódó problémákat majd az emberközpontúság szempontjai mentén rendezési javaslatot kínál. Kitér az elhanyagolt és elhagyott területek hasznosítására, a belváros tehermentesítésének módjaira.
 
-A szerkezeti kérdéseket követően városarculati és örökségvédelmi stratégiát határoz meg a program melyben fokozott közösségi szerephez jutnak a terek, az autós forgalom alól felszabadított zónák. Tervezi a műemlékek megelőző karbantartását és a város számára jól megjegyezhető arculatot alakít ki, elsősorban az üzletek és hirdetések tekintetében, majd tisztázza, hogy a Duna és a lakók között pedig szerves kapcsolatot kíván teremteni.
+A szerkezeti kérdéseket követően **városarculati és örökségvédelmi stratégiát** határoz meg a program melyben fokozott közösségi szerephez jutnak a terek, az autós forgalom alól felszabadított zónák. Tervezi a műemlékek megelőző karbantartását és a város számára jól megjegyezhető arculatot alakít ki, elsősorban az üzletek és hirdetések tekintetében, majd tisztázza, hogy a Duna és a lakók között pedig szerves kapcsolatot kíván teremteni.
 
-...
+A program - mind terjedelmében, mind pedig tematikájában - talán legfajsúlyosabb fejezete, a **közlekedés** igyekszik választ adni Budapest egyik legneuralgikusabb kérdésére és egyensúlyba kívánja hozni Budapest jelenlegi autó szemléletű közlekedésszervezését az emberközpontúsággal. A szerzők nem estek abba a hibába, hogy egy - a programban meghatározott léptékű - sétálózóna bevezetésének javaslatával ne térnének ki az ezt támogató, megfelelő minőségű közösségi- és tömegközlekedés, valamint parkolási megoldások felvetésére, mindvégig szemelőtt tartva az ésszerű megvalósíthatóságot.
+
+Az eddigiekben egymásra épülő tematikát váltja a hulladékgazdálkodást és köztisztaságot érintő **Városi környezet és környezetvédelem** című fejezet amely nem csak Budapest, hanem globális léptékű szemléletmód változásra ösztönöz. Célokat tűz ki a szelektív hulladékgyűjtés és -feldolgozás kérdékörében és a lomtalanítás rendszerében kardinális változások eszközlését terjeszti elő.
+
+A **Zöld infrastruktúra** témakör komoly terjedelmű megoldásrendszere nemcsak Budapest fogyatkozó zöldfelületének megóvásának, rehabilitációjának kérdéseire szeretne választ adni hanem tisztázza a város egyes szegmenseinek (úgy mint pl. kertvárosok, lakótelepek, barnazónák, stb.) zöldebbé, élhetőbbé tételét a zöld infrastruktúra fenntarthatóságának alapproblémáit is.
+
+A **Főváros éjszakai gazdasága és nappali kultúrája** fejezetben az utóbbi évek belvárosi, ingatlanpicai helyzetének megváltozásából és a jelenlegi tömegturizmusból adódó konfliktusok feloldására találunk lehetséges megoldásokat. Fontos szempontnak tekinti, és egyensúlyt kíván teremteni az éjszakai szórakozóhelyek, a turizmus és a lakhatáshoz, pihenéshez való jog között. Ellenpontot kíván állítani a tömegkultúrának azzal, hogy támogatni kívánja az igényes szórakozás lehetőségét.
+
+A budapesti lakhatási problémák enyhítésére, felszámolására próbál megoldást kínálni a **Lakhatás és hajléktalanság** fejezet. Budapesten lakások ezrei állnak üresen, miközben társadalmi csoportok szorulnak az utcára vagy szabályozatlan - és számukra hátrányos - körülmények között próbálnak a megélhetés és a lakhatás között egyensúlyozni. A szociálisan rászorulók, fiatalok és idősek számára is létkérdésnek bizonyuló lakbér kérdésben vet fel - többek közt - megoldást ami hidat képezhet a piaci és szociális bérlési alternatívák között. A hajléktalanság problémájára inkább a megelőzésben, a családok egybentartásának támogatásában vet fel javaslatokat.
+
+**Szociális ellátások és egészségügy** - a kormányzatok sajátos hozzáállása az egészségügy és szociális ellátások problémájához valamint az önkormányzatok szinte zéró mozgástere diszkrét határvonalat jelöl ki a lehetőségek között. A kerületek közötti koordináció, egységes előjegyzési betegirányítási rendszer és az egészségmegőrzés, megelőzés szintjén lát a program alkotója beavatkozási lehetőséget.
+
+Bölcsődék, óvodák, iskolák, **Oktatásügy és ifjúságpolitika**. Elsősorban egy egységes szemléletben, magán- és alapítványi intézményekkel szoros együttműködésben konszolidálná az ifjúságpolitikai feladatokat, az oktatást. Felhívja a figyelmet a súlyos mértékben központosított rendszer által szűkre szabott mozgástérre és keresi azokat a pontokat ahol az ifjúság- és gyermekvédelem témakör mentén támogatást nyújthat.
+
+A **Vállalkozások és magángazdaság** kérdéskörre is kitér a program. A vállalkozások tekintetében a fogyasztók számára átláthatóságot, a megbízhatóságot támogató elképzeléseket, starup központok felállítását és az innovácó támogatását tartja kívánatosnak a szerző.   
 
 ### A Program hivatalos összefoglalója
 
-Tekintettel arra, hogy a teljes program szöveg terjedelme mintegy 150 oldalt tesz ki, az alkotók szükségesnek látták, hogy arról egy rövídített változatot is publikáljanak. 
+Tekintettel arra, hogy a [teljes program][#sbp-program-full] szöveg terjedelme mintegy 150 oldalt tesz ki, az alkotók szükségesnek látták, hogy arról egy [rövídített változatot][#sbp-program-brief] is publikáljanak. 
 
 ## Kritikák a programmal kapcsolatban
 
@@ -38,7 +61,7 @@ A nyomtatott- és online média viszonylag érintőlegesen foglalkozott a progra
 
 Egy másik általános megközelítés a program jelentőségét igyekszik elérvényteleníteni azzal az érveléssel, hogy az megvalósíthatatlan ha nem találkozik kormányoldali támogatottsággal, esetleg az a megvalósítást politikai okokból igyekszik gátolni, a forrásokat elvonni. Ezt a vélekedésnek némiképp alátámasztani látszik Gulyás Gergely Miniszterelnökséget vezető miniszter [kijelentése][#444-gulyas], bár - annak aggályos üzenetértékétől eltekintve - nem ismert a Miniszterelnökség álláspontja magát, a Sétáló Budapest programját illetően.
 
-A kritikák fennmaradó része jellemzően Puzsér Róbert városvezetési alkalmasságát kérdőjelezi meg, amelyre az általa életrehívott civil szerveződés és a fent említett Sétáló Budapest program megalkotása - amennyiben az mint megvalósítható szakmai és politikai programot képvisel - lehet mint mérlegelendő, érvényes válasz.
+A kritikák fennmaradó része jellemzően Puzsér Róbert városvezetési alkalmasságát kérdőjelezi meg, amelyre az általa életrehívott civil szerveződés és a fent említett Sétáló Budapest program megalkotása - amennyiben az megvalósítható szakmai és politikai programot képvisel - lehet mérlegelendő, érvényes válasz.
 
 ## A Program támogatottsága
 
@@ -55,7 +78,6 @@ A támogatók között feltűnt Schiffer András[1][#fb-schiffer] és Vona Gábo
 [#u2b-sbpstart]: https://www.youtube.com/watch?v=KvO_erdaBhE
 [#fb-schiffer]: https://www.facebook.com/Robert.Puzser/photos/a.362831433792676/2406613812747751/?type=3&theater
 [#fb-vona]: https://www.facebook.com/SetaloBudapest/photos/a.2217510285192878/2432155843728320/?type=3&theater
-
-
-
-
+[#sbp-program-full]: https://drive.google.com/file/d/1wFcQU3gOHMsR8KOZ1H_lVRZx_oUdubgS/view
+[#sbp-program-brief]: https://setalobudapest.hu/wp-content/uploads/S%c3%a9t%c3%a1l%c3%b3-Budapest-%c3%96sszefoglal%c3%b3-24-pont.pdf
+[#sbp-program-bitbucket]: https://bitbucket.org/setalobudapest/program/src/master/index.md
