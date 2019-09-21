@@ -4,7 +4,7 @@
 
 #### TARTALOMJEGYZÉK
 
-0. [ELŐSZÓ](#előszó)
+[ELŐSZÓ](#előszó)
 
 1. [A FŐVÁROSI ÖNKORMÁNYZÁS SZERVEZETI KÉRDÉSEI ](001-fovarosi-onkormanyzas-szervezeti-kerdesei.md#a-fővárosi-önkormányzás-szervezeti-kérdései)
     1. [Agglomerációs önkormányzás](001-fovarosi-onkormanyzas-szervezeti-kerdesei.md#11-agglomerációs-önkormányzás)
@@ -181,7 +181,7 @@
          3. [Kiegészítő intézményrendszer](009-szocialis-ellatasok-es-egeszsegugy.md#kiegészítő-intézményrendszer)
          4. [Megelőzés, egészséges város](009-szocialis-ellatasok-es-egeszsegugy.md#megelőzés-egészséges-város)
         
- 10. [OKTATÁSÜGY, IFJÚSÁGPOLITIKA](010-oktatasugy-ifjusagpolitika.md#oktatásügy,-ifjúságpolitika)
+ 10. [OKTATÁSÜGY, IFJÚSÁGPOLITIKA](010-oktatasugy-ifjusagpolitika.md#oktatásügy-ifjúságpolitika)
      1. [Kisgyermeknevelés ](010-oktatasugy-ifjusagpolitika.md#kisgyermeknevelés)
          1. [Teljes bölcsődei, óvodai ellátás, egységes szemlélet](010-oktatasugy-ifjusagpolitika.md#teljes-bölcsődei-óvodai-ellátás-egységes-szemlélet)
          2. [Komplex intézményrendszer, finomítási lehetőségek ](010-oktatasugy-ifjusagpolitika.md#komplex-intézményrendszer-finomítási-lehetőségek)
