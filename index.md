@@ -209,7 +209,7 @@ Amikor először beszéltem a programíró csapattal, azt kértem, hogy dolgozz�
 
 Most itt a program, mely választ ad Budapest legégetőbb problémáira, újratervezi azt belvárosközpontúról kerületközpontúra, autóról emberre, a felső tíz százalék igényeiről az alsó kilencven százalék szükségleteire. A Sétáló Budapest programja Nyugat-Európa élhető és zöld nagyvárosainak normáit alkalmazza Budapestre, új városközpontokat, munkahelyeket, szolgáltatásokat és kultúrát visz a külvárosokba, szembenéz a lakhatási válsággal, a mindent elárasztó betonnal és szmoggal, a dugókkal, a parkolási és ingatlanmaffiával. Köszönöm a munkáját annak a hetven mérnöknek, urbanistának és közgazdásznak, akik megalkották ezt a programot! Lángpallosként hordozom majd magam előtt a politikai és a civil szférában, s ha bárki részben vagy egészen átveszi, hogy megvalósítsa, csakis hálát érzek majd.
 
-_– Puzsér Róbert-_
+_– Puzsér Róbert –_
 
 --- 
 
