@@ -31,7 +31,7 @@ A főváros és az azt fojtogató, már a külső kerületekben elkezdődő aggl
 
 ### Bevezetés
 
-„Budapest központjait tekintve nem jött még létre ideális térbeli rendszer, mely a város területi kiegyenlítődését, az egy-egy adott vonzásterület [megfelelő szintű kiszolgálását eredményezné][#ref1].” A város ezért erősen centralizált, ahol a funkciógazdag központba jelentős mértékű tömeg ingázik nap mint nap. Nem meglepő módon, szerkezetének legmeghatározóbb elemei ezért – a Duna után közvetlenül – a várost átszelő nagy- és közepes forgalmú utak, amelyek mellett szinte elvesznek az emberek jólléte szempontjából jelentős parkok és egyéb sétálófelületek.
+„Budapest központjait tekintve nem jött még létre ideális térbeli rendszer, mely a város területi kiegyenlítődését, az egy-egy adott vonzásterület [megfelelő szintű kiszolgálását eredményezné][#ref002-1].” A város ezért erősen centralizált, ahol a funkciógazdag központba jelentős mértékű tömeg ingázik nap mint nap. Nem meglepő módon, szerkezetének legmeghatározóbb elemei ezért – a Duna után közvetlenül – a várost átszelő nagy- és közepes forgalmú utak, amelyek mellett szinte elvesznek az emberek jólléte szempontjából jelentős parkok és egyéb sétálófelületek.
 
 ## Koncepció
 
@@ -39,7 +39,7 @@ A hagyományos belvárosi bevásárló- és sétálóutcák fokozatosan elveszte
 
 Mint minden európai nagyváros esetében, Budapest esetében is a városszerkezetet a természeti elemek – folyó, tó, növényzet – mellett a koncepció tagolja és formálja tudatos felépítésű várossá. A városszerkezeti koncepciónk egy madártávlati szemszögből alakítja a város tereit, térkapcsolatait; ezeknek a döntésenek hatására alakul át a közvetlen utca szintjén sétálva is érezhető arculat. A téralakítás célja, hogy Budapest hatékonyabban és kompakt, fenntartható módon működjön, és ezzel együtt csökkenjen az ökológiai lábnyoma.
 
-A nyugati kutatók, szakpolitikusok már az 1970-es években reagáltak a folyamatra. Jane Jacobs a bizalmon alapuló szomszédságok, közösségek szerepére [hívta fel a figyelmet][#ref2], Jan Gehl pedig az elsők között [hangsúlyozta][#ref3] a városi élhető terek és az emberléptékű közlekedési eszközök (pl. bicikli, gyalogosforgalom) fontosságát. S az elmúlt években a városfejlesztés, városrehabilitáció területén egyre gyakrabban jelenik meg a városi alközpontok gazdasági és közösségi szempontú fejlesztése mint stratégiai cél.
+A nyugati kutatók, szakpolitikusok már az 1970-es években reagáltak a folyamatra. Jane Jacobs a bizalmon alapuló szomszédságok, közösségek szerepére [hívta fel a figyelmet][#ref002-2], Jan Gehl pedig az elsők között [hangsúlyozta][#ref002-3] a városi élhető terek és az emberléptékű közlekedési eszközök (pl. bicikli, gyalogosforgalom) fontosságát. S az elmúlt években a városfejlesztés, városrehabilitáció területén egyre gyakrabban jelenik meg a városi alközpontok gazdasági és közösségi szempontú fejlesztése mint stratégiai cél.
 
 Alapelvünk, hogy a közlekedés nem közvetlen igény! Az embereknek nem maga a közlekedés a céljuk, az csak az eszköz ahhoz, hogy elvégezzék a mindennapi teendőiket, például eljussanak a munkába, elvigyék a gyerekeiket az iskolába, vagy elintézzék a hivatalos ügyeiket. A városszerkezet kialakításának célja tehát az, hogy könnyebbé váljon a mindennapi teendők helyben történő elvégzése, és ezzel csökkenjen a létrejövő közlekedési igény.
 
@@ -55,11 +55,11 @@ A nagyléptékű, határtalan városi terek szükségszerűen kisebb részekből
 
 ### Fenntartható város
 
-A fenntartható fejlődés célja végső soron az, hogy lehetővé tegye az emberi társadalom további fejlődését a természet véges erőforrásainak [figyelembe vétele mellett][#ref4], azaz a természet és az ember közötti konfliktus olyan mértékű csillapítása, amely lehetővé teszi más élőlények és a jövendő emberi nemzedékek számára is a [zavartalan létezést][#ref5]. Ennek tükrében a városi fenntarthatóság területe nemcsak magára a városra terjed ki, hanem mindenre, ami azzal érintkezik, a megoldandó kihívás pedig egyszerre lehet környezeti, társadalmi és gazdasági is.
+A fenntartható fejlődés célja végső soron az, hogy lehetővé tegye az emberi társadalom további fejlődését a természet véges erőforrásainak [figyelembe vétele mellett][#ref002-4], azaz a természet és az ember közötti konfliktus olyan mértékű csillapítása, amely lehetővé teszi más élőlények és a jövendő emberi nemzedékek számára is a [zavartalan létezést][#ref002-5]. Ennek tükrében a városi fenntarthatóság területe nemcsak magára a városra terjed ki, hanem mindenre, ami azzal érintkezik, a megoldandó kihívás pedig egyszerre lehet környezeti, társadalmi és gazdasági is.
 
 Éppen ezért kiemelt hangsúlyt kell fordítani a környezeti és a társadalmi erőforrások (ide soroljuk a munkaerőt és a fogyasztót, aki tudatos módon cselekszik) túlhasználatának elkerülésére; továbbá a környezeti erőforrások védelme és a velük való takarékos bánásmód is prioritást kell élvezzen. Ez utóbbi elsősorban a szennyező technológiák és megszokások, a korlátok nélküli autóhasználat, a szeméttermelés kivezetése révén valósulhat meg; illetve befolyásolhatja a város erőforrás-felhasználásbeli alapadottságait is, például a térszerkezetet mint a városi logisztikát, illetve mobilitási igényt alapvetően meghatározó adottságot, vagy az egyes városi funkciók egymásba fonódását, a sokfunkciós városi tereket, városrészeket létrehozó stratégiát.
 
-Ez utóbbi a város társadalmi fenntarthatóságának egyik kulcsa: a sokszínűen használható város például több érintett csoportjában képes kialakítani a kötődését, ezáltal nagyobb a [népességmegtartó ereje][#ref6] is. Összességében célunk a takarékos városüzemeltetés, a megújuló energiák alkalmazása, energiatudatos fejlesztések támogatása (az olyan apróságokig, mint napelemes köztéri lámpák, földhő, esővíz-újrahasznosítás a parkok locsolásához, utcatakarításhoz), az energetikai felújítások támogatása és a fenntartható hulladékgazdálkodás.
+Ez utóbbi a város társadalmi fenntarthatóságának egyik kulcsa: a sokszínűen használható város például több érintett csoportjában képes kialakítani a kötődését, ezáltal nagyobb a [népességmegtartó ereje][#ref002-6] is. Összességében célunk a takarékos városüzemeltetés, a megújuló energiák alkalmazása, energiatudatos fejlesztések támogatása (az olyan apróságokig, mint napelemes köztéri lámpák, földhő, esővíz-újrahasznosítás a parkok locsolásához, utcatakarításhoz), az energetikai felújítások támogatása és a fenntartható hulladékgazdálkodás.
 
 ## A belváros mint az egész városszerkezet magja
 
@@ -69,9 +69,9 @@ A belső zóna a műemlék- és örökségvédelem legintenzívebb zónája is, 
 
 A belvárosi zóna – bármennyire is egy metropolisz központjáról van szó – szintén szervezhető közösségi fejlesztések mentén. Az utcahálózat által meghatározott tömbök olyan területegységeket alkotnak, amelyek bizonyos szempontból már nagyok, de még közösség szervezhető bennük – párszáz vagy -ezer lakóról van szó. A belvárosi tömbök közösségeinek fejlődésében nyilvánvaló módon nagy szerepet játszik az, ha ezek a tömbök a központi gyalogoszónába, vagy esetleg egy külsőbb gyalogoszónába kerülnek.
 
-    Meglévő és új térrendszer elméleti sémája egy [szuperblokkos][#ref7] struktúrában
+    Meglévő és új térrendszer elméleti sémája egy [szuperblokkos][#ref002-7] struktúrában
 
-A kialakult tömb külső közúti elérhetőségének függvényében valósul meg egy-egy kis közösségi egyezmény is, amelynek keretében a lakosság az egészségesebb, élhetőbb élettérért cserébe kompromisszumként feladja a lakóhelyhez közel elhelyezkedő parkolók iránt támasztott igényét. Ez az [egyezmény][#ref8] a barcelonai „superilles” (szuperblokk) modellben általános és egységes módon valósul meg, de a hazai gyakorlatban is lehet hozzávetőleges alapelvnek tekinteni.
+A kialakult tömb külső közúti elérhetőségének függvényében valósul meg egy-egy kis közösségi egyezmény is, amelynek keretében a lakosság az egészségesebb, élhetőbb élettérért cserébe kompromisszumként feladja a lakóhelyhez közel elhelyezkedő parkolók iránt támasztott igényét. Ez az [egyezmény][#ref002-8] a barcelonai „superilles” (szuperblokk) modellben általános és egységes módon valósul meg, de a hazai gyakorlatban is lehet hozzávetőleges alapelvnek tekinteni.
 
 ### A közösségre gyakorolt hatása
 
@@ -79,15 +79,15 @@ Az autóktól megtisztított utcákon jelentős új terület szabadul fel, melye
 
 A kialakult közösségeknek lehet egyéb operatív haszna is. Előállhat az a helyzet, hogy egy közös képviselő egymás mellett képviselt házait szervezzük egy (autómentes) zöld blokkba. Itt ebben a lakótömbben alkalmanként a lakógyűléseket meg lehet tartani közösen is, és dönteni lehet a közös prioritásokról. Több lakóház közös költségéből nagyobb fedezet jut megszavazott fejlesztések megvalósítására. Jótékony következmény lehet, hogy az energiahatékonyság is jobban szervezhető, az energiafelhasználás elosztható a blokkokban. Például: napkollektorok, közös lég- és klímatechnika, komposztálás.
 
-Ezt a szervezési modellt maximálisan ki kell használni: a belvárosi tömbökre vonatkozó energiahatékonysági programok tervezéséhez, finanszírozásához, szervezéséhez az önkormányzatok biztosítsanak támogató szakembereket, illetve típusterveket és útmutatókat; a dokumentáció megírása sokkal hatékonyabb, ha ebben az önkormányzat segít. Az ennek során kialakult tervtárat és [jógyakorlat-gyűjteményt][#ref9-b] fokozatosan lehet bővíteni is, amiben a lakók megnézhetik egy felhasználóbarát felületen, hogy mit kezdhetnek, mik a lehetőségek, mik a minták.
+Ezt a szervezési modellt maximálisan ki kell használni: a belvárosi tömbökre vonatkozó energiahatékonysági programok tervezéséhez, finanszírozásához, szervezéséhez az önkormányzatok biztosítsanak támogató szakembereket, illetve típusterveket és útmutatókat; a dokumentáció megírása sokkal hatékonyabb, ha ebben az önkormányzat segít. Az ennek során kialakult tervtárat és [jógyakorlat-gyűjteményt][#ref002-9-b] fokozatosan lehet bővíteni is, amiben a lakók megnézhetik egy felhasználóbarát felületen, hogy mit kezdhetnek, mik a lehetőségek, mik a minták.
 
-Más városok, megyeközpontok számára is útmutató lehet az elkészült tudásbázis. A tömbök életének konkrét formájáról (pl. egyesület vagy csak informális vezetőválasztás stb.) a közösség döntsön, előírást nem célszerű adni. Érdemes lehet azonban az egész tömbért felelős közös képviselőket egy ilyen blokk vezetésével megbízni. [2019 elején elterjedt][#ref9] egy új társasházi törvény koncepciója (a közös képviselőség szomszédsági alapon összevont, „felülről szervezett” modellje), mely bizonyos aspektusaiban párhuzamos az elképzeléseinkkel. 
+Más városok, megyeközpontok számára is útmutató lehet az elkészült tudásbázis. A tömbök életének konkrét formájáról (pl. egyesület vagy csak informális vezetőválasztás stb.) a közösség döntsön, előírást nem célszerű adni. Érdemes lehet azonban az egész tömbért felelős közös képviselőket egy ilyen blokk vezetésével megbízni. [2019 elején elterjedt][#ref002-9] egy új társasházi törvény koncepciója (a közös képviselőség szomszédsági alapon összevont, „felülről szervezett” modellje), mely bizonyos aspektusaiban párhuzamos az elképzeléseinkkel. 
 
 ## Alközpont-hálózat
 
     A köztes zónában levő, illetve külvárosi központok
     
-A korábban felvázolt ideák mentén Budapesten a kompakt város az alközpontok erősítésével valósulhat meg. Általános nagyságrendi szabály, hogy a mindennapos használatú szolgáltatások 500 m-es, a havi használatúak pedig 1 km-es gyalogtávolságra legyenek fellelhetőek minden lakos otthonától ahhoz, hogy az indukált városi mobilitási igény a [fenntartható szinten][#ref10] maradjon. Mindehhez a főváros jelenlegi hosszú távra szóló [fejlesztési dokumentuma][#ref11] is kapcsolódik, de megvalósítás irányában nem indultak el folyamatok.
+A korábban felvázolt ideák mentén Budapesten a kompakt város az alközpontok erősítésével valósulhat meg. Általános nagyságrendi szabály, hogy a mindennapos használatú szolgáltatások 500 m-es, a havi használatúak pedig 1 km-es gyalogtávolságra legyenek fellelhetőek minden lakos otthonától ahhoz, hogy az indukált városi mobilitási igény a [fenntartható szinten][#ref002-10] maradjon. Mindehhez a főváros jelenlegi hosszú távra szóló [fejlesztési dokumentuma][#ref002-11] is kapcsolódik, de megvalósítás irányában nem indultak el folyamatok.
 
 Térszerkezeti szempontból az alközpontok létrehozása arra irányul, hogy a lakók a helyben hiányzó funkciókért ne a teljes funkcióspektrumot megadó, és ezért „túlságosan vonzó” belsőbb városrészekbe menjenek, hanem a közeli, hasonló pozíciójú központot keressék fel. Az alközpontok szintén sétálható, autósforgalomtól mentes terek, ezzel is elősegítve, hogy színes szolgáltatásspektrum épüljön ki. Ez hatékonyabbá teszi a város müködését mindamellett, hogy a város ökológiai lábnyomát is csökkenti.
 
@@ -115,7 +115,7 @@ Ezek az útvonalak alkalmasak arra is, hogy a külső kerületi alrendszerek zö
 
 A városrészek pozicionálása, arculata, helyi identitása a nagyobb skálájú városi szövet fontos kérdése is. A külső, régóta meglévő identitással rendelkező kerületek jellegzetes, egyedi hangulatainak visszaállítása nemcsak városképi, városszerkezeti szempontból is kívánatos. A kialakult identitásokra vigyázni kell, azok értékeit meg kell őrizni.
 
-A kialakult identitás megőrzésének egy eszközeként a „2016. évi LXXIV. törvény a településkép védelméről” előírta mind a főváros, mind pedig annak kerületei számára a településképi arculati kézikönyvek és a településképi rendelet elkészítésének kötelességét. A törvény célja az építési beruházások támogatása, egyúttal a hazai városok és községek sajátos településképének védelme és alakítása társadalmi bevonás és konszenzus által, ahol a településkép védelme a település vagy településrész jellegzetes, értékes, illetve hagyományt őrző építészeti [arculatának][#ref12] és szerkezetének – az építészeti, táji érték és az örökségvédelem figyelembevételével történő – megőrzését vagy kialakítását jelenti. Jelenleg mindegyik budapesti kerület készített már ilyen dokumentumot; ezek megismertetése a lakossággal, illetve az ezek használatára való buzdítás, valamint az egyes kerületek és a főváros településképi rendelete által előírt rendelkezések érintett hatóságok általi betartatása elvárható kell, hogy legyen. Mindennek első lépéseként fontos lenne a főváros és kerületeinek kézikönyveit és rendeleteit központi gyűjteménybe venni, valamint pontosan meghatározni az előírásként elfoglalt pozíciójukat; vagyis hogy hol helyezkednek el a szabályok hierarchiájában. Ezeket a dokumentumokat ismertté kell tenni mind szakmai, mind lakossági körökben egyaránt.
+A kialakult identitás megőrzésének egy eszközeként a „2016. évi LXXIV. törvény a településkép védelméről” előírta mind a főváros, mind pedig annak kerületei számára a településképi arculati kézikönyvek és a településképi rendelet elkészítésének kötelességét. A törvény célja az építési beruházások támogatása, egyúttal a hazai városok és községek sajátos településképének védelme és alakítása társadalmi bevonás és konszenzus által, ahol a településkép védelme a település vagy településrész jellegzetes, értékes, illetve hagyományt őrző építészeti [arculatának][#ref002-12] és szerkezetének – az építészeti, táji érték és az örökségvédelem figyelembevételével történő – megőrzését vagy kialakítását jelenti. Jelenleg mindegyik budapesti kerület készített már ilyen dokumentumot; ezek megismertetése a lakossággal, illetve az ezek használatára való buzdítás, valamint az egyes kerületek és a főváros településképi rendelete által előírt rendelkezések érintett hatóságok általi betartatása elvárható kell, hogy legyen. Mindennek első lépéseként fontos lenne a főváros és kerületeinek kézikönyveit és rendeleteit központi gyűjteménybe venni, valamint pontosan meghatározni az előírásként elfoglalt pozíciójukat; vagyis hogy hol helyezkednek el a szabályok hierarchiájában. Ezeket a dokumentumokat ismertté kell tenni mind szakmai, mind lakossági körökben egyaránt.
 
 Pontosan a különböző kerületek eltérő identitása és arculata az oka annak, hogy egyes városrészi funkciók és ezáltal a konkrét városrészek kifejezetten vonzanak bizonyos társadalmi-gazdasági, demográfiai csoportokat, pl. fiatalok, kisgyerekesek, idősek. A városarculat tudatos formálása érdekében fontos a különböző érdekcsoportok által támasztott igények menedzselése, mely a kívánatos városrészi imázs, identitás kialakítása irányába kell hasson, ügyelve azonban arra, hogy a városrészi funkciórendszer kellemetlenül, fenntarthatatlanul egysíkúvá válását megakadályozzuk. A kívánatos arculat kialakításához kapcsolódva az illető városrész ezirányú koncepciójához illeszkedő vállalkozások összefogása, mentorálása is ide tartozó feladat.
 
@@ -166,7 +166,7 @@ terület – vagyis korábban ipari, közlekedési, katonai funkcióval bíró t
 
       Barnamezős területek Budapesten15
 
-A fejezetben felsorolt minden városrésztípusra igaz, hogy a fejlesztési zónákat előre meg kell határozni, s a megfelelő infrastruktúrát megtervezni, akár előre biztosítani. Ez szemben áll a mai, [sokszor irányítatlan burjánzással][#ref13]. A fejlesztések kézben tartásával a város terjeszkedését irányítani kell, ezért a legfontosabb fejlesztési területek a barnazónák kell, hogy legyenek. Budapest fenntartható térbeli rendszerének alapját, a város kompaktságát biztosító városfejlesztés célterületeinek magját adják ezek a belső tartalékterületek, amelyek fejlesztése által a térségekben a szerkezeti szempontból szükséges, hiányzó funkciók a városszövetbe integrálhatók a meglévő infrastruktúra felhasználásával.
+A fejezetben felsorolt minden városrésztípusra igaz, hogy a fejlesztési zónákat előre meg kell határozni, s a megfelelő infrastruktúrát megtervezni, akár előre biztosítani. Ez szemben áll a mai, [sokszor irányítatlan burjánzással][#ref002-13]. A fejlesztések kézben tartásával a város terjeszkedését irányítani kell, ezért a legfontosabb fejlesztési területek a barnazónák kell, hogy legyenek. Budapest fenntartható térbeli rendszerének alapját, a város kompaktságát biztosító városfejlesztés célterületeinek magját adják ezek a belső tartalékterületek, amelyek fejlesztése által a térségekben a szerkezeti szempontból szükséges, hiányzó funkciók a városszövetbe integrálhatók a meglévő infrastruktúra felhasználásával.
 
 Budapesten nagyságrendileg összesen 1200 hektárnyi olyan terület tátong a városszövetben, amely nincs megfelelően hasznosítva. Ez akkora kiaknázatlan potenciált jelent a város fejlesztésében, amely önmagában prioritássá teszi ezeknek a területeknek a rehabilitálását. Budapest fenntartható fejlesztési pályára állításához a megoldást az eddig uralkodó extenzív terjeszkedés helyett, mely szétterülővé tette a várost, az intenzív irány jelenti, mely a növekedést nem több erőforrás bevonásával, hanem a meglevők – legfőképpen a terület – hatékonyabb használatával éri el, azaz az adottságokkal való bölcs gazdálkodás által hoz létre új értékeket.
 
@@ -180,7 +180,7 @@ A barnamezős fejlesztések előnyei:
 * Jelentős a pozitív kulturális hatásuk az épített emlékek megőrzése által. (pl. Millenáris park).
 * Sok esetben tud sikeresen együttműködni az állam a magánberuházókkal. (pl. Óbudai Gázgyár, Milleniumi Városközpont).
 
-Mindemellett Budapesten továbbra sem beszélhetünk meginduló barnamezős fejlesztési tendenciáról, több fontos hátráltató tényező következtében. Ezeknek a beruházásoknak a területi kármentesítések szükségessége miatt rendkívül magasak a járulékos költségei és kockázatai. Sok esetben rendezetlenek a környezeti, tulajdonjogi helyzeteik, és járhatatlanok, átláthatatlanok. Nincsenek részletesen felmérve, az önkormányzatok nem rendelkeznek a szükséges adatokkal, sőt gyakran épp a közigazgatás működése hátráltatja a beruházásokat. Ezen kívül egy ilyen barnaövezeti rehabilitáció komplex kihívást jelent: gazdasági, társadalmi, környezeti vonatkozásai egyaránt jelentősek. Mindezek következtében a legnagyobb budapesti projektek esetében mindeddig magánbefektetők hiányában az állam kezdeményezésére volt szükség (pl. Millenáris park, az Opera épülő Eiffel Műhelyháza és most az új Közlekedési Múzeum az Északi Járműjavítóban) – üdítő kivétel a [Graphisoft Park][#ref14].
+Mindemellett Budapesten továbbra sem beszélhetünk meginduló barnamezős fejlesztési tendenciáról, több fontos hátráltató tényező következtében. Ezeknek a beruházásoknak a területi kármentesítések szükségessége miatt rendkívül magasak a járulékos költségei és kockázatai. Sok esetben rendezetlenek a környezeti, tulajdonjogi helyzeteik, és járhatatlanok, átláthatatlanok. Nincsenek részletesen felmérve, az önkormányzatok nem rendelkeznek a szükséges adatokkal, sőt gyakran épp a közigazgatás működése hátráltatja a beruházásokat. Ezen kívül egy ilyen barnaövezeti rehabilitáció komplex kihívást jelent: gazdasági, társadalmi, környezeti vonatkozásai egyaránt jelentősek. Mindezek következtében a legnagyobb budapesti projektek esetében mindeddig magánbefektetők hiányában az állam kezdeményezésére volt szükség (pl. Millenáris park, az Opera épülő Eiffel Műhelyháza és most az új Közlekedési Múzeum az Északi Járműjavítóban) – üdítő kivétel a [Graphisoft Park][#ref002-14].
 
 Ismerve ezeket a tapasztalatokat, levonható a következtetés, hogy egy funkcióváltást igénylő területet először vonzóvá kell tenni a magánbefektetők számára, ugyanis pusztán állami és önkormányzati forrásokból nem lehet finanszírozni a fejlesztést.
 
@@ -190,28 +190,28 @@ A barnamezős területek fejlesztésénél fontos az erőforrások és a priorit
 
 ### A barnazóna zöldenergetikai célú fejlesztése
 
-A barnamezős területek zöldenergetikai célú hasznosítása kitörési pont lehet, mert ezek kedvező helyen vannak: a külvárosi gyűrű és a belső városmag is jól elérhető. A nagy energiatermelő mezők zöldbe ágyazva parkként, víz- és levegőtisztító területként működhetnek – közösségi parkokként is fontos, hogy jól elérhetők. Ezzel a fenntartható energiatermelés „beszivárog a városba”, egy vegyes zöld-energatikai gyűrű alakul ki a központ körül. Ezen területek hasznosítása révén alacsony önkormányzati költségvállalással nagy területek viszonylag gyorsan alakíthatók át, ha nem is intenzív városi területté, de a lakóterületek problémamentes, sőt hasznos szomszédságává. Ennek a megoldásnak egy nagy előnye, hogy energetikai fejlesztésre a szennyezettebb területek is alkalmasak, a [zöldterület pedig fenntartható][#ref15] úgy, hogy az alatta levő szennyezés az idők során nem súlyosbodik (a költséges kármentesítés halogatható), vagy akár csökken is (a kármentesítés olcsóbb lesz).
+A barnamezős területek zöldenergetikai célú hasznosítása kitörési pont lehet, mert ezek kedvező helyen vannak: a külvárosi gyűrű és a belső városmag is jól elérhető. A nagy energiatermelő mezők zöldbe ágyazva parkként, víz- és levegőtisztító területként működhetnek – közösségi parkokként is fontos, hogy jól elérhetők. Ezzel a fenntartható energiatermelés „beszivárog a városba”, egy vegyes zöld-energatikai gyűrű alakul ki a központ körül. Ezen területek hasznosítása révén alacsony önkormányzati költségvállalással nagy területek viszonylag gyorsan alakíthatók át, ha nem is intenzív városi területté, de a lakóterületek problémamentes, sőt hasznos szomszédságává. Ennek a megoldásnak egy nagy előnye, hogy energetikai fejlesztésre a szennyezettebb területek is alkalmasak, a [zöldterület pedig fenntartható][#ref002-15] úgy, hogy az alatta levő szennyezés az idők során nem súlyosbodik (a költséges kármentesítés halogatható), vagy akár csökken is (a kármentesítés olcsóbb lesz).
 
 <img title="New York Highline, Diller Scofedio + Renfro19" src="https://images.adsttc.com/media/images/55f6/fc7d/adbc/01bd/4b00/0461/slideshow/2048907674_dsr-highline-09-06-5727.jpg?1442249828">
 
-[#ref1]: # "Budapest 2030"
-[#ref2]: # "Jane Jacobs: The Death and Life of Great American Cities, Random House, New York, 1961"
-[#ref3]: # "Jan Gehl: Élhető városok, Terc, Budapest, 2014"
-[#ref4]: # "McGranahan, G. and Satterthwaite, D., Urban Centers: An Assessment of Sustainability. Annual Review of Environment and Resources (2003), 28, 243-274."
-[#ref5]: # "Takáts Attila: Hulladékgazdálkodás és környéke (ahogyan én látom), Műszaki Könyvkiadó, Budapest, 2010"
-[#ref6]: # "Hajnal Virág: A helyhez való kötődés szerepe a település népességmegtartó erejének növelésében, 
+[#ref002-1]: # "Budapest 2030"
+[#ref002-2]: # "Jane Jacobs: The Death and Life of Great American Cities, Random House, New York, 1961"
+[#ref002-3]: # "Jan Gehl: Élhető városok, Terc, Budapest, 2014"
+[#ref002-4]: # "McGranahan, G. and Satterthwaite, D., Urban Centers: An Assessment of Sustainability. Annual Review of Environment and Resources (2003), 28, 243-274."
+[#ref002-5]: # "Takáts Attila: Hulladékgazdálkodás és környéke (ahogyan én látom), Műszaki Könyvkiadó, Budapest, 2010"
+[#ref002-6]: # "Hajnal Virág: A helyhez való kötődés szerepe a település népességmegtartó erejének növelésében, 
 Pro minoritate, 2017. tél, pp 72-91"
-[#ref7]: https://citiesofthefuture.eu/wp-content/uploads/2018/11/c216d-1gzzmxiibcrjisqb7bl6w-g.jpeg
-[#ref8]: https://inhabitat.com/how-barcelonas-pedestrian-friendly-superblocks-reduce-pollution-and-return-streets-to-the-people/superblocks-barcelona-urban-mobility-plan/
-[#ref9]: # "Személyes közlések alapján."
-[#ref9-b]: # "E tudástárról lásd még az önkormányzati szervezetekről szóló fejezet elektronikus szolgáltatásokról szóló részében írtakat."
-[#ref10]: http://istoecidade.weebly.com/uploads/3/0/2/0/3020261/compact_cities.pdf 
+[#ref002-7]: https://citiesofthefuture.eu/wp-content/uploads/2018/11/c216d-1gzzmxiibcrjisqb7bl6w-g.jpeg
+[#ref002-8]: https://inhabitat.com/how-barcelonas-pedestrian-friendly-superblocks-reduce-pollution-and-return-streets-to-the-people/superblocks-barcelona-urban-mobility-plan/
+[#ref002-9]: # "Személyes közlések alapján."
+[#ref002-9-b]: # "E tudástárról lásd még az önkormányzati szervezetekről szóló fejezet elektronikus szolgáltatásokról szóló részében írtakat."
+[#ref002-10]: http://istoecidade.weebly.com/uploads/3/0/2/0/3020261/compact_cities.pdf 
 "Rod Burgess, Mike Jenks, Compact Cities: Sustainable Urban Forms for Developing Countries, Routledge / Spon Press, London, 2002"
-[#ref11]: # "Budapest 2030 hosszú távú városfejlesztési koncepció"
-[#ref12]: https://net.jogtar.hu/jogszabaly?docid=A1600074.TV
-[#ref13]: https://www.google.com/search?q=lakópark+Buda
-[#ref14]: http://www.graphisoftpark.hu/system/files/imagecache/normal/GraphisoftParkFotok-7253w.jpg
-[#ref15]: # 
+[#ref002-11]: # "Budapest 2030 hosszú távú városfejlesztési koncepció"
+[#ref002-12]: https://net.jogtar.hu/jogszabaly?docid=A1600074.TV
+[#ref002-13]: https://www.google.com/search?q=lakópark+Buda
+[#ref002-14]: http://www.graphisoftpark.hu/system/files/imagecache/normal/GraphisoftParkFotok-7253w.jpg
+[#ref002-15]: # 
 "Jensen, Bjorn B., Brownfields to Green Energy: Redeveloping Contaminated Lands With 
 Large-Scale Renewable Energy Facilities, Master Thesis, Department of Urban"
 

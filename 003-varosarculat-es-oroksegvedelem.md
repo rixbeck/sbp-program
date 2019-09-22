@@ -38,9 +38,9 @@ A XXI. századi urbanisztika olyan alapelveket adott a világnak, amelyekkel az 
 
 ### A város mint táj
 
-A nemzetközi szakirodalomban a [„landscape urbanism”][#ref1] fogalma a város tájként való értelmezését, tervezését foglalja magába.
+A nemzetközi szakirodalomban a [„landscape urbanism”][#ref003-1] fogalma a város tájként való értelmezését, tervezését foglalja magába.
 
-Mindez nemcsak a zöldterületek sokkal intenzívebb védelmét, valamint az épített és a természeti környezet közti erős határok leépítésének igényét jelenti, hanem azt az új szemléletet, amelynek köszönhetően a várost nem úgy fogjuk fel, mint bizonyos funkciókat tömörítő infrastruktúrahalmazt, építményállományt, amelynek emberi környezetként való működése az alapfunkció ellátása érdekében háttérbe szorul, hanem épített tájként, ami az [embereket és a városi funkciókat is befogadja][#ref2].
+Mindez nemcsak a zöldterületek sokkal intenzívebb védelmét, valamint az épített és a természeti környezet közti erős határok leépítésének igényét jelenti, hanem azt az új szemléletet, amelynek köszönhetően a várost nem úgy fogjuk fel, mint bizonyos funkciókat tömörítő infrastruktúrahalmazt, építményállományt, amelynek emberi környezetként való működése az alapfunkció ellátása érdekében háttérbe szorul, hanem épített tájként, ami az [embereket és a városi funkciókat is befogadja][#ref003-2].
 
 <img title="Példa „landscape urbanism” szemléletre. Upcycle Park – Kai Tai River, Hong Kong" src="https://archinect.imgix.net/uploads/rd/rdxvs4eo692hffjk.jpg?auto=compress%2Cformat">
 
@@ -52,7 +52,7 @@ A belvárosi utcák járdái ma csak szűk közlekedési sávként működnek, e
 
 A tér, az utca ma Budapesten nem a gyalogos emberé, hanem az autóé. Az utak gépkocsis közlekedésre vannak kialakítva, a járdák keskenyek, bicikliutak és biciklitárolási lehetőségek nincsenek. (Az autós közlekedés 50 km/h sebessége túl nagy8 ahhoz, hogy az emberek a környezet részleteit és egymást jól szemügyre vegyék.) Az intenzív és erős benyomásokra specializálódott érzékszerveink hoppon maradnak, egyszóval a környezet meghaladja az emberi léptéket.
 
-Ezzel szemben a gyalogosforgalomra épülő városokban lüktet az élet az utcán. Az emberek sokáig látótávolságon belül maradnak. A melegebb és intenzívebb interperszonális kapcsolatokat a kisebb távolságok, szűkebb terek teszik lehetővé. Az emberek sétálva lassan, 5 km/h sebességgel haladnak, van idő apró jelzések, érdekes részletek megfigyelésére, vagy akár egymásra nézni. Az információs társadalom kialakulásával párhuzamos folyamat, hogy a társadalom egyre inkább kicsi és akár esetleges közösségek hálózatává alakul. Ez a városi terek tekintetében azt jelenti, hogy több [közösségi tevékenységet befogadni képes teret][#ref3] és helyet kell létrehozni. A jól alakított publikus, közös használatú terek segítik a szomszédsági közösségek és lakók helyhez kötődő identitásának kialakulását. Akkor tudja valaki megáénak érezni az adott teret, ha azt jól be tudja járni, fizikailag meg tudja ismerni, léptékéhez könnyen viszonyul.
+Ezzel szemben a gyalogosforgalomra épülő városokban lüktet az élet az utcán. Az emberek sokáig látótávolságon belül maradnak. A melegebb és intenzívebb interperszonális kapcsolatokat a kisebb távolságok, szűkebb terek teszik lehetővé. Az emberek sétálva lassan, 5 km/h sebességgel haladnak, van idő apró jelzések, érdekes részletek megfigyelésére, vagy akár egymásra nézni. Az információs társadalom kialakulásával párhuzamos folyamat, hogy a társadalom egyre inkább kicsi és akár esetleges közösségek hálózatává alakul. Ez a városi terek tekintetében azt jelenti, hogy több [közösségi tevékenységet befogadni képes teret][#ref003-3] és helyet kell létrehozni. A jól alakított publikus, közös használatú terek segítik a szomszédsági közösségek és lakók helyhez kötődő identitásának kialakulását. Akkor tudja valaki megáénak érezni az adott teret, ha azt jól be tudja járni, fizikailag meg tudja ismerni, léptékéhez könnyen viszonyul.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Zichy_Jen%C5%91_Street_from_the_Nagymez%C5%91_Street.jpg/150px-The_Zichy_Jen%C5%91_Street_from_the_Nagymez%C5%91_Street.jpg" title="Zichy Jenő utca">
 
@@ -60,9 +60,9 @@ Ezzel szemben a gyalogosforgalomra épülő városokban lüktet az élet az utc�
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/BlahaLujzaTer.JPG/1200px-BlahaLujzaTer.JPG" title="Blaha Lujza tér">
 
-A barcelonai szuperblokkok példájában a sétálóutcák jelentik azt a sávot, ahol a kinti és a belső élet közti találkozási pontok találhatóak. A ház előtti vagy a [házban folyó tevékenységek kiléphetnek a város közös terébe][#ref4]. Olyan helyzetek alakulnak ki, amelyek lehetőséget adnak spontán társas interakciókra, véletlen találkozásokra, így a szomszédi viszonyok könnyebben kifejlődhetnek.
+A barcelonai szuperblokkok példájában a sétálóutcák jelentik azt a sávot, ahol a kinti és a belső élet közti találkozási pontok találhatóak. A ház előtti vagy a [házban folyó tevékenységek kiléphetnek a város közös terébe][#ref003-4]. Olyan helyzetek alakulnak ki, amelyek lehetőséget adnak spontán társas interakciókra, véletlen találkozásokra, így a szomszédi viszonyok könnyebben kifejlődhetnek.
 
-Ezek a kisebb léptékű publikus terek és a rajtuk megjelenő több funkció interaktív, [meleg hangulatú környezetet teremtenek][#ref5]. A közös térben, egymás mellett töltött idő segít abban, hogy az emberek megismerkedjenek egymással, érzékeljék a lakóközösséget amelyben tulajdonképpen eddig is éltek. Tulajdonképpen a sétálóövezeteken, szuperblokkokon belül egy sokkal inkább „belakott” és lakói által jobban megélt város alakul ki.
+Ezek a kisebb léptékű publikus terek és a rajtuk megjelenő több funkció interaktív, [meleg hangulatú környezetet teremtenek][#ref003-5]. A közös térben, egymás mellett töltött idő segít abban, hogy az emberek megismerkedjenek egymással, érzékeljék a lakóközösséget amelyben tulajdonképpen eddig is éltek. Tulajdonképpen a sétálóövezeteken, szuperblokkokon belül egy sokkal inkább „belakott” és lakói által jobban megélt város alakul ki.
 
 A lakóközösségek bevonása a közös sétálóutca újratervezésébe biztosítja igényeik szolgálatát, mert így érvényesítik szükségleteiket, problémáikat, vágyaikat. Ha a lakosságot célzottan, a tervezés korai fázisában vonják be, az növelheti a helyi közösség önbizalmát és identitástudatát, illetve a részvételük által sokkal személyesebb, és otthonosabb lesz az új, közös utca.
 
@@ -70,11 +70,11 @@ Mind a belvárosban, mind pedig a város egyéb területein célunk a sétáló�
 
 ### Taktikai városfejlesztés
 
-Az ipari társadalomra volt jellemző, hogy még a közösségépítés, a közösségi programok is felülről szervezettek, nagy méretűek, „méretgazdaságosak” voltak. Ezt tükrözték a városi nagyprojektek, ahol – tipikusan rengeteg beton felhasználásával – a városvezetés és a kormányzat nagy skálában, „most és mindörökre” kívánta megoldani a város problémáit. Ezek a megoldási stratégiák hosszabb távon számos esetben, számos módon [kudarcos helyzetekbe][#ref6] torkolltak (pl. a tervezett városrészek leszakadása, a jól kiszolgált nagy volumenű autóforgalom által felzabált belvárosok).
+Az ipari társadalomra volt jellemző, hogy még a közösségépítés, a közösségi programok is felülről szervezettek, nagy méretűek, „méretgazdaságosak” voltak. Ezt tükrözték a városi nagyprojektek, ahol – tipikusan rengeteg beton felhasználásával – a városvezetés és a kormányzat nagy skálában, „most és mindörökre” kívánta megoldani a város problémáit. Ezek a megoldási stratégiák hosszabb távon számos esetben, számos módon [kudarcos helyzetekbe][#ref003-6] torkolltak (pl. a tervezett városrészek leszakadása, a jól kiszolgált nagy volumenű autóforgalom által felzabált belvárosok).
 
-Az erőforrások hiányára is megoldást jelenthet, ha a fejlesztésre szoruló területet a „XX. századi” várostervezésnél sokkal kisebb léptékben és kevesebb ráfordítással átmeneti hasznosítás alá vesszük. Ezek az átmeneti „installációk” újraaktiválhatják a területet és felélénkíthetik helyi piacot addig, amíg nem alakul ki egy jobb, végleges hasznosítási mód. A módszer gazdasági és társadalmi hasznot is general azzal, hogy [rávilágít a helyi közösség igényeire][#ref7] már azelőtt, hogy megépülne a végső felhasználásra szánt épület, park vagy más funkció. Mindezek mellett, ha az átmeneti hasznosítás megtervezésében részt vesz a helyi közösség is, azzal megerősödik, és növekszik az elkötelezettsége a terület iránt. [Ez a megoldás][#ref8] rugalmasságot is biztosít, elősegíti hogy az adott közterületrész mindig az aktuális igényekre megfelelő legyen, követhesse az idők szavát.
+Az erőforrások hiányára is megoldást jelenthet, ha a fejlesztésre szoruló területet a „XX. századi” várostervezésnél sokkal kisebb léptékben és kevesebb ráfordítással átmeneti hasznosítás alá vesszük. Ezek az átmeneti „installációk” újraaktiválhatják a területet és felélénkíthetik helyi piacot addig, amíg nem alakul ki egy jobb, végleges hasznosítási mód. A módszer gazdasági és társadalmi hasznot is general azzal, hogy [rávilágít a helyi közösség igényeire][#ref003-7] már azelőtt, hogy megépülne a végső felhasználásra szánt épület, park vagy más funkció. Mindezek mellett, ha az átmeneti hasznosítás megtervezésében részt vesz a helyi közösség is, azzal megerősödik, és növekszik az elkötelezettsége a terület iránt. [Ez a megoldás][#ref003-8] rugalmasságot is biztosít, elősegíti hogy az adott közterületrész mindig az aktuális igényekre megfelelő legyen, követhesse az idők szavát.
 
-A nemzetközi irodalomban a „tactical urbanism” fogalma egy újfajta megközelítés, ami szembemegy a hagyományos hosszadalmas és bürokratikus városfejlesztési folyamatokkal. Célja, hogy kis léptékű, rövid távú és legfőképpen olcsó megoldásokkal gyors eredményeket érjen el, majd a kis, alacsony ráfordítású beavatkozásokat továbbfejlesztve, illetve [akár más helyeken is megismételve][#ref9] nagyobb léptékű változásokat tegyen lehetővé.
+A nemzetközi irodalomban a „tactical urbanism” fogalma egy újfajta megközelítés, ami szembemegy a hagyományos hosszadalmas és bürokratikus városfejlesztési folyamatokkal. Célja, hogy kis léptékű, rövid távú és legfőképpen olcsó megoldásokkal gyors eredményeket érjen el, majd a kis, alacsony ráfordítású beavatkozásokat továbbfejlesztve, illetve [akár más helyeken is megismételve][#ref003-9] nagyobb léptékű változásokat tegyen lehetővé.
 
 A taktikai városfejlesztés, városüzemeltetés a közösségi tervezés korai alkalmazásainak az első számú terepe. A közvetlenül a használók által is tervezett kis fejlesztések számíthatnak arra, hogy eredményeik tényleg jól szolgálják a kitűzött célokat. Ez nyilván párhuzamos az általános közösségi, illetve a közösségi önkormányzási célokkal.
 
@@ -167,7 +167,7 @@ A helyi gazdaság vagy kulturális élet fejlesztése érdekében indított beru
 
 Elsősorban a lakóközösségek számára volna szükséges elérhetővé tenni valamilyen támogatást is annak érdekében, hogy védett épületüket megfelelő módon használhassák, újíthassák fel. Azonban egy ilyen programot is csak a jelenlegi pénzszűkére való tekintettel lehet elindítani (itt nagy szerepet kaphatnak a fent említett PPP konstrukciók). Mindeközben hatékonyabban kell fellépni a védett épületek fatális állagromlása ellen is.
 
-Ennek egyik legfontosabb és legköltséghatékonyabb eszköze lenne a műemlékőr-szolgálat. Műemlék-diagnosztikai rendszert szervezünk a műemléki épületek tervszerű megelőző problémafelderítésére és karbantartására (lásd: [Monumentenwacht][#ref10] [Hollandiában][#ref11]). E [rendszert][#ref12] [részletesen][#ref13] kidolgozta a [Forster Központ][#ref14], azonban élesítése, bevezetése végül elmaradt. A rendszerben a műemlékfigyelő szolgáltatás piaci tevékenység, melynek kialakulását a Fővárosi Önkormányzat nagyban elősegíti azáltal, hogy a saját épületállománya részére megrendeli. A tulajdonosok szélesebb köre is érdekelt lenne abban, hogy a rendszerhez csatlakozzon, mivel a műemlékek fenntartását számukra is jelentősen olcsóbbá teszi.
+Ennek egyik legfontosabb és legköltséghatékonyabb eszköze lenne a műemlékőr-szolgálat. Műemlék-diagnosztikai rendszert szervezünk a műemléki épületek tervszerű megelőző problémafelderítésére és karbantartására (lásd: [Monumentenwacht][#ref003-10] [Hollandiában][#ref003-11]). E [rendszert][#ref003-12] [részletesen][#ref003-13] kidolgozta a [Forster Központ][#ref003-14], azonban élesítése, bevezetése végül elmaradt. A rendszerben a műemlékfigyelő szolgáltatás piaci tevékenység, melynek kialakulását a Fővárosi Önkormányzat nagyban elősegíti azáltal, hogy a saját épületállománya részére megrendeli. A tulajdonosok szélesebb köre is érdekelt lenne abban, hogy a rendszerhez csatlakozzon, mivel a műemlékek fenntartását számukra is jelentősen olcsóbbá teszi.
 
 Sokkal tudatosabb hozzáállása van szükség a polgárok részéről is; ebben segíthetnek a közösségi, részvételi örökségvédelmi módszerek, projektek, amelyek kiegészítik a fent említett segítő hozzáállást és az esetleges támogatásokat. Fontos lenne az épített környezeti nevelés, érzékenyítés ösztönzése, támogatása, bevezetése különféle nevelési, oktatási programokba. Megfelelő kommunikációval el kell érni, hogy a lakók és a felhasználók sajátjuknak érezzék a környezetüket, az épületüket. A kommunikáció egyik egyszerű pontja az, hogy a kellemes környezet jó az ott élő embereknek, és ennek fontos és mindenki számára (még cégeknek is) érthető következménye az, hogy egy jó, kellemes környezet növeli annak pénzbeli értékét is.
 
@@ -176,17 +176,17 @@ Sokkal tudatosabb hozzáállása van szükség a polgárok részéről is; ebben
 A flexibilisebb örökségvédelemre, városképvédelemre az utcai infrastrukturális elemek terén is szükség van. Az utcabútorok, felirati rendszerek, portálok, utcai burkolatok is az egységes szemlélet szerint kell, hogy illeszkedjenek a városhoz. Védett környezetben sem lehet azonban minden esetben cél az archaizáló megoldások erőltetése, teret kell adni olyan kortárs megoldásoknak, amelyek a város szemléletének megfelelően reagálnak egy-egy igényre vagy problémára. Ezen törekvéseket szemléleti szinten lehet rögzíteni, nem lehet általánosítani, mert nagyon lokálisak.
 
 Pár példán keresztül próbáljuk illusztrálni ezt:
-* A Lánchíd járdájának +80-80 cm-rel való szélesítése vállalható, amennyiben a valóban markáns műemlék összképét nem rontja, s nem eredményezi az eredeti állapot aránytalan sérelmét – főleg miután a ma éppen aktuális [„eredeti állapot”][#ref15] sem eredeti.
+* A Lánchíd járdájának +80-80 cm-rel való szélesítése vállalható, amennyiben a valóban markáns műemlék összképét nem rontja, s nem eredményezi az eredeti állapot aránytalan sérelmét – főleg miután a ma éppen aktuális [„eredeti állapot”][#ref003-15] sem eredeti.
 * A BKK jegyautomatáit a kerületi önkormányzat tudatosan távol tartja a Vár közterületeitől, miközben a helyben megjelenő utcabútorok, kiszolgálóegységek sem őriznek egységes utcaképet. Ahogy az örökségvédelemnél, itt is egy, az elvek szintjén sokkal szigorúbb (például az utcabútorok terén akár össz-budapesti szintű arculat igényével fellépő), de a gyakorlatban sokkal pragmatikusabb hozzáállásra van szükség.
 * Érdekes példa a Vigadó villamosmegállójának megközelítése, ahol a megállóperonhoz épített második lépcső az utcakép esztétikájának és a védett infrastruktúra szerkezetének sérelme nélkül biztosítható lenne, azonban az utasok életét jelentősen megkönnyítené.
 
-A másik oldalról nézve az egy-egy épületnél magasabb szintű, több épületet, épületkörnyezetet magukban foglaló egységek, utcrészletek, utcák vagy akár főutak, városrészek, Dunapartszakaszok szintjén is szükség van a szigorúbb szemléletre is. Erre egy minta lehet [Berlin műemlékvédelmi törvénye][#ref16].
+A másik oldalról nézve az egy-egy épületnél magasabb szintű, több épületet, épületkörnyezetet magukban foglaló egységek, utcrészletek, utcák vagy akár főutak, városrészek, Dunapartszakaszok szintjén is szükség van a szigorúbb szemléletre is. Erre egy minta lehet [Berlin műemlékvédelmi törvénye][#ref003-16].
 
-A városrészek műemléki, értékvédelmi rehabilitációját a 2010-ben kiegészített berlini műemléki törvény szabályozza (Denkmalschutzgesetz Berlin – DSchG Bln). A törvény kimondja, hogy a műemlék környezetét – legyen az épített vagy nem épített, köz- vagy magántulajdonú – nem lehet oly módon megváltoztatni, hogy az a műemlék egyedi megjelenését rontsa. A műemléki környezet fogalma – mely nálunk nagyrészt átalakult „ex lege” [műemléki környezetté][#ref28] – vizuális és használati szempontból definiált.
+A városrészek műemléki, értékvédelmi rehabilitációját a 2010-ben kiegészített berlini műemléki törvény szabályozza (Denkmalschutzgesetz Berlin – DSchG Bln). A törvény kimondja, hogy a műemlék környezetét – legyen az épített vagy nem épített, köz- vagy magántulajdonú – nem lehet oly módon megváltoztatni, hogy az a műemlék egyedi megjelenését rontsa. A műemléki környezet fogalma – mely nálunk nagyrészt átalakult „ex lege” [műemléki környezetté][#ref003-28] – vizuális és használati szempontból definiált.
 
 A törvény és a mellékletként használható térkép (Denkmalkarte) a műemléki területek fogalmát illetve lehatárolását is tartalmazza. Ezek kétfélék lehetnek. A műemléki társulások (Ensembles) falusias területek, kerületközpontok vagy karakter szempontjából megőrzendő területek lehetnek, melyek jellemzően nem egyszerre épültek. A műemléki egységek (Gesamtanlagen) egy ütemben épült épületegyüttesek, amelyek jellemzően használat szempontjából is összekapcsolódnak. Ilyenek például a telepszerű lakóterületek és a közintézmények.
 
-**A törvény a műemlékek és műemléki területek felújításának, megőrzésének finanszírozását a főváros költségvetési forrásokból biztosítja. Műemlékek esetén kétféle támogatási forma rögzített: a kedvezményes kölcsön és a vissza nem térítendő támogatás. Egykori műemlék visszaépítése – elsősorban a műemlékvédelmi elvekkel ellentétes volta miatt – nem támogatott. Műemléki területekre adókedvezmény vagy adóvisszatérítés vehető igénybe, ami azonban csak az épület megjelenésének megőrzésére vagy javítására fordítható, épület-korszerűsítésre nem. Ez hamarosan változhat, ugyanis a jelenleg szerveződő [„DenkMal energetisch”][#ref17] nevű program a műemlékek energiatudatos felújításának irányait kutatja. A városmegújítási programok állami és fővárosi finanszírozást igényeltek, de a városvezetés saját számításai szerint minden 1 euró befektetett közpénz 6,30 euró magánbefektetést jelentett Berlin számára.**
+**A törvény a műemlékek és műemléki területek felújításának, megőrzésének finanszírozását a főváros költségvetési forrásokból biztosítja. Műemlékek esetén kétféle támogatási forma rögzített: a kedvezményes kölcsön és a vissza nem térítendő támogatás. Egykori műemlék visszaépítése – elsősorban a műemlékvédelmi elvekkel ellentétes volta miatt – nem támogatott. Műemléki területekre adókedvezmény vagy adóvisszatérítés vehető igénybe, ami azonban csak az épület megjelenésének megőrzésére vagy javítására fordítható, épület-korszerűsítésre nem. Ez hamarosan változhat, ugyanis a jelenleg szerveződő [„DenkMal energetisch”][#ref003-17] nevű program a műemlékek energiatudatos felújításának irányait kutatja. A városmegújítási programok állami és fővárosi finanszírozást igényeltek, de a városvezetés saját számításai szerint minden 1 euró befektetett közpénz 6,30 euró magánbefektetést jelentett Berlin számára.**
 
 ## Utcakép
 
@@ -196,7 +196,7 @@ A város és az azt használó üzlettulajdonosok együttműködésének másik 
 
 Az épületeken esett II. világháborús és 1956-os sérülések felszámolása a XIX. századi alapokhoz való visszanyúlás és az alapvető esztétikai normáknak való megfelelés tekintetében kiemelten fontos lenne, egyes esetekben viszont ezek mementóként való megtartása indokolt lehet (pl. a golyónyomok megtartása a tematikus útvonalak mentén). A homlokzatfelújításokat általában intenzívebben kellene támogatni, meghatározott arculati kialakítás, illetve műemléki és energetikai elvárások mellett.
 
-Az utcai reklámok mértékének korlátozásával, egységesebb szabályozásával is pozitívabb irányba kell tolni az utcaképeket, környezetet. Gyakran egy-egy utcaképet jelentősen meghatároz egy óriásplakát vagy világító reklámfelirat. Ezek helyenként lehetnek pozitívak (pl. a régi, védettségre is méltó neonreklámok – ezek ma is [pusztulnak, holott önmagukban már értéket képviselnek][#ref18]), azonban a legtöbb esetben kifejezetten hátrányosnak mondhatók. Emellett esetenként az épületek állagát is rosszabb színben tüntetik fel (pl. a Boráros téri háztetőkön lévő világító reklámok maradványai). A szigorú szabályozásra példa [Prága városa][#ref19] vagy extrém, de hatásos példaként említhető a brazíliai São Paolo, ahol zéró tolerancia van érvényben az utcai reklámok kihelyezésére.
+Az utcai reklámok mértékének korlátozásával, egységesebb szabályozásával is pozitívabb irányba kell tolni az utcaképeket, környezetet. Gyakran egy-egy utcaképet jelentősen meghatároz egy óriásplakát vagy világító reklámfelirat. Ezek helyenként lehetnek pozitívak (pl. a régi, védettségre is méltó neonreklámok – ezek ma is [pusztulnak, holott önmagukban már értéket képviselnek][#ref003-18]), azonban a legtöbb esetben kifejezetten hátrányosnak mondhatók. Emellett esetenként az épületek állagát is rosszabb színben tüntetik fel (pl. a Boráros téri háztetőkön lévő világító reklámok maradványai). A szigorú szabályozásra példa [Prága városa][#ref003-19] vagy extrém, de hatásos példaként említhető a brazíliai São Paolo, ahol zéró tolerancia van érvényben az utcai reklámok kihelyezésére.
 
 ### Közterület-használat
 
@@ -229,7 +229,7 @@ A kulturált közterület-használattal kapcsolatban elvárható
 * a teraszbútorzat éjszakai tárolásának nem közterületen való megoldása,
 * a megállító táblák, étlaptáblák gyalogos közlekedési területről való eltávolítása.
 
-### [Egészséges utca][#ref20]
+### [Egészséges utca][#ref003-20]
 
 Az arculatot nem csupán hirdetések, táblák, homlokzatok formálják. Befolyásolhatja a meglévő infrastruktúra rossz minősége vagy akár egy rosszul kialakított gyalogátkelő, sok olyan első hallásra aprónak tűnő, megszokott elem, ami rontja az emberek komfortérzetét. Erre a problémakörre született az egészséges utca koncepciója.
 
@@ -254,7 +254,7 @@ A probléma gyökere részben abban keresendő, hogy a lakosság – az előzete
 
 Megoldásként szervezeti innovációban is gondolkodunk, ami az embereket összefogásra ösztönzi, ami nem csupán a környezet minőségének javítását, de a helyi közösség formálását is elősegíti. Mindehhez egy lakótelepi arculati bizottság (vagy valamilyen hasonló célú önszerveződés) felállítása lehet célszerű, amely felügyeli a közösségi tereket. A bizottság feladata olyan közösségi projektek megszervezése, amelyek mentén igényesen átalakítható a környezet. Ez jelenthet például közös virágültetést, közösségi kert létrehozását, amit akár már fiatal korban, az iskolások szintjén szervezetten is el lehet kezdeni. A közösen létrehozott értékekre jobban fognak vigyázni a helyi lakosok.
 
-A konkrét városi infrastruktúra terén a lakótelepek megújulásához arra van szükség, hogy az elmúlt évtizedekben zsúfolt parkolóvá degradálódott eredeti zöldterületek és feltáróutcák legalább a lakótelepek központjaiban visszakapják eredeti funkcióikat. Ehhez akár vizsgálni kell azt is, hogy [viszonylag kompakt][#ref21] és fajlagosan [olcsó automata parkolóházakkal][#ref22], vagy más egyéb módon hogyan oldható meg, hogy a lakótelepek házai közt levő területek fő funkciója ne a parkolás legyen. A [költségadatok][#ref23] alapján, a kapcsolódó kedvező városépítészeti hatások miatt, s végül mivel jelentős kapacitásbővítés, színvonalemelkedés esetén fizetős többletszolgáltatás nyújtására is lehetőség van, finanszírozási szempontból sem lehetetlen egy ilyen kompakt garázsokat építő program.
+A konkrét városi infrastruktúra terén a lakótelepek megújulásához arra van szükség, hogy az elmúlt évtizedekben zsúfolt parkolóvá degradálódott eredeti zöldterületek és feltáróutcák legalább a lakótelepek központjaiban visszakapják eredeti funkcióikat. Ehhez akár vizsgálni kell azt is, hogy [viszonylag kompakt][#ref003-21] és fajlagosan [olcsó automata parkolóházakkal][#ref003-22], vagy más egyéb módon hogyan oldható meg, hogy a lakótelepek házai közt levő területek fő funkciója ne a parkolás legyen. A [költségadatok][#ref003-23] alapján, a kapcsolódó kedvező városépítészeti hatások miatt, s végül mivel jelentős kapacitásbővítés, színvonalemelkedés esetén fizetős többletszolgáltatás nyújtására is lehetőség van, finanszírozási szempontból sem lehetetlen egy ilyen kompakt garázsokat építő program.
 
 ## Duna
 
@@ -274,39 +274,39 @@ Az utóbbi években lángolt fel, és egy esetben el is dőlt a felhőkarcolókr
 
 Szimbolikus városarculati kérdés, és egyben szintén egy visszanyúlás a legutolsó értelmezhető alapig, hogy Budapest 1873-as történelmi zászlaját visszaállítjuk, hiszen a város jelenlegi zászlaja heraldikailag és esztétikailag is értelmezhetetlen.
 
-[Budapest mai zászlaja][#ref24], ami a címert meglehetősen furcsa arányokkal tartalmazza, szegélymintája értelmezhetetlen, és szerkezetében egy katonai vagy tisztségzászlóra emlékeztet
+[Budapest mai zászlaja][#ref003-24], ami a címert meglehetősen furcsa arányokkal tartalmazza, szegélymintája értelmezhetetlen, és szerkezetében egy katonai vagy tisztségzászlóra emlékeztet
 
-[Budapest történelmi zászlaja][#ref25], ami azzal hívta ki maga ellen a sorsot, hogy [„román” színekben][#ref26] pompázik, miközben mind Románia, mind Budapest történelmi zászlaja bevallottan és szándékosan idézi [Erdély címerének][#ref27] színeit.
+[Budapest történelmi zászlaja][#ref003-25], ami azzal hívta ki maga ellen a sorsot, hogy [„román” színekben][#ref003-26] pompázik, miközben mind Románia, mind Budapest történelmi zászlaja bevallottan és szándékosan idézi [Erdély címerének][#ref003-27] színeit.
 
-[#ref1]: https://www.archdaily.com/784842/12-projects-that-show-how-landscape-urbanism-is-changing-the-face-of-cities
-[#ref2]: # "Jan Gehl: Élhető városok, Terc, Budapest, 2014."
-[#ref3]: # "Lynch, Kevin. 1960. The Image of the City"
-[#ref4]: # "Jan Gehl: Élhető városok. Terc, Budapest, 2014, p. 78."
-[#ref5]: # "Alexander, Christopher. 1969. A város nem fa. In: Urbanisztika, Válogatott tanulmányok. szerk.: Vidor Ferenc. 1979. Gondolat. Budapest. p. 255-268."
-[#ref6]: # "Jane Jacobs: The Death and Life of Great American Cities, Random House, New York, 1961"
-[#ref7]: # "McGuire, N. Tactical Urbanism: A Plan for the Revitalization of Vacant and Decrepit Spaces. The Equilibrium, (2017) 3 (1)"
-[#ref8]: # "Marshall, et. al, 2015 – Large-scale tactical urbanism: the Denver bike share system"
-[#ref9]: # "Mike Lydon, Anthony Garcia, Tactical Urbanism: Short-term Action for Long-term Change, Island Press, Washington DC, 2015"
-[#ref10]: http://epiteszforum.hu/holland-peldat-kovetne-az-oroksegvedelem
-[#ref11]: https://www.monumenten.nl/onderhoud-en-restauratie/monumentenwacht-nl
-[#ref12]: http://oroksegvedelem.kormany.hu
-[#ref13]: https://www.facebook.com/muemlekor/
-[#ref14]: http://www.tveger.hu/tag/muemlekor/
-[#ref15]: # "Persze, miután hónapok-évek lebegtetése után kiderült, hogy ez a megoldás műszaki okokból nem is lehetséges, ez a példa merőben elméletivé vált."
-[#ref16]: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSchG+BE&psml=bsbeprod.psml&max=true&aiz=true
-[#ref17]: https://www.stadtentwicklung.berlin.de/aktuell/pressebox/includes/docs/doc506_2696_denkmal_energetisch_121001.pdf
-[#ref18]: https://index.hu/belfold/budapest/2009/08/29/megtizedelte_a_neonreklamokat_a_rendszervaltas/
-[#ref19]: http://www.origo.hu/utazas/20051130korlatozzak.html
-[#ref20]: https://jarokelok.blog.hu/2019/01/07/mennyire_egeszseges_a_budapesti_utca
-[#ref21]: https://cityliftparking.com/build-not-build-parking-automated-parking-lifts-changed-rules
-[#ref22]: https://www.roboticparking.com/robotic_parking_faq.htm
-[#ref23]: # "Egy ilyen érdekeltségű hazai cég munkatársának személyes közlése alapján minimalista 
+[#ref003-1]: https://www.archdaily.com/784842/12-projects-that-show-how-landscape-urbanism-is-changing-the-face-of-cities
+[#ref003-2]: # "Jan Gehl: Élhető városok, Terc, Budapest, 2014."
+[#ref003-3]: # "Lynch, Kevin. 1960. The Image of the City"
+[#ref003-4]: # "Jan Gehl: Élhető városok. Terc, Budapest, 2014, p. 78."
+[#ref003-5]: # "Alexander, Christopher. 1969. A város nem fa. In: Urbanisztika, Válogatott tanulmányok. szerk.: Vidor Ferenc. 1979. Gondolat. Budapest. p. 255-268."
+[#ref003-6]: # "Jane Jacobs: The Death and Life of Great American Cities, Random House, New York, 1961"
+[#ref003-7]: # "McGuire, N. Tactical Urbanism: A Plan for the Revitalization of Vacant and Decrepit Spaces. The Equilibrium, (2017) 3 (1)"
+[#ref003-8]: # "Marshall, et. al, 2015 – Large-scale tactical urbanism: the Denver bike share system"
+[#ref003-9]: # "Mike Lydon, Anthony Garcia, Tactical Urbanism: Short-term Action for Long-term Change, Island Press, Washington DC, 2015"
+[#ref003-10]: http://epiteszforum.hu/holland-peldat-kovetne-az-oroksegvedelem
+[#ref003-11]: https://www.monumenten.nl/onderhoud-en-restauratie/monumentenwacht-nl
+[#ref003-12]: http://oroksegvedelem.kormany.hu
+[#ref003-13]: https://www.facebook.com/muemlekor/
+[#ref003-14]: http://www.tveger.hu/tag/muemlekor/
+[#ref003-15]: # "Persze, miután hónapok-évek lebegtetése után kiderült, hogy ez a megoldás műszaki okokból nem is lehetséges, ez a példa merőben elméletivé vált."
+[#ref003-16]: http://gesetze.berlin.de/jportal/?quelle=jlink&query=DSchG+BE&psml=bsbeprod.psml&max=true&aiz=true
+[#ref003-17]: https://www.stadtentwicklung.berlin.de/aktuell/pressebox/includes/docs/doc506_2696_denkmal_energetisch_121001.pdf
+[#ref003-18]: https://index.hu/belfold/budapest/2009/08/29/megtizedelte_a_neonreklamokat_a_rendszervaltas/
+[#ref003-19]: http://www.origo.hu/utazas/20051130korlatozzak.html
+[#ref003-20]: https://jarokelok.blog.hu/2019/01/07/mennyire_egeszseges_a_budapesti_utca
+[#ref003-21]: https://cityliftparking.com/build-not-build-parking-automated-parking-lifts-changed-rules
+[#ref003-22]: https://www.roboticparking.com/robotic_parking_faq.htm
+[#ref003-23]: # "Egy ilyen érdekeltségű hazai cég munkatársának személyes közlése alapján minimalista 
 konstrukcióban (felszíni, legegyszerűbb burkolatú építményben) az egy férőhelyre 
 eső építési költség mintegy 3 millió Ft. Ez jóval magasabb, de nagyságrendjében 
 összevethető a jól kiépített felszíni parkolókkal (ezek ára férőhelyenként az 1 
 milliós nagyságrendben van, és tipikusan ingyen áll az autósok rendelkezésére)"
-[#ref24]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Budapest_%282011-%29.svg/1200px-Flag_of_Budapest_%282011-%29.svg.png
-[#ref25]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Budapest_%281873-2011%29.svg/300px-Flag_of_Budapest_%281873-2011%29.svg.png
-[#ref26]: # "E mondvacsinált probléma megoldása a második világháború előtt az volt, hogy a kék sávot zöldre cserélték."
-[#ref27]: https://hu.wikipedia.org/wiki/Budapest_z%C3%A1szlaja
-[#ref28]: https://epitesijog.hu/magyarazatok/atulajdonjogkorlatai/1300-01-mi-az-a-muemlek
+[#ref003-24]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Flag_of_Budapest_%282011-%29.svg/1200px-Flag_of_Budapest_%282011-%29.svg.png
+[#ref003-25]: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_Budapest_%281873-2011%29.svg/300px-Flag_of_Budapest_%281873-2011%29.svg.png
+[#ref003-26]: # "E mondvacsinált probléma megoldása a második világháború előtt az volt, hogy a kék sávot zöldre cserélték."
+[#ref003-27]: https://hu.wikipedia.org/wiki/Budapest_z%C3%A1szlaja
+[#ref003-28]: https://epitesijog.hu/magyarazatok/atulajdonjogkorlatai/1300-01-mi-az-a-muemlek
