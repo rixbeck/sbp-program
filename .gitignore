@@ -1,2 +1,4 @@
 /.idea/
 raw.txt
+/build/tmp/*
+!/build/tmp/.gitignore
