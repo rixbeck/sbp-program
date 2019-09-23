@@ -1,8 +1,6 @@
-# 11. FEJEZET
+# VÁLLALKOZÁSOK, MAGÁNGAZDASÁG
 
-## VÁLLALKOZÁSOK, MAGÁNGAZDASÁG
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Térképre viszünk minden bejelentésköteles vállalkozást, legyen nyilvános, milyen engedélyekkel rendelkeznek, legyen lehetséges gyorsan és könnyen mesterembert találni!
 2. A már meglevő világtrendhez csatlakozva startup-központot létesítünk, ahol lakásirodák helyett inspiráló közösségi környezetben történik az innováció.
@@ -10,7 +8,9 @@
 4. Minőségi partnerség keretében ösztönözzük a budapesti vállalkozásokat arra, hogy emelt szintű elvárásokat betartsanak a fenntarthatóság, a városhasználat, a közösségi élet, a civil partnerségek terén.
 5. A közösségi gazdaság (Airbnb, Uber) platformjait a szolgáltatást végző kisvállalkozók adójának, illetve a szolgáltatással kapcsolatos panaszoknak kezelésére bírjuk, és az alkalmi szolgáltatásnak értelmes korlátokat állítunk.
 
-### VÍZIÓ
+-----
+
+**VÍZIÓ**
 
 Ami jó az embereknek, az jó a gazdaságnak is. Aki ennek az ellenkezőjét állítja, az hazudik. Rajtunk múlik, hogy a nyereség forrása a jó minőség, az ép környezet és az üzleti tisztesség legyen.
 
@@ -22,7 +22,9 @@ A Sétáló Budapest ezen a területen a leginkább arra koncentrál, hogy a vá
 
 Az önkormányzatok a rendelkezésükre álló eszközökkel segítsék, hogy a vállalkozások minél életképesebbek legyenek, egyszersmind a leghasznosabbak legyenek a legéletképesebbek, és a szolgáltatás másik oldalán álló egyszerű városi polgárok is minél könnyebben eligazodjanak a szolgáltatások, az ajánlatok között. Az önkormányzat nem reklámügynökség, nem szolgáltatásközvetítő, azonban a közigazgatáson, a közszolgáltatásokon túl is jól felfogott érdeke, hogy a helyiek ügyes-bajos dolgai minél könnyebben intézhetőek legyenek, hogy az a szolgáltatáscsomag, amit városnak nevezünk, e szegmensében is minél könnyebben elérhetően táruljon a városhasználók elé.
 
-### Bevezetés
+-----
+
+**Bevezetés**
 
 A hazai vállalkozások több mint 40 százaléka működik a fővárosban, így átlagosan minden nyolcadik budapesti lakosra jut egy társaság. Ezen belül a városmag körül extrém területi koncentráció figyelhető meg, háromból egy V. és VI. kerületi lakosra jut egy vállalkozás. A központi vízfej magángazdasági értelemben is évről-évre növekszik, a 2010-es évektől jellemzően minden évben az újonnan alapított cégek fele itt működik.
 
@@ -31,6 +33,8 @@ Országosan egyedülálló, de a főváros pozíciójából adódóan érthető 
 A központi és önkormányzati költségvetések közti adóbevétel-megosztás a rendszerváltás óta folyamatosan az önkormányzatoknak kedvezőtlen módosításokat szenvedett. Ennek eredményeként a jelentős forrásokat vesztett helyi igazgatás számára kiemelkedő bevételi forrás a helyi iparűzési adó, amit a Főváros a kerületekkel közel fele-fele arányban oszt meg. Szintén fontos bevételi forrás egyes kerületekben az ingatlanok különféle jogcímeken való adóztatása.
 
 Bár Budapest vezetésének nincs közvetlen hatása az állam gazdasági szabályozó tevékenységére, valamint az Európai Unió támogatásainak elosztási rendszerére, a Sétáló Budapest víziója egy vállalkozásbarát, aktív részvételen alapuló progresszív környezet megteremtésében elkötelezett.
+
+-----
 
 ## Budapest motorja, a magángazdaság
 

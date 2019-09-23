@@ -5,11 +5,11 @@ SRC=$BASE
 TMP=$SRC/build/tmp
 OUTPUT=${1:-$BASE/build/epub/setalo-budapest-2019.epub}
 
-cat $SRC/index.md  \
-  | gawk '{ RS = "\f"; a=gensub(/(\([^\.\]]*\.md)#/, "(#", "gmi", $0); print a}' > $TMP/index.md
+#cat $SRC/index.md  \
+#  | gawk '{ RS = "\f"; a=gensub(/(\([^\.\]]*\.md)#/, "(#", "gmi", $0); print a}' > $TMP/index.md
 
 FILES=(\
-        $TMP/index.md  \
+        $SRC/000_eloszo.md \
         $SRC/001-fovarosi-onkormanyzas-szervezeti-kerdesei.md \
         $SRC/002-varosszerkezet.md \
         $SRC/003-varosarculat-es-oroksegvedelem.md \
@@ -21,7 +21,8 @@ FILES=(\
         $SRC/009-szocialis-ellatasok-es-egeszsegugy.md \
         $SRC/010-oktatasugy-ifjusagpolitika.md \
         $SRC/011-vallalkozasok-magangazdasag.md \
+        $SRC/099-impresszum.md \
         $DIR/meta.yaml
      )
 
-echo "${FILES[@]}" | xargs pandoc --epub-stylesheet=$DIR/style.css -s -o $OUTPUT
+echo "${FILES[@]}" | xargs pandoc --toc --epub-stylesheet=style.css --data-dir=$DIR --number-sections --top-level-division=chapter -s -o $OUTPUT

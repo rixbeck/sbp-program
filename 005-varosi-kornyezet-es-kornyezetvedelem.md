@@ -1,8 +1,6 @@
-# 5. FEJEZET
+# VÁROSI KÖRNYEZET ÉS KÖRNYEZETVÉDELEM
 
-## VÁROSI KÖRNYEZET ÉS KÖRNYEZETVÉDELEM
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Az újrahasznosítást ösztönözzük, a szelektív hulladékgyűjtést kiterjedtebbé, kényelmesebbé tesszük, a komposztálható hulladékról gondoskodunk. Ezzel a lerakást megszüntetjük, és a hulladékégető kapacitásait részben felszabadítva, hasonló gondosságot előíró megállapodások révén agglomerációs hulladékot is tudunk fogadni.
 2. A kommunális szemét és a zöldhulladék égetésének minimalizálása, az autóforgalom csillapítása, illetve a középtávú épületenergetikai programok révén a városi levegő minősége érzékelhetően és mérhetően javul. Kitűzzük továbbá, hogy a lakosság és az önkormányzat széndioxid-kibocsátása tíz év alatt a felére csökken.
@@ -10,7 +8,9 @@
 4. A köztisztaság tényleg jelentsen tisztaságot! Saját intenzívebb munkánk mellett felkaroljuk a közösségi szemétmentesítő programokat is. Ténylegesen és hatékonyan fellépünk a kutyagumi és az illegális szemétlerakás ellen.
 5. Legkésőbb 2024-re Budapest elnyeri az [Európa Zöld Fővárosa][#ref005-1] (European Green Capital) címet.
 
-## VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A XX. században az emberiség elérte az indusztrializáció csúcsát – abban az értelemben mindenképpen, hogy a technológiai növekedésbe és a rendelkezésre álló erőforrások korlátlanságába vetett hitet a tudományon kívül nem sokan kérdőjelezték meg, és a gazdaság fejlődése e korlátlanság jegyében telt. A környezetszennyezés csak egy nagyon speciális kérdés volt, ami néha-néha közel jön hozzánk, a közvetlen környezetünket, az egészségünket veszélyeztetheti, de eseti beavatkozásokkal alapvetően kezelhető, és így a környezet védelme az iparosításnak nem fő szervezőereje, hanem egy kármentő kísérőjelensége volt.
 
@@ -20,7 +20,9 @@ Amikor azt mondjuk, hogy a jövő zöld vagy semmilyen, akkor azt is mondjuk, ho
 
 A kémiai biztonság terén a legszigorúbb európai normákat fogjuk érvényesíteni – és nem csak papíron. Dől a Dunába a rákkeltő benzol és arzén. Óbudától az Illatos útig egykori és jelenlegi ipari létesítmények veszélyes hulladéka mérgezi a talajt és vizeinket – nem várhatunk tovább. Haladéktalanul hozzá kell látni a mentesítéshez. Ahol a felelősség megállapítható, ott ennek költségét a szennyező fedezze!
 
-## Bevezetés és problémafelvetés
+---
+
+**Bevezetés és problémafelvetés**
 
 Mottó: _„[a] fővárosi építési szabályozási és településrendezési tervekből hiányzik a környezettudatosság mint fogalom.”_ 2
 

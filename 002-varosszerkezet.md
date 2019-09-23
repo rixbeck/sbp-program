@@ -1,8 +1,6 @@
-# 2. FEJEZET
+# VÁROSSZERKEZET
 
-## VÁROSSZERKEZET
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Emberközpontú várost építünk. A városszerkezet megújításának szellemi alapját XIX. század
 végéből merített inspiráció adja, amely szerint a városokat még az emberekre tervezték.
@@ -19,7 +17,9 @@ egész agglomerációs stratégiát alapozunk meg.
 sosem teljesített barnazóna-fejlesztésnek. Ez a városfejlesztés nagy tartaléka, ha a
 problémáit változatosan és tudatosan kezeljük.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A rendszerváltás óta temérdek pénz özönlött a fővárosba. Nem kevesebb, mint amennyiből a millennium idején felépült. Most ez a pénz úgyszólván lakhatatlanná tette a várost. Sivár irodanegyedek, lakóparknak csúfolt kaszárnyák és a hagyományos városközpontokat tönkretevő plázák épültek belőle. A város arculatát hegekként csúfítják el a foghíjtelkekre felhúzott acél-üveg irodaépületek. A politikai rögeszmék és üzleti érdekek házasságából olyan fejlesztési döntések születtek, mint legrégebbi közparkunk, a Városliget beépítése, kormányzati negyed a budai Várban, kihasználhatatlan uszodakombinát egy strand zöldterületén, a világörökségként védett budai panorámába belerondító toronyház – a sor pedig vég nélkül folytatható. A város vezetői tehetetlenül asszisztálnak a fejük felett hozott döntésekhez, a jogszabályok kijátszásához, a rendezési tervek semmibe vételéhez.
 
@@ -29,7 +29,9 @@ Az elfogadott fejlesztési és városszerkezeti tervek, építési előírások 
 
 A főváros és az azt fojtogató, már a külső kerületekben elkezdődő agglomerációs övezet sorsa elválaszthatatlanul összefonódik. Az elővárosok robbanásszerű terjeszkedése súlyos ellátási, forgalmi és ökológiai problémákat okoz, ezért stratégiaalkotást kell indítani széles társadalmi konszenzussal az alvóvárosok fenntartható fejlesztésére.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 „Budapest központjait tekintve nem jött még létre ideális térbeli rendszer, mely a város területi kiegyenlítődését, az egy-egy adott vonzásterület [megfelelő szintű kiszolgálását eredményezné][#ref002-1].” A város ezért erősen centralizált, ahol a funkciógazdag központba jelentős mértékű tömeg ingázik nap mint nap. Nem meglepő módon, szerkezetének legmeghatározóbb elemei ezért – a Duna után közvetlenül – a várost átszelő nagy- és közepes forgalmú utak, amelyek mellett szinte elvesznek az emberek jólléte szempontjából jelentős parkok és egyéb sétálófelületek.
 

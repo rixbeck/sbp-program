@@ -1,8 +1,6 @@
-# 8. FEJEZET
+# LAKHATÁS ÉS HAJLÉKTALANSÁG
 
-## LAKHATÁS ÉS HAJLÉKTALANSÁG
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. A tragikusan alacsony önkormányzati bérlakásállomány további csökkentését megállítjuk, felújításokat indítunk, az önkormányzatok a fejleszthető ingatlanvagyon további kiárusítása helyett aktívan vesznek részt a lakásfejlesztésben. A legleromlottabb lakásokról se mondunk le azonnal.
 2. Elismerjük a tenni akaró szegény bérlők, illetve az őket támogató közösségek, a civilszervezetek hozzájárulásást a felújításhoz. Több szociális lakást biztosítunk, és mindkét irányban átjárhatóvá tesszük a szociális és a piaci lakbérképzés közti határokat.
@@ -10,7 +8,9 @@
 4. Nemcsak az önkormányzati, hanem a magántulajdonú lakások körében is tőkekímélő megoldásokkal, teljeskörű hivatali segítségnyújtással, a belvárosban tömbi lakóközösségek szervezésével segítjük az épületenergetikai korszerűsítéseket.
 5. Emberséges módon, az „elsőként lakhatást” szemléletében közelítünk a hajléktalanság problémaköréhez, nem a többség pillanatnyi érdekeit kiszolgálva, ugyanakkor ellenállunk a gyors visszaromlást hozó könnyű félmegoldásoknak is. A fő hangsúlyt a hajléktalanság megelőzésére, a családok egyben tartására helyezzük.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 Rengetegen élnek Budapesten egészségtelen, szűkös otthonokban, miközben lakások ezrei állnak kihasználatlanul. Az ingatlanok árai és bérleti díjai az egekbe kúsztak, az önálló lakás egyre több fiatal számára válik elérhetetlenné. A hajléktalanok krimianalizálása mit sem segít a hajléktalanná válás okain, a fizetésképtelen adósok kilakoltatása pedig egyenesen a hajléktalanok utánpótlásáról gondoskodik.
 
@@ -22,7 +22,9 @@ Megpróbáljuk elérni, hogy a kormány a rendelkezésére álló uniós forrás
 
 A lakhatási válság megoldására sok bérlakásnak kell piaci alapon felépülnie, s ebben az államnak és az önkormányzatnak egyaránt aktív, támogató szerepet kell vállalnia: közösen kell törekenünk a megfelelő finanszírozási konstrukciók kialakítására, telket kell biztosítani a beruházóknak, és olyan szabályozórendszert kell alkotni, amely a leendő bérbeadóknak és bérlőknek egyaránt hosszú távú, kiegyensúlyozott környezetet teremt. Javasolni fogjuk a kormánynak, hogy a szociális alapon bérbe adott, rossz állapotú lakásokra adjon felújítási támogatást.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Budapesten az önkormányzati bérlakások a kerületek tulajdonában vannak, azonban a kerületek láthatólag ezt a terhet nem akarják magukra vállalni. Az önkormányzati lakásokkal való „gazdálkodás” nem jelent mást, mint a lakásvagyon lassú felszámolását. A [meglevő állomány][#ref008-1] egy jelentős része üresen áll, és tulajdonképpen ez az állapot nem más, mint az első lépés afelé, hogy ezek a lakások szanálva legyenek, vagy az önkormányzat eladja őket. Az üres lakások többsége pillanatnyilag nem lakható, azonban a felújítás – különösen ennek költségkímélő változatai, például a közösségi, vagy lakbérbe beszámított sajáterős felújítás – nem prioritás, még akkor sem, ha megérné.
 

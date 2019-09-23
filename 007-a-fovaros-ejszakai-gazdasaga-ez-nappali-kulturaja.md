@@ -1,8 +1,6 @@
-# 7. FEJEZET
+# A FŐVÁROS ÉJSZAKAI GAZDASÁGA ÉS NAPPALI KULTÚRÁJA
 
-## A FŐVÁROS ÉJSZAKAI GAZDASÁGA ÉS NAPPALI KULTÚRÁJA
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Főpolgármester-helyettesre bízzuk az „éjszakai polgármester” feladatait, ő lesz felelős a lakossági igények, a hatóságok, a szolgáltatók és a városházi stratégiaalkotás összekötéséért a vendéglátás, a turizmus és a kulturális élet területén.
 2. Teret adunk az élőzenének. Hangszigetelési programmal támogatjuk a fellépőhelyek létesítését és segítjük a próbatermek kialakítását.
@@ -10,7 +8,9 @@
 4. Alternatívát kínálunk a fiataloknak a színvonalas szabadidő-töltésre sporttal és kultúrával, alkoholmentesen – mindenki számára hozzáférhető módon.
 5. Nyilvános tereket jelölünk ki engedélyezett alkoholfogyasztással, mosdókkal és felügyelettel. Javítjuk a köztisztaságot működő nyilvános illemhelyhálózattal, napi több utcai takarítással. A magasan urbanizált városrészek közterületein főszabály szerint tilos lesz a dohányzás, de közmegegyezéses alapon kijelölthetőek dohányzóhelyek, -területek.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A megfizethetetlen városi ingatlanokból kiszorultak a független kulturális műhelyek, az eredeti gondolatok, a kreatív közösségek. Célunk az élhető városi környezet helyreállítása: egy esztétikus utcákon és tereken zajló, pezsgő, nyitott, szabad kulturális élet. Szép város – gazdag kultúra.
 
@@ -22,7 +22,9 @@ Hadat üzenünk a göngyölegnek. Megpróbáljuk jogszerű eszközökkel kiszor�
 
 Támogatjuk az alternatív filmforgalmazókat és a konzumfilmeket ömlesztő multiplexek által kiszorított művészmozikat, hogy a világ filmművészetének legjava ismét eljusson Budapestre. Támogatjuk az állandó és független színtársulatokat kiegyensúlyozott működésük és repertoárjuk művészi színvonalának emelése érdekében. A Terror Házával szemközt korrupciótörténeti múzeumot alapítunk Tolvajlás Háza néven, amelynek célja az ezeréves és egyre súlyosbodó magyar korrupció bemutatása és történeti áttekintése.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Globálisan jellemző kihívás lett a XXI. században, hogy nagyvárosainkban több százezren tartózkodunk ugyanabban a földrajzi térben, de bioritmusunk és életvitelünk nagyban eltérhet. Budapest a nap 24 órájában nyitva áll, mert a benne élők eltérő időben dolgoznak, esznek, vásárolnak vagy sportolnak. Ez egy olyan rugalmas szemléletet követel meg, amire képtelenek a tollukat 16 órakor ujjaik közül kiejtő bürokraták. Kreatív és folyamatosan változó közeg sugározza a „budapesti lét” érzetét, amit csak aránytalanul nagy ártalmakkal lehet az Aczél György három T-jét idéző kerületi tiltó rendeletekkel szabályozni.
 

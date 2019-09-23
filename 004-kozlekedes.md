@@ -1,8 +1,6 @@
-# 4. FEJEZET
+# KÖZLEKEDÉS
 
-## KÖZLEKEDÉS
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Biztonságos, tiszta és jól használható tömegközlekedést teremtünk, mert ehhez nem szükségesek gigaberuházások. Az egyedül utazó nők ne féljenek buszra szállni, a belvárosi bankároknak ne legyen ciki, a kerekesszékkel közlekedőnek ne legyen lehetetlen tömegközlekedni. A szolgáltatás minőségének (pl. a követési sűrűségnek) mindenhol a használhatósági minimum felett kell maradnia.
 2. A központi sétálózóna mellett kisebb kerületi autómentes alközpontokat is tervezünk, újra megtöltve élettel a tereket. A tömegközlekedés, a mentők, a tűzoltók, az áruszállítás, a mozgáskorlátozottak hozzáférése, valamint részben a taxiközlekedés nyilván megmarad a sétálózónákban is.
@@ -10,7 +8,9 @@
 4. Parkolni is lehet majd, de az agglomerációval szövetkezve a cél az lesz, hogy egyre távolabb a belvárostól: a kocsik legfeljebb a legközelebbi vasútállomásig, buszvégállomásig menjenek (P+R).
 5. A közlekedési hálózat hosszabb távú és igazi megújulásának alapjaként egy rövid távú (öt plusz öt éves, számonkérhető) kötöttpályás fejlesztési csomagot vállalunk, amely túlduzzasztott óriásberuházások helyett sok, karcsúsított fejlesztést tartalmaz, és így alkalmas arra, hogy minden városrész számára érdemi előrelépéssel kecsegtessen.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 Budapest Európa egyik legszennyezettebb levegőjű metropolisza. A szén-dioxidot megkötő, oxigént kilélegző fákat kivágják, mert kell a hely a parkoló autóknak és az épülő üzletházaknak. A városközpontok forgalmi csomópontokká alakulnak, amelyek a tömeges áthaladást szolgálják – a helybeliek a közös terekről növekvő ütemben kiszorulnak. A gépkocsiáradat mégis csigatempóban araszol: a járművek nem tudnak haladni egymástól a csúcsforgalomban, az úthálózat harminc százalékát parkoló autók foglalják el.
 
@@ -20,7 +20,9 @@ Az elérhető fejlesztési forrásokat összpontosítsuk a tömegközlekedés, e
 
 A szemléletváltáshoz hozzátartozik a szakmai törekvések gyökeres átalakítása. A közlekedésfejlesztés a mi érdekeinket kell, hogy szolgálja, s emiatt csak a legcélszerűbb, leghatékonyabb, tipikusan kis beruházással nagy értéket teremtő tételekre korlátozódik: ami felesleges, vagy már csak keveset tesz hozzá a fejlesztés értékéhez, azt (első körben) nem építjük meg. Ne feledjük, nemcsak haladni kell a korral, de több évtizednyi haladást kell egy ugrással bepótolni!
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Ma Budapest közlekedése mély válságban van. Sokan hárítják ezt el azzal, hogy a tömegközlekedési hálózat még világszínvonalú, azonban látni kell, hogy még ha ez is a helyzet, a tendencia akkor is egyértelmű. A XX. század derekának mennyiségi szemlélete, mely a busz- és a metró fejlesztése mellett elsősorban a villamosközlekedést tizedelte meg, nálunk tulajdonképpen a kétezres évek végéig, illetve részben későbbig is kitartott. Ezzel párhuzamosan és szoros összefüggésben a felszabaduló útfelületek a mindent elnyelő autózás martalékává lettek.
 
