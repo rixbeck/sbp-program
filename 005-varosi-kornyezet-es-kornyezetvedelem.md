@@ -55,6 +55,7 @@ Az Fővárosi Közterület-fenntartó Nonprofit Zrt. (FKF ZRt.) 2015ben több mi
 Ez a 2015-ös adattal számolva évente majdnem 300 kg [válogatatlan szemetet jelent fejenként][#ref005-2], ami óriási mennyiség, és ebben a gazdasági szereplők kibocsátása teljes mértékben nincs is benne. Ezen radikálisan változtatni kell. A fővárosra és az egész agglomerációra kiterjedő szemétcsökkentési programot tervezünk indítani, aminek keretében a hulladék lerakását minimalizáljuk (az első ciklus végéig megszüntetjük), és jelentős égetőkapacitásokat szabadítunk fel. Az ötödik év végére az égető kapacitása a teljes agglomeráció számára elegendő lesz.
 
 A program alapját egy átfogó, összehangolt tájékoztató kampány képezi, amelyben a hulladékcsökkentés módjáról, tervezett üteméről, és az újrahasznosítás lehetőségeiről tájékoztatjuk a lakosságot. A háztartási hulladék összmennyiségének csökkentését az alábbi három eszköz megfelelő összehangolásával tervezzük elérni:
+
 * célzott kommunikáció,
 * szabályozás és ösztönzés,
 * ellenőrzés és szankcionálás.
@@ -273,6 +274,7 @@ A program igényeit az első ciklusban felmérjük, évenként meghatározott sz
 ## Zaj-, rezgés- és fényszennyezés
 
 A különféle technológiai rendszerekből nem anyagok (hanem energia) formájában kiáramló szennyezést képviseli a zaj-, a rezgés- és a fényszennyezés. Ezek közül a főváros egyik legnagyobb környezeti problémája a jelentős zaj- és rezgésterheltség, amely jellemzően a [közlekedési létesítmények][#ref005-43] mentén keletkezik. Jelentős zajterheléssel érintett a lakosság több mint kétharmada. A terhelés a levegőszennyezéssel szinte tökéletes párhuzamban az alábbi eszközökkel csökkenthető:
+
 * Forgalomkorlátozás a központi sétálózóna és a külvárosi zónák kijelölése révén, a központi zónát körülölelő behajtási zóna segítségével, illetve egyedi intézkedésekkel.
 * Tömegközlekedési fejlesztések általában (kapacitásnövelés az autóforgalom helyett, halkabb elektromos buszok, önjáró trolik beszerzése).
 * Pályakorszerűsítés, pályaátépítés (elsősorban vasúti, de közúti is).
@@ -333,3 +335,4 @@ A fényszennyezés esetében még ki kell emelni, hogy nemcsak pazarlás, de sz�
 [#ref005-43]: # "Budapest2030, p. 112"
 [#ref005-44]: https://www.kemma.hu/kozelet/helyi-kozelet/tata-buszkelehet-tuzijatek-helyett-vadludak-1350082/ "Tata városa 2018-tól az újévi tűzijátékot betiltotta a vadludak elviselhetetlen zavarása miatt."
 [#ref005-45]: https://atlatszo.hu/2017/06/15/vesztesre-allnak-a-kornyekbeliek-a-ferihegyi-repuloterrel-vivott-harcban-elviselhetetlen-a-zajszennyezes/
+

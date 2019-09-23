@@ -121,6 +121,7 @@ A fentieknek megfelelően úgy látjuk, hogy a közbeszerzési eljárások tiszt
 Magyarországi közbeszerzésekben gyakorlatilag senki nem alkalmazza tudatosan a környezetvédelmi szempontokat, bár a jogszabályi feltételek teljes mértékben [adottak][#ref001-8]. A Fővárosi Önkormányzat a korábbiakban próbajelleggel ugyan alkalmazott már egy-két közbeszerzési eljárásában környezettudatossági szempontokat, de ezeket nem alkalmazza általános jelleggel és megfelelő tudatossággal a beszerzései megvalósítása során. Ezek az eszközök az alábbiak lehetnek:
 
 Az ajánlattevők ajánlatának értékelése során érvényesíthető környezetvédelmi szempontok:
+
 * Az avulás, fogyasztás, karbantartási igény figyelembevétele,
     * a keletkező hulladékmennyiség és az ártalmatlanítási költségek, környezetterhelés figyelembevétele,
     * újrahasznosítható anyagok használata,
@@ -218,3 +219,4 @@ irányelvrendszert adja meg követendőként."
 "Pl. ebben az esetben került elő a testkamera felvétele mint tisztázó körülmény"
 [#ref001-18]: https://www.unodc.org/docs/treatment/Reducing_the_Adverse_Health_and_Social_Consequences_of_Abuse.pdf
 [#ref001-19]: https://maps.london.gov.uk/ldd/
+
