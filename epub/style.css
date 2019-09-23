@@ -109,7 +109,7 @@ dd {
 /*===Body Presentation and Margins===*/
 /* Text alignment is still a matter of debate. Feel free to change to text-align: left; */
 body {
-    text-align: justify;
+    text-align: left;
     line-height: 120%;
 }
 
@@ -393,4 +393,21 @@ p {
 /* used for strings in code when using HTML */
 span.st {
     text-decoration: initial;
+}
+
+
+img {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+/* Cover */
+
+#cover-image {
+    text-align: center;
+}
+
+#cover-image img {
+    width: 80% !important;
 }

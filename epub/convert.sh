@@ -25,4 +25,4 @@ FILES=(\
         $DIR/meta.yaml
      )
 
-echo "${FILES[@]}" | xargs pandoc --toc --css=$DIR/style.css  --number-sections --top-level-division=chapter -s -o $OUTPUT
+echo "${FILES[@]}" | xargs pandoc --toc --epub-stylesheet=style.css --data-dir=$DIR --number-sections --top-level-division=chapter -s -o $OUTPUT
