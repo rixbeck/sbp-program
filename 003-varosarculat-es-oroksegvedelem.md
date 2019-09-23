@@ -1,8 +1,6 @@
-# 3. FEJEZET
+# VÁROSARCULAT ÉS ÖRÖKSÉGVÉDELEM
 
-## VÁROSARCULAT ÉS ÖRÖKSÉGVÉDELEM
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Emberközpontú város. Célunk, hogy az emberek szeressenek Budapesten élni, minden célcsoport megtalálja a maga helyét és közösségét, ahol otthon érezheti magát.
 2. Közös, jól sétálható terek. Az autóforgalom korlátozása által felszabaduló sétálóutcákat nem csak gyalogosközlekedési zónaként hasznosítjuk. Közösségi térként kezeljük őket, a rájuk kerülő funkcióról pedig a helyi lakóközösség dönt.
@@ -10,7 +8,9 @@
 4. Műemlék-diagnosztikai rendszert szervezünk a műemléki épületek tervszerű, megelőző karbantartására. Alapos és szigorú, de befektetőbarát, kiszámítható és független műemlékvédelmet alakítunk ki.
 5. Közvetlen kapcsolat a Dunával. Törekszünk a város és a Duna kapcsolatának megteremtésére, a folyó használatának biztosítására a városlakók számára.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A Sétáló Budapest lakói olyan emberek, akik örülnek, ha az utcán ismerőseiket köszönthetik, és szívesen elegyednek velük beszélgetésbe – akár közügyekről is. A demokrácia szerintük nem a választók többségére hivatkozó politikusok önkényuralma, hanem a közösségek önrendelkezése. Ahhoz azonban, hogy saját sorsunkról magunk határozzunk, előbb szót kellene értenünk egymással, ahhoz pedig, hogy meghalljuk egymás szavát, némi csend kellene.
 
@@ -22,7 +22,9 @@ Maradjanak a fák a Városligetben, a Nemzeti Galéria maradjon a budai Várban,
 
 Toronyházakra Budapesten nincs semmi szükség. A Mol irodaháza a Kopaszi-gáton a tervezett formában csak újabb sebet ejt a városon. Tegyük láthatóvá a várost! Szorítsuk vissza az utcaképet elcsúfító kereskedelmi és kormányzati reklámözönt! Hozzunk rendeletet az óriásplakátok ellen! Budapest négy dimenzióban: a város negyedik dimenziója a történelem. Köztereinket és a közgondolkodást igyekszünk megtisztítani az emlékezetpolitika hazugságaitól. Bibó Istvánról, Pilinszky Jánosról és az ötvenhatos parancsnokokról, Angyal Istvánról és Szabó Jánosról viszont utcát, teret nevezünk el.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Budapest térszervezése mára korszerűtlenné és elavulttá vált. A város a XX. században mindent megtett, hogy a rohamosan növekvő gépjárműforgalmat kiszolgálja, ezzel párhuzamosan a gyalogosok igényei egyre inkább háttérbe szorultak. Az embereket megfosztották a közösségformáló, találkozásoknak helyet adó terektől. A budapesti közterek szűkösek, jelentős rajtuk a lég- és zajszennyezettség, illetve magas baleseti kockázattal terheltek. E helyzet nem csupán a városlakók egészségét károsítja, hanem társas kapcsolataikat is, hozzájárul az egymástól és környezetüktől való elidegenedéshez.
 

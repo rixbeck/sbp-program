@@ -1,8 +1,6 @@
-# 9. FEJEZET
+# SZOCIÁLIS ELLÁTÁSOK ÉS EGÉSZSÉGÜGY
 
-## SZOCIÁLIS ELLÁTÁSOK ÉS EGÉSZSÉGÜGY
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Kerületközi együttműködéseket alakítunk ki a helyi rendelőintézetek hatékonysága és a háziorvosi ellátás minőségének javítása érdekében: ha egy szakellátás helyben nem megtalálható, vagy a szomszéd kerület rendelője közelebb van, miért ne mehetne a szomszédba a beteg?
 2. Összfővárosi szinten egységes előjegyzési és betegirányító rendszert létesítünk, ami odafigyel a mentális segítséget vagy szociális munkát igénylők irányítására és az optimális erőforrás-elosztásra is.
@@ -10,7 +8,9 @@
 4. A kormányzati támogatáspolitika még gyorsabb leépítése miatt jelentőssé vált önkormányzati pénzbeli segélyek elosztását finomítjuk, hatékonyabbá tesszük, értéküket legalább megőrizzük, és intenzívebb személyes odafigyeléssel (szociális munkával, közösségépítéssel) egészítjük ki.
 5. A szegényebbeken különösen segít a más területeken említett újrafelhasználási és adományboltok, repairer shopok, közösségi lakásfelújítások támogatása, befogadása.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A Sétáló Budapest emberközpontúsága elsősorban azt jelenti, hogy ennek a városnak szüksége van minden polgárára. Ez a szorult helyzetben levőkre, a betegekre és azokra is igaz, akik ezen polgárainkról gondoskodnak. Senkire sem teherként tekintünk, hanem olyan embertársunkként, aki megérdemli a segítséget, ha szüksége van rá, és a jövőben talán ő maga fog másokon segíteni.
 
@@ -20,7 +20,9 @@ Az egészségügy önkormányzati kézben maradt részének is egységesebbnek k
 
 Egészségpolitikánk lényege a betegségek megelőzése. Az egészségügyből kispórolt milliárdokkal sajnos nem a városvezetés rendelkezik – ami azonban rajtunk múlik, azt megtesszük a budapestiek egészsége érdekében. A kétmilliós főváros akaratát – ha lesz, aki képviselje – a kormány sem hagyhatja figyelmen kívül. Megpróbáljuk elérni, hogy a stadionépítésre és a professzionális sportágak érdektelen és teljesítmény nélküli gladiátorviadalaira szánt milliárdokból a jövőben a városlakók sportolási lehetőségei bővüljenek, és egészséges városi környezet létesüljön.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Világosan látható, hogy a jelenlegi kormányzat az ország fejlesztését úgy képzeli el, hogy míg a viszonylag alacsony hozzáadott értéket termelő, és ezért könnyen telepíthető (összeszerelő-) ipar számára a munkaügyi és egyéb szabályok lazításával, akár állami támogatással teszi vonzóvá az országot, addig az olyan úri huncutságokra, mint az emberek egészségi állapota, a szegénység elleni harc vagy az oktatásügy, „egy kis időre” (vagy talán örökre?) nem kell odafigyelni.
 

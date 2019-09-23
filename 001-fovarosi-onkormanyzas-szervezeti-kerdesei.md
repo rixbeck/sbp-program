@@ -1,8 +1,6 @@
-# 1. FEJEZET
+# A FŐVÁROSI ÖNKORMÁNYZÁS ÖNKORMÁNYZÁS SZERVEZETI KÉRDÉSEI
 
-## A FŐVÁROSI ÖNKORMÁNYZÁS ÖNKORMÁNYZÁS SZERVEZETI KÉRDÉSEI
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. A mesterségesen szított ellentéteket félretéve, agglomerációs önkormányzati társulást alapítunk, aminek keretei között a főváros, a kerületek és az elővárosok együtt, egymás felé nyitottan intézik a közös ügyeiket.
 2. Minden önkormányzati pénzügyet teljesen átláthatóvá teszünk, ténylegesen és gyorsan kereshető közbeszerzési adatbázisokat, szerződéstárakat teszünk közzé. A közbeszerzési eljárások során a „zöld közbeszerzés” alapelveit és előírásait tekintjük irányadónak.
@@ -10,7 +8,9 @@
 4. A közösségi feladatvégzés és önszerveződő kormányzás egyéb módjait (pl. köztisztasági programok, részvételi tervezés és költségvetés) is segítjük. A döntéselőkészítést a polgárok, a civilszervezetek és az ellenzékünk felé is kinyitjuk.
 5. Drága informatikai beszerzések, látszatfejlesztések helyett az e-közigazgatás különlegességből alapelvvé válik. Legelső lépésként a létező mobilos, internetes ügyintézések, fizetések felárait eltöröljük.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A Sétáló Budapest emberközpontú és zöld szemlélete az önkormányzás szervezetében elsősorban úgy jelenik meg, hogy az öncélú jelenségeket, a titkolózást, a mesterséges szervezeti széttagolódottságot, valamint a polgárok világától való elkülönülést felszámoljuk. Soha többé öncélú önkormányzatokat! Budapest nem létezhet a saját kerületei és az agglomeráció nélkül. Csakis a közös akaraton és együttműködésen alapuló közös munka javíthat a mai helyzeten – ez viszont ma is lehetséges lenne, törvénymódosítás nem kell hozzá.
 
@@ -22,7 +22,9 @@ Az Európai Unió nemcsak országok uniója, hanem régióké és városoké is 
 
 A közélet tisztasága mellett a közterületek tisztaságára, az egész város biztonságára is odafigyelünk. A növekvő jelenlétű önkormányzati rendészetek biztosítják azt a biztonságérzetet, amire a lakosságnak az élhető városhoz éjjel-nappal szüksége van. Ugyanúgy, ahogy az önkormányzat átláthatósága biztosítja, hogy a városházán se harapózzék el a politikusok deviáns magatartása, a korrupció.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 Nemcsak a budapesti agglomeráció, hanem maga Budapest is szenved attól, hogy önkormányzati rendszere széttöredezett, mesterségesen létrehozott és mélyített ellentétek is szabdalják. Így ami összetartozik, az nem tartozik közös irányítás alá; az egymásra utalt és egymás fejlődésére döntő hatással levő települések, településrészek élete egymástól független, egymásnak akár ellentmondó stratégiák mentén alakul.
 

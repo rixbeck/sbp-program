@@ -1,8 +1,6 @@
-# 10. FEJEZET
+# OKTATÁSÜGY, IFJÚSÁGPOLITIKA 
 
-## OKTATÁSÜGY, IFJÚSÁGPOLITIKA 
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Az önkormányzatok kezében maradt bölcsőde- és óvodahálózatot egységes szemléletben kezeljük, és a magán- és alapítványi intézményekkel is kooperálva bennük minden jelentkezőnek elég férőhelyet alakítunk ki.
 2. A még szintén önkormányzati felügyelet alatt levő gyermek- és családvédelmet megerősítjük; jelenlétüket erősítjük a nem önkormányzati közoktatási intézményekben is.
@@ -10,7 +8,9 @@
 4. A lakhatási problémák körében kiemelt figyelmet szentelünk az albérletet vagy kollégiumi elhelyezést igénylő diákok, pályakezdők, illetve a fiatal családok problémáinak.
 5. Egy-egy kerületben oktatási kerekasztalokat szervezünk, ahol az önkormányzati, az államosított és az egyéb fenntartójú közoktatási intézmények, a gyermekvédelem, az e területen aktív civilszervezetek, valamint a helyi szülők együttműködésében alakíthatóak ki olyan közös stratégiák, mint például praktikus, korszerű oktatási tartalmak megjelenítése (fenntarthatóságra, demokráciára nevelés), vagy gyermekjóléti programok.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 Az oktatásügy mindennek az alfája és ómegája. Nem az határozza meg a főváros vagy az ország jövőjét, hogy ma mennyi betont öntünk ki, milyen szabályokat hozunk, vagy mennyi pénzt osztogatunk ennek-annak. Nyilván ezeknek is van hatásuk a jövőre, de magát a jövőt az határozza meg, hogy az emberek, a felnövekvő generációk fejében mi van; a jövő olyan lesz, amilyennek az éppen aktív korosztály az általa tanultak alapján alakítja. Ezt bizonyítja a háborúban lerombolt fejlett társadalmak gyors felépülése, és sajnos ezt bizonyítja a szürkeállományukat nem fejlesztő társadalmak számos felzárkózási kudarca.
 
@@ -20,7 +20,9 @@ A közoktatási rendszer egyetlen önkormányzati kézben maradt darabjából, a
 
 A fiatal felnőttkorba lépett, intenzív kultúrafogyasztó („bulizó”), egyetemista, pályakezdő, lakáskereső, majd kisgyerekes, fiatal családos polgáraink kezét sem engedjük el. Nekik mind-mind kiemelt helyük van a saját magát újratermelő és egyre egészségesebb, egyre erősebb budapesti társadalomban. Kulcsfontosságú, hogy a lakhatástól a közösségekig megtalálják a városban mindazt, ami hozzásegíti őket álmaik beteljesítéséhez.
 
-### Bevezetés
+---
+
+**Bevezetés**
 
 A szociálpolitikai és egészségügyi fejezet bevezetésének konklúzióját itt is felidézhetjük: a kormányzat a nemzetközi gazdaságban a lefelé versenyzés stratégiáját választotta, és ehhez tudatosan a szükséges minimumra szorította a humánszféra költségvetését. Így került maradékelvre az ágazatok legfontosabbika, az oktatásügy is. Az önkormányzatok megmaradt hatásköreivel, amelyek lényegében a bölcsődére, óvodára, illetve a gyermekneveléssel határos szociális ellátásokra korlátozódnak, rendkívül nehéz ezen az ártalmas, társadalomellenes stratégián változtatni. Azzal, hogy a közoktatás 2012-ben kikerült a helyi önkormányzatok hatásköréből, rögtön távolabb is került a helyi társadalomtól, a helyi közélettől – rögtön a lehetséges maximális központosítással kezdve –, és ez tovább nehezítette az oktatási szereplők (fenntartó, pedagógusok, szülők, helyi társadalom, és maguk a gyerekek) közti, sokszor addig sem olajozottan működő párbeszédet, a közös aktivitást. Ezzel párhuzamosan, noha az oktatással kapcsolatos civil aktivitásra mindig nagy szükség van, és azelőtt is segíteni, fokozni kellett volna, ezen a területen is jelentős leépülés következett be. Ehhez hozzájárult nemcsak az oktatásügy háttérbe szorulása és a centralizáció, hanem a civil aktivitással szemben felkorbácsolt gyanakvás és a vele kapcsolatos nemtörődömség is.
 

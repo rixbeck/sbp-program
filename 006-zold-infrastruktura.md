@@ -1,8 +1,6 @@
-# 6. FEJEZET
+# ZÖLD INFRASTRUKTÚRA
 
-## ZÖLD INFRASTRUKTÚRA
-
-### AZ ÖT ALAPELV
+**AZ ÖT ALAPELV**
 
 1. Hőszigetek helyett zöld szigetek – a zöldfelület érdemi növelése a belső kerületekben; a parkoló autók helyére fasorok, zöld sávok kialakítása. Zöld homlokzatok és zöldtetők kialakítása, a belső udvarok zöldítése.
 2. Valódi zöld és kék infrastruktúra kialakítása a fővárosban a meglévő zöld szigetek, zöld sávok összekapcsolásával, a hiányzó ökológiai kapcsolatok helyreállításával, az élővizek rehabilitációjával és bekapcsolásával.
@@ -10,7 +8,9 @@
 4. A „zöldszivárgás” megszüntetése. Új építések és felújítások során a „no net loss” – nulla nettó csökkenés irányelv alkalmazása, a zöldfelületek kiterjedését és minőségét egyaránt jellemző indikátor alapján.
 5. Az őshonos városi növény- és állatvilág aktív védelme az épített környezetben és zöld területeken. Az inváziós fajok kezelési terveinek elkészítése.
 
-### VÍZIÓ
+---
+
+**VÍZIÓ**
 
 A zöldfogyatkozás mértéke Pest megyében máris elviselhetetlen. Megpróbáljuk meggyőzni a Budapest környéki önkormányzatokat, hogy a fővárossal együttműködve hagyjanak fel a beépítésre szánt terület növelésével, ne kótyavetyéljék el településeik jövőjét. Az erdőhatárt átlépő telekalakítást, a zöldterületet csonkító építkezéseket a hatóság minden esetben drákói szigorral és azonnali hatállyal torolja meg! Zárjuk be a kiskapukat, amelyek a jogszabályok „kreatív” alkalmazásával szinte korlátlan lehetőséget biztosítanak az építtetőknek a megengedettnél sűrűbb beépítési hányad kialakítására!
 
@@ -18,7 +18,9 @@ A fák, fasorok, parkok, zöldterületek élvezzenek feltétlen védelmet; a fő
 
 Azáltal, hogy – lokálisan és globálisan – életünk fenntartásának alapfeltétele a zöld növényzet és a rá alapuló élő társulások egészsége és jelenléte, minden zöldfelület, minden fa egy kicsit köztulajdonná, a közérdek szolgálójává válik. Emiatt a városban mindenképpen szükség van arra, hogy még a magánterületen álló fákat, a magánterületi zöldet is védjük, hiszen elpusztításuk hatásai nem fognak megállni a kerítésnél. Gondoskodnunk kell arról a tudatformálásról, szemléletfejlesztésről, illetve azokról a szabályokról, amelyek lehetővé teszik, hogy a teljes városi zöld infrastruktúrát a teljes városi közösség védje és felelősen gyarapítsa. Minden kerületben támogatjuk közösségi kertek kialakítását is. Fontos szerepet tölthetnek be a közösségépítésben, a város zöldítésében és a szabadidő aktív, kreatív eltöltésében.
 
-### Bevezetés és problémafelvetés
+---
+
+**Bevezetés és problémafelvetés**
 
 A zöld infrastruktúra a város élő szövete; a természetes és természetközeli területek, fasorok, egyéb biológiailag aktív felületek és térszerkezeti elemek: zöldtetők, és zöld falak, valamint az állóvizek és vízfolyások alkotta – ideális esetben – összefüggő, tudatosan fenntartott és fejlesztett hálózat. A városi zöld infrastruktúra kapcsolatot teremt a város környezetében található természeti területekkel, bekapcsolja a települést az ökológiai hálózatba, azaz: ökológiai értelemben is átjárhatóvá teszi azt.
 
