@@ -128,3 +128,4 @@ fogja azokét, akik a fizetős rendszerből jönnek át az önkormányzati rends
 [#ref010-18]: https://bagazs.org/2018/11/16/dizajnerdrogok-a-szegregatumokban-konferencia/
 [#ref010-19]: https://index.hu/belfold/2018/07/04/nem_megoldas_a_hos_utcai_getto_felszamolasa/
 [#ref010-20]: http://jelenlet.maltai.hu/
+

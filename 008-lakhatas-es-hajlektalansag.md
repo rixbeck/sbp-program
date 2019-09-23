@@ -43,6 +43,7 @@ A rövid távon (egy, esetleg két önkormányzati ciklus alatt) megvalósíthat
 ### Tőkekímélő módszerek
 
 Mivel a főváros és a kerületek anyagi mozgástere a bérlakásépítésben is rendkívül korlátozott, az állomány bővítéséhez a különféle tőkekímélő módszereket kell vizsgálni.
+
 * Bérlakásépítés önkormányzati vállalkozásként, de banki hitelből (az önkormányzat jó hitelképességére építve).
 * Ez csak egy elméletileg jó megoldás, a jelen helyzetben (az önkormányzatok nehezen adósodhatnak el jobban, és nem is jó vagyongazdák önmagukban) kerüljük.
 * A fentinek kis módosítása: hitelgarancia nyújtása a fejlesztők számára (szintén az önkormányzat hitelképességére építve), cserében az önkormányzat részesedést kap az épülő állományból.
@@ -153,6 +154,7 @@ Nem túl kétséges, hogy ezek a jó gyakorlatok a kisebb ágyszámú szobákat,
 A hajléktalan párok a szállókon jelenleg nem lehetnek együtt, ezért jellemzően alternatív megoldást keresnek. A szállók átmeneti jobbá tételében erre is figyelni kell, azonban már ennél hamarabb is meg kell oldani a problémájukat. Erre szolgálhat az elhelyezésük akár más önkormányzati ingatlanokban kialakított átmeneti szálláshelyeken. Ez például az ott dolgozókat is érzékenyíti, segíti az épületeket 0-24 órás használatát, segíti az elhelyezettek integrációját. Fel kell mérni, hogy ez műszakilag hol lehetséges; hol lehet egyáltalán független bejutást biztosít egy vizesblokkal szerelt, leválasztott részhez.
 
 Végül a fenti intézkedések alapjaként, illetve azok előtt, a szállók élhetővé tételéhez legalább az alábbi strukturális intézkedéseknek meg kell történniük:
+
 * a minimálisan szükséges infrastruktúra kialakítása, megóvásának és fenntartásának biztosítása;
 * megfelelő számú szakképesített ember alkalmazása (szociális munkás, orvos, pszichológus – ahogy a szociális ellátásokról és az egészségügyről szóló fejezetben említettük, e szakmák megbecsülését, illetve egységes működésüket, regenerációs képességüket, a kiégés elleni védelmet is szem előtt kell tartani);
 * társhatósági, illetve benti közösségi (!) intézkedések a személy- és vagyonbiztonság érdekében.
@@ -172,6 +174,7 @@ Az önálló lakhatást érzelmi és technikai értelemben kimerítő elhelyezé
 Az intézményrendszerben levő hajléktalanok tényleges lakhatását (egy olyan személyes élettér létrehozását, amelyikben maguk lehetnek) minimálisan a szobákra (6–8 m2) osztott nagy szállók jelenthetik. Ezekben a konyha és a mosdó közös használatú, de már kinek-kinek van olyan szobája, amit magára zárhat.
 
 Ennél feljebb szociális bérlakásokba lehet fellépni, azonban mivel ezekből kevés van, a hajléktalanok számára vizsgálni kell minden olyan lehetőséget, ami esetleg a „szokásos” szociális bérlakások színvonalát még nem éri el, de a lakhatást alapvetően biztosítja:
+
 * vizsgálni kell, hogy az önkormányzati bérlakásállomány legleromlottabb darabjait, amelyeket ma a kerületek tipikusan megszüntetnek (szanálnak vagy eladnak), lehetséges-e a hajléktalanok számára megmenteni;
 * elhagyott létesítmények (pl. [pillanatnyilag kihasználatlan volt szovjet laktanyák][#ref008-27]) akár időleges hasznosítása lakótelepként;
 * [konténerház][#ref008-28], [lakódoboz][#ref008-29];
@@ -200,6 +203,7 @@ Utolsóként, de messze nem utolsósorban említjük a [hajléktalanság megelő
 Ez a stratégia és célrendszer nagy részben átfed a teljes szociális rendszer feladatrendszerével, hiszen látnunk kell, hogy a legtöbb probléma, amely végül a hajléktalansághoz is elvezet, nem az „átlagemberektől”, a „normális emberektől” távoli emberek specifikus problémája, hanem olyan bajok (anyagi problémák, eladósodás, káros szenvedélyek, a munkavállalás problémái, családi viszályok, pszichés problémák, vagy akár a személyiség válsága) együttállása, megerősödése, amelyek kisebb-nagyobb intenzitással mindnyájunkat érinthetnek, érintenek.
 
 A fő célunk tehát, hogy a hajléktalanságból kivezető utak megnyitása mellett az odavezető utakat eltorlaszoljuk. Nyilvánvalóan nehéz feladat a széthullott szociális rendszerben ez is, de ennek érdekében a hajléktalanságot megelőző állapotokat, illetve a hajléktalanság kockázatát leginkább hordozó élethelyzeteket fokozott figyelemmel kell kísérni, és gondos segítséget kell nyújtani. Ilyen segítségek és stratégiai elemek:
+
 * mentálhigiéniás stratégia kidolgozása; robosztus állandó háttérintézmény-rendszer biztosítása (nyilvánvalóan egy nagyon sokba kerülő, de szükséges, a központi kormányzattal közösen elvégzendő feladatról van szó);
 * a biztos háttér mellett akár kampányszerűen önkormányzati rendezvények, konzultációk, problémafeltárások szervezése alapvetően a kritikus csoportok igényeinek felderítésére;
 * a lecsúszásban legtöbbször közrejátszó káros szenvedélyek közösségi feldolgozásának támogatása önkormányzati helyiségek biztosításával (anonim alkoholisták, drogmentes körök);

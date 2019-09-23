@@ -97,6 +97,7 @@ Szűkebben vett értelmezésben az épületek, táblák, hirdetések válthatjá
 Ahogy a Budapest 2030 városfejlesztési koncepció fogalmaz: „a historizmus építészeti stílusegyüttesét tekintve, azaz a neoreneszánsz, a neobarokk, a neoromán és a neogót stílusokban (1860– 1905), a mintegy 12 km2-nyi egységes építészeti együttesével a Földkerekségen a legjelentősebb, világelső”.19
 
 Tágabb értelmezésben a város (arculatilag) legyen
+
 * zöld és élhető,
 * identitásformáló,
 * kortárs és autentikus.
@@ -114,6 +115,7 @@ Fenntartható és zöld Budapestet képzelünk tehát el, ami meglévő értéke
 Egyértelmű, hogy mivel nem minden városrész ugyanolyan, az egyes városrészek arculatának az egyedi identitásokból fakadó részei is vannak. Ezeknek a már-már városmarketing-szintű képződményeknek a legfőbb – de első ránézésre nem legfeltűnőbb! – koncepciózus megjelenései az utcaképben és a városrész esztétikájában a lentebb ismertetett tematikus útvonalak. Ezen túl is azonban szükség van arra, hogy a helyi identitás átitassa a helyi lakók életét, s visszafelé: abból táplálkozzék.
 
 Céljaink:
+
 * Minden felhasználó megtalálhatja a maga helyét – egyenlő esélyeket biztosítunk a különböző referenciacsoportoknak (idősek, családok, fiatalok, gyerekek, juppik stb.) a városhasználatra, mindemellett teret adunk az alulról jövő civil kezdeményezéseknek (pl. Valyo, S39, Lakatlan projekt), melyek a város élhetőségéért tesznek.
 * Kialakuljon egy budapesti helyhez köthető identitás, mely autentikus, ténylegesen a helyi múltból, a helyi kultúrából táplálkozik.
 * Helyi közösségek alakuljanak ki, amelyek erősítik és hordozzák, valamint hosszabb távon majd esetleg alakítják ezt az identitást.
@@ -157,6 +159,7 @@ A védendő épületállomány körének jelentős bővítése mellett mind a fe
 A befektetőbarát örökségvédelem első és legfontosabb alapelve az örökséggazdálkodás kiszámíthatóvá tétele. Jelenleg a legtöbb esetben olyan fokú bizonytalanság jellemzi a magánkezdeményezésű műemléki beruházásokat, hogy a legtöbb befektető inkább elkerüli ezeket, mint belevágjon. Ennek eredménye az, hogy az új funkcióknak új építésű beruházások keretein belül keresik meg a helyét, mintsem felhasználják a meglévő, patinás környezet adta kiváló lehetőségeket. Hosszú távon ez a műemléki környezetek elértéktelenedéséhez vezet, ami senkinek sem jó. Ennek elkerülése érdekében kell kiszámíthatóvá tenni a örökségvédelmi beruházásokat, elősegítve a befektetőket abban, hogy tudják, hol mit lehet, mit nem.
 
 Példák az örökséggazdálkodási szempontú változásokra:
+
 * Az épület állapotát nem, vagy pozitív irányba befolyásoló, de látható társasházi tetőtér-beépítések szigorú tilalmának feloldása a belső városrészekben. Legtöbb esetben egy befektető a társasháztól úgy tudja megvenni- és fejleszteni a tetőteret, ha cserébe valamit felújít (általában a homlokzat, új lift, új gépészet, elektromos hálózat merül fel). Ez a folyamat sok esetben megmentett egy leromlott állapotú házat, ami minden szereplőnek pozitív.
 * A örökségvédelem alatt álló épületek korszerűsítése, ellenállóvá tétele a klímaváltozás hatásaival szemben. Akár zöldtetők, zöldfalak, korszerű épületszigetelés, nyílászárók, napelemek, korszerű hűtési és fűtési rendszerek, valamint csapadékgyűjtők elhelyezésének és engedélyezésének kidolgozása.
 * A műemlékjellegű épületek és terek adaptív újrahasznosítása; a funkcióváltás támogatása aktualitását, relevanciáját vesztett funkcióval bíró területeken, ipari épületek, kihalt közösségi terek újrahasznosítása. Egy érdekes, konkrét példa lenne magának a városházának egy esetleges újrahasznosítása a Főpolgármesteri Hivatal átköltöztetésével, a városfal turisztikai attrakcióként való hozzáférhetővé tételével.
@@ -176,6 +179,7 @@ Sokkal tudatosabb hozzáállása van szükség a polgárok részéről is; ebben
 A flexibilisebb örökségvédelemre, városképvédelemre az utcai infrastrukturális elemek terén is szükség van. Az utcabútorok, felirati rendszerek, portálok, utcai burkolatok is az egységes szemlélet szerint kell, hogy illeszkedjenek a városhoz. Védett környezetben sem lehet azonban minden esetben cél az archaizáló megoldások erőltetése, teret kell adni olyan kortárs megoldásoknak, amelyek a város szemléletének megfelelően reagálnak egy-egy igényre vagy problémára. Ezen törekvéseket szemléleti szinten lehet rögzíteni, nem lehet általánosítani, mert nagyon lokálisak.
 
 Pár példán keresztül próbáljuk illusztrálni ezt:
+
 * A Lánchíd járdájának +80-80 cm-rel való szélesítése vállalható, amennyiben a valóban markáns műemlék összképét nem rontja, s nem eredményezi az eredeti állapot aránytalan sérelmét – főleg miután a ma éppen aktuális [„eredeti állapot”][#ref003-15] sem eredeti.
 * A BKK jegyautomatáit a kerületi önkormányzat tudatosan távol tartja a Vár közterületeitől, miközben a helyben megjelenő utcabútorok, kiszolgálóegységek sem őriznek egységes utcaképet. Ahogy az örökségvédelemnél, itt is egy, az elvek szintjén sokkal szigorúbb (például az utcabútorok terén akár össz-budapesti szintű arculat igényével fellépő), de a gyakorlatban sokkal pragmatikusabb hozzáállásra van szükség.
 * Érdekes példa a Vigadó villamosmegállójának megközelítése, ahol a megállóperonhoz épített második lépcső az utcakép esztétikájának és a védett infrastruktúra szerkezetének sérelme nélkül biztosítható lenne, azonban az utasok életét jelentősen megkönnyítené.
@@ -201,6 +205,7 @@ Az utcai reklámok mértékének korlátozásával, egységesebb szabályozásá
 ### Közterület-használat
 
 A közterület-használat ugyan ideiglenes tevékenység, de városképi jelentősége vitathatatlan. A közterületi látványvédelem különösen fontos a – részben világörökségi területen vagy annak védőzónájában fekvő – belvárosban és a Duna-parton. Ennek hatálya alá eshetnek az említett területen található
+
 * kioszkok (vendéglátó, elárusító) – állandó jellegűek,
 * pavilonok (vendéglátó, elárusító) – ideiglenes (szezonális vagy néhány napos) jellegűek,
 * teraszok (elsősorban vendéglátó) – ideiglenes (szezonális vagy néhány napos) jellegűek,
@@ -215,6 +220,7 @@ A díjszabási kategóriák is zavarosak, nem átfogóan fogalmaznak, ezért nem
 A fenti problémák általános megoldásaként a közterület-foglalásoknál kiemelt figyelmet fordítunk a helyben szükséges gyalogos-keresztmetszet megtartására, valamint a kitelepülések esetében is szigorítjuk a városképi szabályokat. Mindezek mellett a sétálózónában a közterület-foglalási bevételek jelentős megugrásával számolunk. A közterület-foglalásokért felszámított díjban érvényesíteni kívánjuk a város igénybevételének erősségét – itt például a tartós városképi hatást –, illetve a rendszeres, üzleti célú, tervezhető közterület-foglalást áttereljük a piaci ingatlan-bérbeadás területére.
 
 Részletes javaslatok:
+
 * a frekventált területeken minőségi alapon szükséges szűrni a közterület-használatra jelentkezőket, az eddig bevett financiális alap helyett;
 * javasolt a rendezvények idejének összehangolása, például az egyidejűség elkerülése és a zöldterületek rendezvény utáni regenerálódása érdekében;
 * szabályozandó az árnyékolás (napernyő, napvitorla), a függőleges lehatárolás (kordon, virágláda), a dobogó (azaz podeszt), a szőnyeg, a ponyva (mellőzése), a pultok, a hűtőszekrények, a szemetesek, a növényhasználat (a művirág mellőzése) és a bútorzat megjelenése is;
@@ -223,6 +229,7 @@ Részletes javaslatok:
 * javasolt a saját logó, cégér használata, de a rikító színek, az intenzív műanyaghasználat és a fényreklámok kerülése.
 
 A kulturált közterület-használattal kapcsolatban elvárható
+
 * a területhasználat gazdaságossága,
 * a közterületek felesleges terhelésének (zaj, füst, szagok) kerülése,
 * a hulladék, göngyöleg nem közterületen való tárolása,
@@ -236,6 +243,7 @@ Az arculatot nem csupán hirdetések, táblák, homlokzatok formálják. Befoly�
 Mitől lehet egészséges az utca? Maga a fogalom, Lucy Saunders, brit egészségügyi és közlekedési szakértőtől ered. Egy olyan szempontrendszert hozott létre, amely mentén egészségesebb városi környezet hozható létre. Az utcák újratervezése során ezt a szempontrendszert kell érvényesíteni Budapesten is.
 
 A gyakorlatban csak pár pont, hogy mit is jelent az egészséges utca koncepciója:
+
 * biztonságos gyalogátkelőhelyek,
 * tisztességes bicikliutak,
 * a speciális igényűeknek számára is megfelelő infrastruktúra, például látássérülteknek hangjelzéses gyalogátkelő,
@@ -310,3 +318,4 @@ milliós nagyságrendben van, és tipikusan ingyen áll az autósok rendelkezés
 [#ref003-26]: # "E mondvacsinált probléma megoldása a második világháború előtt az volt, hogy a kék sávot zöldre cserélték."
 [#ref003-27]: https://hu.wikipedia.org/wiki/Budapest_z%C3%A1szlaja
 [#ref003-28]: https://epitesijog.hu/magyarazatok/atulajdonjogkorlatai/1300-01-mi-az-a-muemlek
+

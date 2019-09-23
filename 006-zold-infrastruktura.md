@@ -85,6 +85,7 @@ A zfi értéke kerületenként és zónánként eltérő. _„Rendkívül alacso
 A zfi alapvető befolyással van a felszín hőmérsékletére. Az alacsony, 30% alatti zfi-vel rendelkező területek felelősek a leginkább a városi hőszigethatás kialakulásáért. A hőhullámok gyakorisága és időtartama az elmúlt évtizedben mérhetően növekedett, így a légszennyezés mellett ez a paraméter befolyásolja leginkább a városi környezet minőségét.
 
 A zfi értéke egész Budapestre nézve [50% körüli][#ref006-13], ami az elmúlt 20 évben a hibahatáron belül változott, ám a beépített területeken a [zfi csökkenése a jellemző][#ref006-14]. A változások természetét körülbelül így foglalhatjuk össze:
+
 * A zfi csökkenésének fő okai a beépítések és az infrastruktúrafejlesztések. A legnagyobb veszteséget az átmeneti és a kertvárosi zónában a magáncélú beépítések, a lakópark-építések, a pláza- és bevásárlóközpont-építések, illetve az utóbbi években a sportlétesítmények területfoglalásai eredményezték. A csökkenéshez hozzájárul a közcélú városi parkok beépítettségének növekedése, illetve a belvárosi zónában – a zöld rovására – terjedő térkő-sivatagok, amelyek további érzékeny veszteséget jelenthetnek.
 * A zfi növekedéséhez legnagyobb mértékben a felhagyott építkezések és a funkciójukat vesztett barnamezős területek spontán kizöldülése, a lakótelepek körüli parkok fejlődése, valamint – bizarr módon – a nagy kiterjedésű golfpályák kialakítása járult hozzá.
 
@@ -93,6 +94,7 @@ A fentieken túl a fővárosi zöldterületek állapotát a mozaikosság (az ös
 #### Hozzáférhetőség
 
 A zöldfelületekhez való hozzáférhetőség a közcélú zöldfelületek vonzáskörzete alapján határozható meg. A nemzetközi gyakorlatban alkalmazott zöldterület-elérési mutató (accessible natural greenspace standard – ANGSt) az alábbi minimumokat állítja be:
+
 * min. 2 ha zöld terület legyen 300 m-en belül (5 perc sétatávolságban)
 * min. 20 ha 2 km-en belül
 * min. 100 ha 5 km-en belül
@@ -158,6 +160,7 @@ Valódi, összefüggő zöld és kék infrastruktúra kialakítása a fővárosb
 * Zöld gyűrűk kialakítása a város peremén elhelyezkedő zöldfelületek összekapcsolásával, illetve a Városliget, Népliget és Kopaszi-gát összekapcsolásával. Ennek érdekében vasúti rozsdaterületek és barnamezős területek zöld rehabilitálása.
 
 A sétálózóna és a forgalomcsökkentett behajtási díjas zóna további lehetőségeket rejt.
+
 * A sétálózóna zöldítése – a műszaki lehetőségek határáig kitolt zöldfelület-fejlesztés.
 * A behajtási zóna zöldítése – a [parkolóhelyek ritkítása: átlagosan minden harmadik parkolóhelyre faültetés][#ref006-18]; fasorok felújítása; a zónában található zöldterületek, városi parkok rehabilitálása.
 
@@ -262,6 +265,7 @@ Az egész városban természetes, hogy a meglevő fasorok hiányait ki kell pót
 #### Vízfolyások – a kék infrastruktúra vonalas elemei
 
 A nagyobb vonalas elemek közül kiemelkedik a patakvölgyek, patakpartok halmaza. Budapesten hét jelentősebb, természetes [kisvízfolyás-rendszer ömlik a Dunába][#ref006-32]:
+
 * Szilas-patak–Mogyoródi-patak,
 * Rákos-patak,
 * Gyáli-patak,
@@ -313,6 +317,7 @@ Szükség van e löketek enyhítésére, a víz esetleges tisztábbá tételére
 ### A Sétáló Budapest program vállalásai a zöld infrastruktúrával javított csapadékvíz-gazdálkodás terén
 
 A budapesti fenntartható csapadékvíz-gazdálkodás kialakítása érdekében az alábbi zöld (és kék) infrastruktúraelemek kialakítását tervezzük.
+
 * A külső, jellemzően kertvárosias kerületekben és az agglomerációban esővízgyűjtő tárolókat telepítő programot kell indítani, amivel a lakosságnál fog jelentkezni egy pufferkapacitás (lényegében egy szétosztott víztározó), amit az aszályos időszakokban szabadon felhasználhat a növényzet (értsd: a zöld infrastruktúra) öntözésére, a veteményes locsolására stb. Az ennek támogatásához szükséges forrás részben onnan biztosítható, hogy ekkor a szennyvíztisztítókra zúduló záporvizek volumene csökken.
 * A belváros és a külvárosok közti köztes zóna infrastruktúráját legfőképpen a városi zöld infrastruktúra segítségével úgy kell kialakítani, hogy az minél több csapadékot képesek legyen megtartani. A zöldfelületeken keresztülfolyó esővíz tisztul is.
 * Szikkasztó árkok létesítése az erre alkalmas területeken: keskeny, nyitott, beültetett csatorna (árok), mely lefolyást enged a csapadéknak és tisztítja a szennyeződésektől. Ez a megoldás főként olyan helyekre alkalmas ahol elég hely van, így kiváltható a csatorna. A rendszer lassítja a vízfolyást és „megköti” az üledéket – ezáltal javítva a vízminőséget.
@@ -333,6 +338,7 @@ A városi lét 39 százalékkal növeli a hangulati zavarok, a depresszió előf
 ### A Sétáló Budapest program vállalásai a zöld infrastruktúra társadalmi funkcióiért
 
 Egy amerikai kutatás szerint a városlakók elégedettségérzete a következő [várostervezési irányvonalak][#ref006-36] mentén fokozható:
+
 * hatékony közösségi közlekedés és biciklivel biztonságosan bejárható város (részletek a Közlekedés című fejezetben);
 * gyalogosközpontú téralakítás (részletek a közlekedésről, illetve a városarcularól szóló fejezetekben);
 * kulturális és szabadidős tevékenységek hozzáférhetőségének fokozása (részletek az éjszakai gazdaságról, turizmusról, kultúráról szóló fejezetben);
@@ -351,6 +357,7 @@ Szemléletformálási és oktatási célzattal közparkokban, természetvédelmi
 Kiemelt fontosságú a mozgásra, aktív életvitelre motiváló városi megoldások alkalmazása: lépcsőzésre, gyaloglásra, biciklizésre, rollerezésre alkalmas útvonalak; mozgásra inspiráló jelzések, grafikák, utca- és falfestmények; parkokba kihelyezett testmozgásra késztető infrastrukturális elemek; sétaösvények, pl. [Szívösvény][#ref006-41].
 
 Az elmagányosodás, a városi személytelenség ellen több programelemmel is fellépünk:
+
 * több [közösségi kert][#ref006-42] kialakítása a fővárosban, akár a közparkok területén is;
 * iskola- és óvodakertek kiépítése a szülőközösségek bevonásával – lehetőség szerint az intézmények udvarán, ha erre nincs lehetőség, akkor a legközelebbi parkban;
 * lakóközösségek, szomszédságok létrejöttének elősegítése közösségi várostervezési folyamatok generálása révén – célunk, hogy a közösségeket bevonjuk a lakókörnyezetük kialakításába;
@@ -413,6 +420,7 @@ A barnamezős területeket a lehető legnagyobb arányban a zöldfelületi rends
 ## Fenntartható zöldfelület-gazdálkodás
 
 Ahhoz, hogy a főváros fenntarthatóan tudjon gazdálkodni a zöldvagyonnal,
+
 * megfelelő célokra, hozzáállásra,
 * megfelelő szervezeti struktúrára,
 * a használattal és a használókkal való megfelelő kooperációra.
@@ -563,3 +571,4 @@ A stratégiai fejlesztési irányok tekintetében szükséges kiemelni a barname
 [#ref006-58]: # "Lásd a városszerkezeti fejezetet. Ez a napi teendők maximálisan használható elérési távolsága."
 [#ref006-59]: # "Az EB OVO Egyesület saját felmérése 2016-ban szintén ezt az eredményt mutatja; ez az a távolság, amit megtesz egy kutyatartó a szabad lemozgatásra, s ha ez nincs meg, nem kijelölt területet választ."
 [#ref006-60]: https://net.jogtar.hu/jogszabaly?docid=A0100064.TV "2001. évi LXIV. törvény a kulturális örökség védelméről"
+

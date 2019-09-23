@@ -37,6 +37,7 @@ A személyes gondoskodást nyújtó szociális ellátásokról, valamint a pénz
 ### Egységes fővárosi rendszer
 
 Azon a triviális követelésen túl, hogy legyen végre bőkezűbb központi finanszírozás a szociális segélyek mögött, meg kell próbálni a jelen körülmények között is
+
 * egységesebbé és igazságosabbá,
 * átláthatóbbá,
 * automatikussá (nem esetlegessé) és

@@ -227,6 +227,7 @@ Mindez azért fontos, mert azokat, akik ma az autót választják a belvárosba 
 A 2009-ben készült [fővárosi úthasználati díjat elemző tanulmány][#ref004-2] a fenti díjszintek mellett a tömegközlekedésen 6-7%-nyi többletigényt prognosztizált. Ennél mi nagyobb teljesítménynövekedéssel számolunk – egyrészt a sétálózóna kijelölése miatt, másrészt mert a tömegközlekedési hálózat szolgáltatási minőségét a fentiek szellemében radikálisan javítani szeretnénk: kínálati szolgáltatással a periférián, illetve többletben kínált közvetlen kapcsolatokkal a belvárosban, a belváros felé és a külvárosok közt, harántirányban.
 
 Komoly fejlesztéscsomag és színvonalnövelés kell – ezt ki kell mondani –, ezért létkérdés a szakmában egy új szemlélet meghonosítása: a takarékos, de jó fejlesztéseket szabad csak megcsinálni; a túlhízlalt, pazarló és emiatt az „állandó középtávban” létező, majd onnan esetleg véletlenszerűen a megvalósításba leeső óriásprojekteket, a belterjes voluntarizmust és doktrinerséget nem. Ezek alapján a megvalósíthatónak tekintett beruházások ismérve nagy vonalakban az, hogy
+
 * a társadalmi költség-haszon arány legalább kettő (a „szokásos”, szimpla megtérülést jelentő egy helyett),
 * jelentős olcsóbbodást és gyorsabb megvalósulást ígérnek a tervek esetlegesen meglevő alapverzióihoz képest,
 * miközben az időlegesen feladott teljes verziókat nem lehetetlenítik el.
@@ -236,6 +237,7 @@ A fővárosi és agglomerációs hálózat gerincét alkotó gyorsvasúti (metr�
 A villamoshálózat esetében egy átfogó vizsgálat és szintén kiemelkedően hatékony fejlesztések sorozata kell. A fő követelmény itt is a sokkal összefüggőbb és teljesebb hálózat – a belváros jobb elérhetősége és keresztül-kasul utazhatósága végett. A fejlesztéseknek egy speciális részhalmazát képezik egyes hév-vonalak interoperábilis bekötései a villamoshálózatba. Forgalmi-üzemi vizsgálatuk indokolt, mert nem biztos, hogy ez a megfelelő megoldás, ugyanakkor kedvező eredmény esetén jellemzően olcsó, de nagy értékű fejlesztésekről, rövid távon javasolt beavatkozásokról van szó.
 
 Számonkérhető vállaláslistákat alkotunk; ennek jegyében osztjuk fel a fejlesztéseket a kitűzött időtáv és a létjogosultság bizonyossága szerint:
+
 * biztosan öt éven belüli kis fejlesztések,
 * biztosan tíz éven belüli, de lehetőleg az első öt évre előrehozandó nagyobb, de takarékos tételek,
 * a tíz éves látóhatáron túli, de biztos fejlesztések,
@@ -263,6 +265,7 @@ Alapvetően az előzőhöz hasonló státuszú (a hálózati érték növelésé
 Ma Budapesten a villamosközlekedés a [lehetőségekhez képest lassú][#ref004-3], átlagsebesség tekintetében a német városokhoz képest egyértelmű a lemaradás, de még a bonyolult, szűkös belvárossal megáldott Prága hálózatán is gyorsabban lehet haladni. Jellemző adat, hogy míg az érdemi villamoshálózattal működő német városokban (pl. München, Berlin) általában 20 km/h körüli a teljes hálózaton a keringési sebesség átlaga, addig nálunk a leggyorsabb vonal, az 1-es is alig lépi át ezt az értéket, több gerincvonal átlagos sebessége pedig (különösen a 3-asé) botrányos.
 
 A gyorsítás legfontosabb eszközei:
+
 * a szabályozástechnika átgondolása (lámpahangolások),
 * a vasútbiztonsági okokból létező sebességkorlátozások (pl. a váltón való áthaladás sebessége) felülvizsgálata,
 * az engedélyezett maximális sebesség emelése,
@@ -334,18 +337,21 @@ Az egyes fejlesztések rövid leírása:
 Ezek a projektek várhatóan nem férnek bele az első két ciklusba, de megvalósításukat biztosnak ítéljük. Időzítésüknél kulcskérdés a főváros anyagi helyzete, ebben valamelyest segíthetnek például a védett zónában szedett behajtási díjak és az úthasználati díjból befolyó bevételek. Az alább következő projektek tartoznak ebbe a kategóriába.
 
 Gyorsvasúti hálózat:
+
 * Az M3 kijárása a 71. sz. hév-jellegű elővárosi vasútvonalra: egy bújtatásos elágazás építését és új szerelvények beszerzését igényli.
 * Az M4 kivezetése Budaörsre: két fontos változtatást kell eszközölni a mai tervek helyett.
     * A Virágpiac mint külön első ütem értelmetlen, mert szinte semmi mást nem csinál, mint a kelenföldi átszállást arrébb teszi.
     * A lehető legnagyobbrészt felszíni vonalként kell építeni, mivel a megtérülése csak így lehetséges.
 
 Villamoshálózat:
+
 * Pacsirtamező utcai, Szentendrei út eleji villamos.
 * A 2-es villamos északi meghosszabbítása.
 * A 3-as villamos továbbvezetése Csepelről Budára.
 * Villamoshálózatba integrált Fogaskerekű: javasolt fejlesztés, de a költség-haszon aránya alapján rövid távra nem ütemezhető. Ettől függetlenül az ütemezését a Fogaskerekű vonalának állapota is eldöntheti. Külső Bécsi úti villamos: költség-haszon aránya alapján rövid távra nem ütemezhető.
 
 Két vasúti projekt külön kategóriát képvisel, mivel költségeik olyan magasak, hogy a főváros önerőből – a mai viszonyok alapján legalábbis – nem fogja tudni őket kiépíteni, holott hasznosságukhoz (a részletek némi csiszolása után) nem fér kétség:
+
 * Észak-Déli Regionális Gyorsvasút, M5: új, átmérős vonal a szentendrei, a csepeli és a ráckevei hév-vonalak összekötésével a belváros alatt. Rövid távon vállalhatatlanul drága, de mindenképpen hasznos fejlesztés. A jeleneg aktuális tervekben az Astoria és a Flórián tér közti nyomvonal, illetve állomáskiosztás rendkívül elhibázott, felülvizsgálatra van szükség.
 * Nagyvasúti alagút a belváros alatt, használható S-Bahn rendszer: a Déli pályaudvart tartalmazó, Széll Kámán tér felé kitérő vonalvezetésű tervek valószínűleg elhibázottak; ehelyett viszonylag egyenes összeköttetést kell teremteni a Kelenföldi pályaudvar és a Nyugati alatti új állomás között. A megvalósulás jogilag sem a fővárostól függ, a minél előbbi építést üdvözöljük; elősegítjük, ha kell.
 
@@ -378,6 +384,7 @@ Villamoshálózat:
 Számtalan beavatkozást takar, ezért a kerületi anyagokban gyűjtjük a buszhálózat, illetve a menetrendek olyan változtatásait, amelyek a szolgáltatás minőségét a mainál sokkal jobbá teszik. Általában törekedni kell arra, hogy a tömegközlekedés közelebb kerüljön ahhoz, hogy általános mobilitást nyújtson, ne csak a belváros jó vagy éppenséggel tűrhető elérését – azaz a gyengébb irányokon se nyújtson végtelenül rossz kapcsolatokat. Ez a lépés is szükséges ahhoz, hogy a mai autósok nagy tömegeit ültessük át a tömegközlekedésre amellett, hogy ők ezt nem elsősorban kitolásként élik meg.
 
 Ez a szemlélet elsősorban a buszhálózatot érinti, hiszen a gyenge irányokon buszok közlekednek. Ennek a minőségi minimumnak több eleme van:
+
 * Követési minimum (az időbeli lefedettség javítása): a legkiesőbb időszakban (késő este, hétvégén) se legyen a járatkövetési idő egy adott szint felett (első körben a reális érték 20 perc, tehát az önálló szakaszokon 60 és 30 perces követési időszakok szűnjenek meg).
 * Vonalösszekötésekkel, a belváros felé esetlegesen szükséges hosszabbításokkal biztosítjuk, hogy a külvárosok ne csak a nagy átszálló-csomópontokkal, hanem a környékbeli belsőbb alközpontokkal, legalább a tágabb belváros szélével, illetve harántirányban egymással közvetlen összeköttetésbe kerüljenek (a konkrét utazási irányok lefedettségének javítása). Ennek részeként a központo(ko)n átmenő új vonalak kialakítása is szükséges, hogy a szétszabdalt, felesleges átszállásokkal terhelt külvárosi hálózatok összefüggőbbekké váljanak.
 * Ezzel párhuzamosan persze a meglevő közös, illetve gerincszakaszokon a tömegközlekedés részarányának emelkedésével arányos kapacitásnövelésre is szükség van (igazodás az általános utasszám-emelkedéshez).
@@ -508,6 +515,7 @@ Akárhányszor esik szó a közúti közlekedés korlátozásáról – legyen s
 A fentiekből kiindulva mi sem arra teszünk ígéretet, hogy milyen városi logisztikai rendszert, és hogy milyen gyorsan vezetünk be. Első és biztos lépésként a sétálózónákba való behajtás rendszerét úgy alakítjuk ki, hogy ez a mai szállítói struktúrában (nagykereskedelmi és kiskereskedelmi járműflották, alkalmi fuvarozók, illetve postaszolgáltatást végző cégek – egységes struktúra nélkül) is biztosítsa az árumozgást. A díjfizetési zónában az áruszállítók mozgása ugyanolyan szabad lesz, mint most, az pedig egyszerűen kimutatható, hogy a logisztikai költségek útdíj miatti emelkedése elhanyagolható lesz.
 
 Ahogy azonban a tömegközlekedés példája is mutatja, a közforgalmú közlekedési rendszerek a károsanyag-kibocsátás (az elektromos átállás után ez helyben nem kérdés, de globálisan az marad) és a helyfoglalás terén is drasztikus megtakarítást jelentenek. Emiatt stratégiánknak mégiscsak határozottan része az, hogy elkezdjük megvizsgálni egy jövőbeli közforgalmú budapesti logisztikai rendszer létesítésének lehetőségeit, a rendszer várható tulajdonságait, illetve a bevezetés módját. Gondolkodásunkban jelenleg az alábbi tulajdonságokkal felvértezett rendszer áll.
+
 * A városi logisztika igyekszik ahhoz igazodni, hogy a nagy távolságú szállítást leginkább vasúton oldja meg, s így a vasútról való fogadásra, oda való továbbadásra optimalizált. A városban levő, logisztikára is alkalmas pályaudvarok ezért a városi logisztikai rendszer bázisai (e funkció szellemében szóba kerülhet a Józsefvárosi pályaudvar felélesztése is). Nem mellesleg ezek olyan pontjai a városnak (a rozsdazónában), ahol könnyen viszonylag nagy területeket tudunk biztosítani a városi logisztika számára.
 * Amikor ez a logisztikai rendszer már széleskörűen rendelkezésre áll, meg kell találni a hagyományos logisztika városterhelésének olyan szankcionálását (díjfizetés vagy szélsőséges esetben egy-egy tiltás), hogy a városbarátabb közforgalmú rendszer árai is versenyképessé váljanak.
 * Szinte biztos, hogy kezdetben egy kisméretű (kis területre vagy kis szolgáltatáscsoportra kiterjedő, vagy ezek kombinációja), kísérleti rendszert fogunk csak bevezetni. Ilyenkor persze az egyéni logisztika fent említett szankcionálása csak erre a területre vonatkozik. Erre int minket az eddig született, meg nem valósult tervek hosszú sora.
@@ -526,6 +534,7 @@ Víziónk, hogy „kortól, nemtől, lakhelytől függetlenül bárki számára 
 A modern fenntartható város egyik kiemelkedően lényeges eleme a megfelelő állapotban lévő, funkciójának betöltésére alkalmas, összefüggő kerékpárforgalmi hálózat. A kerékpáros infrastruktúrának biztosítania kell a veszélytelen közlekedést, a kedvező megközelíthetőséget és a kerékpártárolás lehetőségét – ezzel kihasználva a kerékpározásban mint közlekedési módban rejlő potenciált. A kerékpározás nagy mértékben történő integrálása a mindennapi közlekedésbe számos előnnyel jár a város felépítésében, szervezetében és környezetében. A károsanyag-kibocsátástól mentes, kis helyigényű, zaj és rezgés szempontjából kedvező, mégis gyors közlekedési forma előnyös mind a közlekedésben résztvevők, mind az adott területen élők számára.
 
 A kerékpáros-infrastruktúra fejlesztésének főbb elemei, összefoglalva:
+
 * a meglévő kerékpárforgalmi úthálózat karbantartása, fejlesztése, bővítése, egységesítése (az olyan kiegészítő elemeket is idevéve, mint például a városi színvonalú közvilágítás),
 * a kül- és belvárost összekötő kerékpárutak építése, a kerékpárhálózat fejlesztése,
 * a közutakon, beleértve hidakon való veszélytelen közlekedés biztosítása,
@@ -533,6 +542,7 @@ A kerékpáros-infrastruktúra fejlesztésének főbb elemei, összefoglalva:
 * biztonságos, rendeltetésükre alkalmas kerékpártárolók telepítése.
 
 A fentieken túl néhány apróbb, de fontos és csak jobb hozzáállást igénylő területen is előrelépést tervezünk:
+
 * rendszeres burkolattisztítás (ősszel levektől, télen hótól, jégtől),
 * roncsbringa-eltüntetés, a biciklitárolók időről időre történő megtisztítása.
 
@@ -607,3 +617,4 @@ Jelenlegi formájában a közforgalmú dunai hajózás nem tölti be a tömegkö
 [#ref004-17]: https://bkk.hu/apps/img/hajo/hajo_mt_i_kotet.pdf, "A BKK hajózási tanulmánya"
 [#ref004-18]: https://bkk.hu/apps/img/hajo/hajo_mt_ii_kotet.pdf "A BKK hajózási tanulmánya"
 [#ref004-19]: https://bkk.hu/apps/img/hajo/hajo_mt_melleklet.pdf "A BKK hajózási tanulmánya"
+

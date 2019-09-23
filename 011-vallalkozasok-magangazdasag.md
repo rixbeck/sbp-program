@@ -124,3 +124,4 @@ Körülményeink világszinten egyedülálló lehetőséget biztosítanak, hogy 
 [#ref011-8]: # "Az elnevezés a „negyedik ipari forradalom” XXI. századiasított neve (az első volt a gépek, a vasút és az ipari munkaszervezés elterjedése, a második az elektrotechnika
 és a közúti gépjárművek forradalma, a harmadik a XX. századi számítógépes forradalom, s a negyedik a mesterséges intelligencia kora)."
 [#ref011-9]: https://dailynewshungary.com/budapest-is-the-fifth-worst-city-for-over-tourism/
+

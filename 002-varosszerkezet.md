@@ -156,6 +156,7 @@ Ez a fajta hozzáállás nemcsak a lakóparkokra lehet igaz, hanem az irodaparko
 ## Barnazóna, rozsdazóna
 
 Az egységes európai barnamező-fogalom meghatározása értelmében barnamezősnek tekintjük azon területeket, amelyekről elmondható, hogy:
+
 * erőteljes – legtöbbször negatív – hatással van rájuk saját, valamint a közvetlen környezetük korábbi hasznosítása,
 * felhagyottak, alulhasznosítottak,
 * vélt vagy valós környezeti szennyezettséggel terheltek,
@@ -171,6 +172,7 @@ A fejezetben felsorolt minden városrésztípusra igaz, hogy a fejlesztési zón
 Budapesten nagyságrendileg összesen 1200 hektárnyi olyan terület tátong a városszövetben, amely nincs megfelelően hasznosítva. Ez akkora kiaknázatlan potenciált jelent a város fejlesztésében, amely önmagában prioritássá teszi ezeknek a területeknek a rehabilitálását. Budapest fenntartható fejlesztési pályára állításához a megoldást az eddig uralkodó extenzív terjeszkedés helyett, mely szétterülővé tette a várost, az intenzív irány jelenti, mely a növekedést nem több erőforrás bevonásával, hanem a meglevők – legfőképpen a terület – hatékonyabb használatával éri el, azaz az adottságokkal való bölcs gazdálkodás által hoz létre új értékeket.
 
 A barnamezős fejlesztések előnyei:
+
 * Kompaktabbá teszik a várost.
 * Megőrzik a város történetiségét.
 * Jelentős, már megépített közműkapacitással rendelkeznek.
