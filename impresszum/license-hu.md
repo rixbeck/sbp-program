@@ -1,4 +1,4 @@
-# Sétáló Budapest 2019 program \(c\) by Állampolgárok a centrumban Egyesület \(01-02-0017105\), Zaránd Pét
+# Jogi nyilatkozat
 
 Sétáló Budapest 2019 program a Creative Commons Attribution-NonCommercial-ShareAlike _\(Nevezd meg!-Ne add el!\)_ 4.0 nemzetközi licensz hatálya alá tartozik.
 
