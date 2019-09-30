@@ -13,7 +13,6 @@
 * [OKTATÁSÜGY, IFJÚSÁGPOLITIKA](010-oktatasugy-ifjusagpolitika.md)
 * [VÁLLALKOZÁSOK, MAGÁNGAZDASÁG](011-vallalkozasok-magangazdasag.md)
 * [Impresszum](impresszum/README.md)
-  * [Tartalomjegyzék](impresszum/index.md)
   * [Jogi nyilatkozat](impresszum/license-hu.md)
   * [Szerzők](impresszum/099-impresszum.md)
 
