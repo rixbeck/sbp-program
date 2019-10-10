@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sétáló Budapest - 2019](README.md)
-* [A FŐVÁROSI ÖNKORMÁNYZÁS ÖNKORMÁNYZÁS SZERVEZETI KÉRDÉSEI](001-fovarosi-onkormanyzas-szervezeti-kerdesei.md)
+* [A FŐVÁROSI ÖNKORMÁNYZÁS SZERVEZETI KÉRDÉSEI](001-fovarosi-onkormanyzas-szervezeti-kerdesei.md)
 * [VÁROSSZERKEZET](002-varosszerkezet.md)
 * [VÁROSARCULAT ÉS ÖRÖKSÉGVÉDELEM](003-varosarculat-es-oroksegvedelem.md)
 * [KÖZLEKEDÉS](004-kozlekedes.md)
